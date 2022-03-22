@@ -1,7 +1,4 @@
----
-title: "trends in web3 product management"
-date: "2022-03-12"
----
+[[moc-product]]
 
 If you haven't subscribed yet to Lenny's Newsletter where he writes all about product management, I would highly recommend you do so.
 
@@ -15,7 +12,7 @@ The TLDR of the article is that doing product in web3 is different than doing pr
 
 For the most part, I'd agree with all those points. They're surprisingly not too dissimilar from many of the things we're taught as traditional product managers.
 
-The art part of doing product has always been heavily reliant on how good your judgement is and if your judgment yields value. That judgment is informed by understanding market trends, sleuthing around in the data, talking to people, and understanding how things are built. Just because you have all the data available doesn't make you bulletproof to shitty decisions. There's something about combining all of that into an almost-prescient sense that makes great product managers.
+The [[art part of doing product]] has always been heavily reliant on how good your judgement is and if your judgment yields value. That judgment is informed by understanding market trends, sleuthing around in the data, talking to people, and understanding how things are built. Just because you have all the data available doesn't make you bulletproof to shitty decisions. There's something about combining all of that into an almost-prescient sense that makes great product managers.
 
 Doing good work in public rather than private is important because it builds trust. It also has the added benefit of exposing your shitty ideas so they become less shitty in a shorter amount of time. Trust has been and will always be a dominant paradigm in web3 that products and people who collaborate together have to get right. If you show your thinking, people have a better understanding of where you're coming from and how you've formed your thoughts. You also make more friends.
 
@@ -35,19 +32,4 @@ To point number two. The blockchain movement is still in its early stages. In my
 
 To the last point. Trust and transparency when coordinating with a community from a bottoms-up perspective is hard. Too many voices can prevail and one can miss the forest for the trees and end up building the wrong things. Quality begins to become an issue. Something as complex and as fickle as community is difficult enough to grow and manage, let alone poll for major product decisions.
 
----
-
-I've had some time after ETH Denver to think about web3 product. In 2022 and beyond, I'm seeing a couple of additional trends that I think will play into how the product role develops in web3. 
-
-One of the trends is a move from engineering being the dominant function in web3 to more design and user experience for the average user. We're catching on to the fact that developers building for developers is one of the reasons why some of these web3 products are so hard to use. This awareness pushes product managers to not only have a better eye for design and the user experience, but to constantly remind themselves that they must do micro-pivots to ensure that the product is being built for the right users, and that it's actually providing some kind of value. It may come to fruition that the role of a designer and the role of a product manager become increasingly similar.
-
-Another trend is the move to more part-time contributions rather than full-time contributions. This is happening alongside the evolution of DAOs and the appearance of new work infrastructures, such as Opolis, which handles payroll for freelancers and has a community governed aspect. More and more workers in web3 are opting to work piecewise on projects they find interesting and for communities they find engaging for different periods of time. Can doing product management work part-time? This is something I'm currently experimenting with, so we'll see if this tree bears fruit.
-
-There's also a growing need for practical, easy applications that can onboard non-native users of crypto to the wonders of the blockchain. As an example, one of the entry points for any chain is the wallet, since that is the first interaction a user will have with transacting on a chain. There are dApps for NFTs, decentralized finance, social media, and much more. All of these should aim to abstract away the complexities of the blockchain and leave users only with the value added benefits of a service, kind of like...web2.
-
-In summary, what does this mean for skill development as product folks delve into the world of web3?
-
-1. Start now on nurturing and developing quality relationships that form the backbone of your community. Continually invest in and grow your community.
-2. Focus on the relationship between you and your designer. Make sure you're testing your designs for understanding and content. Better yet, become a semi-expert yourself in what consists of a good user experience.
-3. Understand that onboarding is precious in web3. The risk is always that you lose a user for life if you don't get it right the first time.
-4. If you work in multiple DAOs as a product manager, constantly identify your highest leverage points. 
+So what does this mean when we are [[preparing for a future in web3 product]]?
