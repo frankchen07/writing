@@ -20,9 +20,9 @@ export default function Home({ allPostsData }) {
         <h2 className={utilStyles.headingLg}>What I'm working on</h2>
         <ul className={utilStyles.list}>
           {/* {allPostsData.map(({/ id, date, title }) => ( */}
-          {allPostsData.map(({ id, title }) => (
+          {allPostsData.map(({ id, title, url }) => (
             <li className={utilStyles.listItem} key={id}>
-              <Link href={`/posts/${id}`}>
+              <Link href={`/posts/${url}`}>
                 <a>{title}</a>
               </Link>
               <br />
