@@ -13,11 +13,11 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          Hello, I'm Frank. This site is where you'll find my working notes. I write about what interests me and ideas I'm developing in the current moment. For the most part, it's to scratch my own itch, but perhaps you'll find it useful as well.
+          Hello, I'm Frank. This site is where you'll find my working notes, where everything is a work in progress. To explore, I'm in the process of patching together some maps of content (MOCs) on topics that I find interesting, but for now, you may choose your own adventure below.
         </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
-        <h2 className={utilStyles.headingLg}>What I'm working on</h2>
+        <h2 className={utilStyles.headingLg}>working notes</h2>
         <ul className={utilStyles.list}>
           {/* {allPostsData.map(({/ id, date, title }) => ( */}
           {allPostsData.map(({ id, title, url }) => (
