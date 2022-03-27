@@ -36,4 +36,4 @@ So what does this mean when we are [[preparing for a future in web3 product]]?
 
 ---
 
-Back to [[map of content - product]]
+Back to [[map of content (product)]]
