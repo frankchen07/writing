@@ -15,6 +15,15 @@ export default function Home({ allPostsData }) {
         <p>
           Hello, I'm Frank. This site is where you'll find my working notes, where everything is a work in progress. To explore, I'm in the process of patching together some maps of content (MOCs) on topics that I find interesting, but for now, you may choose your own adventure below.
         </p>
+        <p>
+          Here's some maps of content to get started:
+          <li>
+            <a href='https://www.frank-chen.com/posts/map-of-content-(product)'>Map of Content (Product)</a>
+          </li>
+          <li>
+            <a href='https://www.frank-chen.com/posts/map-of-content-(mindset)'>Map of Content (Mindset)</a>
+          </li>
+        </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>working notes</h2>
