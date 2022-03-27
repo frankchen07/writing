@@ -1,6 +1,6 @@
 ### create a pressure log helps identify how to tune inward
 
-Create a pressure log, and write it out. This helps in [[create a pre-performance ritual]].
+Create a pressure log, and write it out. This helps in [[create a pre performance ritual]].
 
 Studies show that writing things out can help your brain process stressful information.
 

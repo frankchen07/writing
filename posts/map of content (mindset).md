@@ -6,10 +6,10 @@ Just a note - much of the linked examples here relate to my forays of mindset in
 
 The Inner Game of Tennis by Timothy Gallwey was one of the first sport psychology books that I read. He lays out what an athlete should do in order to stop over-analyzing and perform to their fullest ability. The TLDR is hard work and smart training imprints performance to the subconscious, and the way to activate it is for us to shut our conscious brain up and step out of the way. 
 
-1. [[non-judgmental observation shuts down emotions]]
+1. [[non judgmental observation shuts down emotions]]
 2. [[visualized feel imagery is the subconscious language]]
 3. [[experience in the present opens you to the language of opportunity]]
-4. [[repeat non-judgmental observation to assess the outcome]]
+4. [[repeat non judgmental observation to assess the outcome]]
 
 ---
 
@@ -41,7 +41,7 @@ In the short-term, you must actively practice:
 2. [[practice in a way that strengthens your self image]]
 3. [[close the gap between training and performance]]
 4. [[know your optimal emotion functioning zone]]
-5. [[create a pre-performance ritual]]
+5. [[create a pre performance ritual]]
 6. [[create a pressure log helps identify how to tune inward]]
 7. [[create daily intention by staying present and aware]]
 
@@ -72,7 +72,7 @@ Some notes in progress from Mind Gym by Gary Mack:
 * [[your reaction is more important than interpretation]]
 * [[the stories you feed are the ones that come true]]
 * [[the man who wins is the man who thinks he can]]
-* [[scenario game if a champion would self-talk the way you do]]
+* [[scenario game if a champion would self talk the way you do]]
 * [[focus your attention on the present]]
 * [[turn off the analytical mind and see in the present]]
 * [[mental commitment leads to confidence and body commitment]]
