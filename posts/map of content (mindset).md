@@ -42,7 +42,7 @@ In the short-term, you must actively practice:
 3. [[close the gap between training and performance]]
 4. [[know your optimal emotion functioning zone]]
 5. [[create a pre-performance ritual]]
-6. [[creating a pressure log helps identify how to tune inward]]
+6. [[create a pressure log helps identify how to tune inward]]
 7. [[create daily intention by staying present and aware]]
 
 ---

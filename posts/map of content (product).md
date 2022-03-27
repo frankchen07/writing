@@ -19,7 +19,7 @@ In web2, [[product management is about value and viability]]. This is a more or 
 
 #### doin' prioritization
 
-*  [[prioritization should be simple]]
+* [[prioritization should be simple]]
 * [[prioritizing at early product market fit stages is different]]
 
 #### buildin' community
