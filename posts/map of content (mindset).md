@@ -33,7 +33,7 @@ We can "talk" to ourselves over and over again, but similar to other authors, Ma
 
 To better enact change, Mark details how to [[iteratively challenge your beliefs]], and outlines the [[7 steps of winning beliefs]].
 
-When we talk a little bit longer term, those who eventually do great things have reasonably high expectations of theselves. In order to survive the ups and downs, they have to make sure their commitment They manage these long-term goals by making sure that they [[match commitment with expectancy]], which gives them staying power.
+When we talk a little bit longer term, those who eventually do great things have reasonably high expectations of theselves. In order to survive the ups and downs, they have to [[match commitment with expectancy]], which gives them staying power.
 
 In the short-term, you must actively practice:
 
