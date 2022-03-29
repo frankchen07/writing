@@ -59,11 +59,11 @@ There are [[universal feelings when one gets into the zone]].
 
 Also, you should [[care about the essence and the process]] not just the end. How you get there is somewhat important, especially for long term commitments.
 
-Developing a system of [[mental management is your most important skill as a bjj athelete]].
+Developing a system of [[mental management is your most important skill as a bjj athelete]]. Also, it helps to [[clear your baggage and be unencumbered]].
 
 ---
 
-Some notes in progress from Mind Gym by Gary Mack:
+Some copied notes in progress from Mind Gym by Gary Mack:
 
 * [[act yourself into a way of thinking]]
 * [[develop mental toughness with 7 Cs]]
@@ -76,7 +76,10 @@ Some notes in progress from Mind Gym by Gary Mack:
 * [[focus your attention on the present]]
 * [[turn off the analytical mind and see in the present]]
 * [[mental commitment leads to confidence and body commitment]]
-* [[next note here]]
+* [[getting into the zone cannot be forced]]
+* [[fake it till you fulfill the physical and mental]]
+* [[cultivate inner excellence]]
+* [[encompass the 5 Ls of your sport]]
 
 ---
 
