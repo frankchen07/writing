@@ -1,4 +1,4 @@
-### web3 has been heavily focused on feasibility vs usability
+### web3 has been heavily focused on feasibility rather than usability
 
 For web3 to survive, we need both feasibility and usability. There will be a reckoning if that doesn't happen. Just now we are beginning to move towards usability because that's the natural trend of new technologies.
 

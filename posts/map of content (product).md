@@ -4,11 +4,14 @@
 
 I've been developing some thoughts revolving around [[trends in web3 product management]] as well as [[preparing for a future in web3 product]].
 
-In web2, [[product management is about value and viability]]. This is a more or less solidified opinion by the Silicon Valley Product Group (SVPG). I'll use this frame of view to make the case that web3 needs to move towards value and viability to reach it's full potential. But right now, [[web3 has been heavily focused on feasibility vs usability]].
+In web2, [[product management is about value and viability]]. This is a more or less solidified opinion by the Silicon Valley Product Group (SVPG). I'll use this frame of view to make the case that web3 needs to move towards value and viability to reach it's full potential. But right now, [[web3 has been heavily focused on feasibility rather than usability]].
+
+As a more live example of feasibility, I did 
+[[a product review of choice kingdom trust]], an IRA platform that is friendly to digital assets.
 
 ---
 
-#### doing standup
+#### doin' standup
 
 * [[how you organize your day determines your day]]
 
