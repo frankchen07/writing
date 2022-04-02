@@ -80,7 +80,3 @@ Some copied notes in progress from Mind Gym by Gary Mack:
 * [[fake it till you fulfill the physical and mental]]
 * [[cultivate inner excellence]]
 * [[encompass the 5 Ls of your sport]]
-
----
-
-Back to [[map of content (home)]]

@@ -29,11 +29,4 @@ As a more live example of feasibility, I did
 
 I've been reading some books about community, and I'm increasingly of the opinion that [[building community is a legitimately valuable skill]].
 
----
-
-Back to [[map of content (home)]]
-
-
-
-
 
