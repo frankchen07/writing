@@ -57,7 +57,7 @@
 - [link your thinking](https://notes.linkingyourthinking.com/Umami/LYT+Kit)
 - [write online to break barriers](https://threadreaderapp.com/thread/1483432685448032259.html)
 - [copywriting](https://marketingexamples.com/inspiration)
-- [the microwave economy](https://perell.com/essay/the-microwave-economy/](https://perell.com/essay/the-microwave-economy/)
+- [the microwave economy](https://perell.com/essay/the-microwave-economy/)
 - [andy matuschak writing](https://notes.andymatuschak.org/)
 - [justin mares writing](http://justinmares.com/)
 - [roxine kee writing](https://www.roxinekee.com/blog)
@@ -128,10 +128,10 @@
 - [network states](https://1729.com/archive)
 - [week in ethereum](https://weekinethereumnews.com/)
 - [crypto culture society](https://society.mirror.xyz/4jGQznFpgO1QvTg9VVtb7U7MYTHITuxkazUyDtnhwkI)
-- [leave faang for crypto](https://www.paradigm.xyz/2021/09/- [the-community-garden-the-case-for-leaving-faang-companies-for-crypto/)
+- [leave faang for crypto](https://www.paradigm.xyz/2021/09/-the-community-garden-the-case-for-leaving-faang-companies-for-crypto/)
 - [metaverse](https://newsletter.banklesshq.com/p/the-metaverse-emerges)
 - [decentralized identities](https://future.a16z.com/decentralized-identity-on-chain-reputation)
-- [explorer stealth threat to search](https://www.youtube.com/watch?v=qRao8xS_nyM&t=14580s&- [ab_channel=TimFerriss)
+- [explorer stealth threat to search](https://www.youtube.com/watch?v=qRao8xS_nyM&t=14580s&-ab_channel=TimFerriss)
 - [zk-snarks](https://z.cash/technology/zksnarks/)
 - [zero knowledge proofs](https://hackernoon.com/eli5-zero-knowledge-proof-78a276db9eff)
 - [mason nystrom writing](https://nystrom.substack.com/)
@@ -156,7 +156,7 @@
 - [eth intro](https://auth0.com/blog/an-introduction-to-ethereum-and-smart-contracts-part-2/)
 - [blockchain gaming](https://mirror.xyz/sylve.eth/6QJ6taBcobFAWMbijs4WrQrFZ_FGq5wXmJ_NIXW-GmQ)
 - [gitcoin bear market](https://gov.gitcoin.co/t/a-brief-history-of-gitcoin-from-2017-2021/9431)
-- [crypto space](https://app.pitch.com/app/public/player/d3fc35de-740d-49b6-a980-8f42fc2cffb7/- [b98c5a13-f293-4abf-ad66-8e05005a7aa0)
+- [crypto supply side](https://app.pitch.com/app/public/player/d3fc35de-740d-49b6-a980-8f42fc2cffb7/b98c5a13-f293-4abf-ad66-8e05005a7aa0)
 - [web3.0 oreilly](https://www.oreilly.com/radar/why-its-too-early-to-get-excited-about-web3/)
 - [eth linkedin](https://eth.xyz)
 - [deso & crypto product](https://bithunt.com/explore)
@@ -245,7 +245,7 @@
 
 #### learning chinese
 
-* red hot wok
+- red hot wok
 	- 滷肉飯 / lǔ ròu fàn 
 	- 脆皮肥腸 / cuì pí féi cháng
 	- 三杯雞 / sān bēi jī
@@ -254,7 +254,7 @@
 	- 客家小炒 / kè jiā xiǎo chǎo
 	- 炸排骨 / zhá pái gǔ
 
-* mama chef / dumpling capital
+- mama chef / dumpling capital
 	- 牛肉麵 / niú ròu miàn
 	- 雞炒飯 / jī chǎo fàn
 	- 炸排骨 / zhá pái gǔ
