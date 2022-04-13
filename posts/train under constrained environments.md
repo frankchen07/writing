@@ -2,7 +2,7 @@
 
 When one practices within a constrained environment, it allows one to achieve repetitions.
 
-This concept can be taken a meta-level. You can constrain yourself to one position, and at the same time, you can constrain yourself to varying levels of the ned game within each position. As an example, one can start in closed guard, then trap triangle, then pyramid, then triangle, then end stages triangle, and work from there.
+This concept can be taken a meta-level. You can constrain yourself to one position, and at the same time, you can constrain yourself to varying levels of the submission game within each position. As an example, one can start in closed guard, then trap triangle, then pyramid, then triangle, then end stages triangle, and work from there.
 
 This is called cognitive scaffolding, where even the smallest incremental step in a new or challenging action is unconceivable by a novice practitioner. Therefore, the builder of such a "scaffolding" would lessen the cognitive load by applying constraints so that one can support the amount of cognitive load necessary to move the next step.
 
