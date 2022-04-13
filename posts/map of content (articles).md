@@ -180,6 +180,9 @@
 - [offline signing](https://eips.ethereum.org/EIPS/eip-4527)
 - [solana security](https://twitter.com/0xsanny/status/1508868586890223626?s=20&t=CMeOsHrQF-p6HIMGYpGmvA)
 - [nft canon](https://future.a16z.com/nft-canon/)
+- [dao search service](https://daocentral.com/)
+- [seed storage reviews](https://jlopp.github.io/metal-bitcoin-storage-reviews/)
+- [how to store a seed phrase](https://blog.lopp.net/how-to-back-up-a-seed-phrase/)
 
 ---
 
