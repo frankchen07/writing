@@ -71,7 +71,7 @@ Let's talk about movement. I revisit these concepts at different points in my jo
 * [[constant movement is better than being static]]
 * [[create movement if you're stuck]]
 * [[if you can't move them move yourself]]
-* [[movement makes weight shifts which opens opportunities to move limbs]]
+* [[movement shifts weight which creates opportunities]]
 * [[the whitespace is just as important as the blackspace]]
 * [[utilize all 360 degrees of movement in 3 planes]]
 * [[you don't want a 1 to 1 move tradeoff, you want an n to 1 tradeoff]]
