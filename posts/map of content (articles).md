@@ -17,7 +17,6 @@
 - https://www.digitalax.xyz/homepage
 - https://www.window-swap.com
 - https://andymatuschak.org/
-- https://www.reddit.com/r/halo/comments/sra4vl/banished_prototype_a_halo_stop_motion_film_i_shot/)
 - https://www.justwatch.com
 
 ---
@@ -248,7 +247,7 @@
 
 #### contract security
 - [solana security](https://twitter.com/0xsanny/status/1508868586890223626?s=20&t=CMeOsHrQF-p6HIMGYpGmvA)
-* [solana contract auditing common pitfalls](https://blog.neodyme.io/posts/solana_common_pitfalls)
+- [solana contract auditing common pitfalls](https://blog.neodyme.io/posts/solana_common_pitfalls)
 
 ---
 
