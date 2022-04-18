@@ -6,7 +6,6 @@
 - https://www.ribbonfarm.com/
 - https://www.nevertoosmall.com/
 - https://perell.com/recommendations/
-- https://rekt.news/
 - https://www.peterates.com/index.shtml
 - https://openaudible.org/
 - https://www.mentalcanvas.com/
@@ -72,7 +71,7 @@
 - [planning](https://review.firstround.com/the-secret-to-a-great-planning-process-lessons-from-airbnb-and-eventbrite)
 - [roadmap](https://blog.colony.io/roadmap/)
 - [interview](https://review.firstround.com/the-40-best-questions-to-ask-in-an-interview-how-to-go-deeper-than-whats-the-culture-like)
-- [performance review](https://review.firstround.com/the-power-of-performance-reviews-use-this-system-to-become-a-better-manager)
+- [performance reviews](https://review.firstround.com/the-power-of-performance-reviews-use-this-system-to-become-a-better-manager)
 - [landing page titles](https://twitter.com/GoodMarketingHQ/status/1347494197528555520)
 - [basecamp shape up](https://basecamp.com/shapeup)
 - [market growth](https://twitter.com/ibringtraffic/status/1258817333096673281)
@@ -86,10 +85,13 @@
 - [pm frameworks](https://twitter.com/shreyas/status/1399042778613485578?s=21)
 - [psychological products](https://medium.com/s/buy-yourself/people-dont-buy-products-they-buy-better-versions-of-themselves-d481390bfcee)
 - [startup equity](https://www.holloway.com/g/equity-compensation/sections/typical-employee-equity-levels)
-- [sushi](https://mirror.xyz/0x8f99B0b48b23908Da9f727B5083052d5099e6aea/j3i-hLZL4Q_7DNJasBSPINYypliIGjaoD6_LKUeogSQ)
+- [sushiswap product failures](https://mirror.xyz/0x8f99B0b48b23908Da9f727B5083052d5099e6aea/j3i-hLZL4Q_7DNJasBSPINYypliIGjaoD6_LKUeogSQ)
 - [tim & balaji](https://www.youtube.com/watch?v=qRao8xS_nyM)
 - [market research](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture5-market-wireframing-design.pdf)
 - [favorite templates](https://www.lennysnewsletter.com/p/my-favorite-templates-issue-37)
+- [the art of product management](https://newsletter.bringthedonuts.com/p/the-art-of-product-management?s=r)
+- [building product sense](https://www.lennysnewsletter.com/p/product-sense?s=r)
+- [forming community](https://review.firstround.com/a-founders-step-by-step-guide-to-getting-your-first-1000-community-members)
 
 ---
 
@@ -102,10 +104,10 @@
 - [gme](https://twitter.com/endtwist/status/1354547622133051393)
 - [more gme](https://twitter.com/yashkaf/status/1355024098926198784)
 - [10x wealth](https://twitter.com/craigclemens/status/1407857453711040512)
-- [reduce taxes](https://twitter.com/APompliano/status/1366188811303141379)
-- [reduce taxes](https://twitter.com/APompliano/status/1407881270005317632)
-- [reduce taxes](https://twitter.com/TheCryptoCPA/status/1403020159183249413)
-- [reducing taxes](https://twitter.com/sweatystartup/status/1370087998717575168)
+- [reduce taxes 1 by pomp](https://twitter.com/APompliano/status/1366188811303141379)
+- [reduce taxes 2 by pomp](https://twitter.com/APompliano/status/1407881270005317632)
+- [reducing taxes by the crypto cpa](https://twitter.com/TheCryptoCPA/status/1403020159183249413)
+- [reducing taxes by sweatystartup](https://twitter.com/sweatystartup/status/1370087998717575168)
 - [hard work](https://twitter.com/camp4/status/1402689150353129472)
 - [more hard work](https://twitter.com/Camp4/status/1370798715057942534)
 - [long-term goals](https://twitter.com/sweatystartup/status/1385367884696850433)
@@ -129,7 +131,8 @@
 - [week in ethereum](https://weekinethereumnews.com/)
 - [crypto culture society](https://society.mirror.xyz/4jGQznFpgO1QvTg9VVtb7U7MYTHITuxkazUyDtnhwkI)
 - [leave faang for crypto](https://www.paradigm.xyz/2021/09/-the-community-garden-the-case-for-leaving-faang-companies-for-crypto/)
-- [metaverse](https://newsletter.banklesshq.com/p/the-metaverse-emerges)
+- [the metaverse by bankless](https://newsletter.banklesshq.com/p/the-metaverse-emerges)
+- [the metaverse by notboring](https://www.notboring.co/p/the-value-chain-of-the-open-metaverse)
 - [decentralized identities](https://future.a16z.com/decentralized-identity-on-chain-reputation)
 - [explorer stealth threat to search](https://www.youtube.com/watch?v=qRao8xS_nyM&t=14580s&-ab_channel=TimFerriss)
 - [zk-snarks](https://z.cash/technology/zksnarks/)
@@ -138,7 +141,6 @@
 - [rollups](https://vitalik.ca/general/2021/01/05/rollup.html)
 - [stacks city coins](https://github.com/citycoins/citycoin)
 - [forefront review](https://2020inreview.forefront.news/)
-- [tally dao treasury voting](https://www.withtally.com/)
 - [rise of micro-economies](https://coopahtroopa.mirror.xyz/gWY6Kfebs9wHdfoZZswfiLTBVzfKiyFaIwNf2q8JpgI)
 - [rollups](https://vitalik.ca/general/2021/01/05/rollup.html)
 - [decentralizated utopia](https://ra.co/features/3914)
@@ -150,19 +152,18 @@
 - [gift ether](https://www.reddit.com/r/ethereum/comments/5mjwjy/gift_ether_to_a_friend/)
 - [chainflow](https://www.stakingrewards.com/savings/chainflow/)
 - [inventory not identity](https://blog.gnosis.pm/inventories-not-identities-7da9a4ec5a3e)
-- [web3.0 journey ventaktesh rao](https://twitter.com/vgr/status/1457449043164991488)
+- [web3.0 journey by ventaktesh rao](https://twitter.com/vgr/status/1457449043164991488)
 - [digital revolution](https://society.mirror.xyz/4jGQznFpgO1QvTg9VVtb7U7MYTHITuxkazUyDtnhwkI)
 - [stx bulls](https://walter-neumann.medium.com/stackanomics-the-bull-case-for-stx-97aa4478a303)
 - [eth intro](https://auth0.com/blog/an-introduction-to-ethereum-and-smart-contracts-part-2/)
 - [blockchain gaming](https://mirror.xyz/sylve.eth/6QJ6taBcobFAWMbijs4WrQrFZ_FGq5wXmJ_NIXW-GmQ)
-- [gitcoin bear market](https://gov.gitcoin.co/t/a-brief-history-of-gitcoin-from-2017-2021/9431)
+- [gitcoin history](https://gov.gitcoin.co/t/a-brief-history-of-gitcoin-from-2017-2021/9431)
 - [crypto supply side](https://app.pitch.com/app/public/player/d3fc35de-740d-49b6-a980-8f42fc2cffb7/b98c5a13-f293-4abf-ad66-8e05005a7aa0)
 - [web3.0 oreilly](https://www.oreilly.com/radar/why-its-too-early-to-get-excited-about-web3/)
 - [eth linkedin](https://eth.xyz)
 - [deso & crypto product](https://bithunt.com/explore)
 - [decentralized games](https://dappradar.com/rankings/protocol/ethereum/category/games)
 - [crypto taxes](https://taxbit.com/consumer?=danheldnewsletter)
-- [optimistic grants](https://medium.com/element-finance/the-future-looks-optimistic-a-new-primitive-for-grants-and-rewards-2fc32f2d09a6)
 - [decentralized identity](https://1729.com/the-billion-user-table)
 - [scott moore reflections](https://scott.mirror.xyz/U8aWHSX_HHHYcN1GvbTcBnZbAR7eNeJ_61WIOuSguF8)
 - [radical rest](https://twitter.com/sourcecred/status/1470600403293253641)
@@ -170,24 +171,29 @@
 - [declaration of cyberspace](https://www.interdependence.online/declaration)
 - [hyperstructures](https://jacob.energy/hyperstructures.html)
 - [web3.0 criticisms](https://moxie.org/2022/01/07/web3-first-impressions.html)
-- [a review of metamask](https://blog.cryptographyengineering.com/2022/01/14/an-extremely-casual-code-review-of-metamasks-crypto/)
 - [becoming a crypto analyst](https://mobile.twitter.com/duneanalytics/status/1483071440903680002)
 - [triple halvening](https://squish.substack.com/p/the-triple-halving-where-we-stand)
 - [nakamoto coefficients](https://nakaflow.io/)
+- [how to decentralize](https://future.a16z.com/web3-decentralization-models-framework-principles-how-to/)
+* [progressive decentralization](https://a16z.com/2020/01/09/progressive-decentralization-crypto-product-management/)
+* [customer base composability](https://future.a16z.com/can-community-composability-help-web2-users-make-the-jump-to-web3/)
+
+---
+
+#### wallets 
+
+- [a review of metamask](https://blog.cryptographyengineering.com/2022/01/14/an-extremely-casual-code-review-of-metamasks-crypto/)
 - [keystone hardware wallets](https://keyst.one/)
 - [wallet signing & broadcasting](https://medium.com/portis/part-three-creating-and-signing-ethereum-transactions-e9cca44d7e2d)
 - [blind signing](https://blog.keyst.one/blind-signing-a-security-black-hole-for-the-ethereum-community-13f909b848b6)
 - [offline signing](https://eips.ethereum.org/EIPS/eip-4527)
-- [solana security](https://twitter.com/0xsanny/status/1508868586890223626?s=20&t=CMeOsHrQF-p6HIMGYpGmvA)
-- [nft canon](https://future.a16z.com/nft-canon/)
-- [dao search service](https://daocentral.com/)
 - [seed storage reviews](https://jlopp.github.io/metal-bitcoin-storage-reviews/)
 - [how to store a seed phrase](https://blog.lopp.net/how-to-back-up-a-seed-phrase/)
 
 ---
 
 #### nfts
-- [metaverse](https://www.notboring.co/p/the-value-chain-of-the-open-metaverse)
+- [nft canon](https://future.a16z.com/nft-canon/)
 - [nfts make the internet ownable](https://variant.mirror.xyz/T8kdtZRIgy_srXB5B06L8vBqFHYlEBcv6ae2zR6Y_eo)
 - [power to the person](https://www.notboring.co/p/power-to-the-person-audio)
 - [how to make an nft](https://medium.com/geekculture/how-to-transform-your-art-into-a-nft-b02a4aee6fd4)
@@ -199,18 +205,20 @@
 ---
 
 #### daos
-- [gitcoin governance](https://gov.gitcoin.co)
-- [snapshot voting](https://snapshot.org)
-- [prehistory of daos](https://gnosisguild.mirror.xyz/t4F5rItMw4-mlpLZf5JQhElbDfQ2JRVKAzEpanyxW1Q)
+- [dao search service](https://daocentral.com/)
+- [treasury voting with tally](https://www.withtally.com/)
+- [off-chain voting with snapshot](https://snapshot.org)
+- [gitcoin governance dao](https://gov.gitcoin.co)
 - [bankless dao newsletter](https://banklessdao.substack.com/s/state-of-the-daos?utm_source=substack&utm_medium=menu)
 - [dao landscape](https://coopahtroopa.mirror.xyz/_EDyn4cs9tDoOxNGZLfKL7JjLo5rGkkEfRa_a-6VEWw)
 - [daos and utopia](https://ra.co/features/3914)
+- [prehistory of daos](https://gnosisguild.mirror.xyz/t4F5rItMw4-mlpLZf5JQhElbDfQ2JRVKAzEpanyxW1Q)
 - [dao 1 prehistory](https://gnosisguild.mirror.xyz/t4F5rItMw4-mlpLZf5JQhElbDfQ2JRVKAzEpanyxW1Q)
 - [dao 2 state of the dao](https://banklessdao.substack.com/p/history-of-daos-state-of-the-dao)
 - [dao 3 zodiac](https://gnosisguild.mirror.xyz/OuhG5s2X5uSVBx1EK4tKPhnUc91Wh9YM0fwSnC8UNcg)
 - [dao 401 leadership](https://creators.mirror.xyz/BIKmTKdNiMkK1dbtUInS0zoZgVdo18i55Vh3iMU9g_I)
 - [full time daos](https://coopahtroopa.mirror.xyz/5vTIKBRzMpVAiNyc7CnABXjh3ToJrjQOnOdkwqvb3l8)
-- [decentralized network](https://urbit.org/faq)
+- [decentralized networks](https://urbit.org/faq)
 - [daos and shapeshift](https://www.coindesk.com/shapeshift-daos-and-the-future-of-work)
 - [social tokens](https://coopahtroopa.mirror.xyz/DYSs-mhdJi1uXZTaiyJfwiFZYAF9kRK6yBsAplk6A68)
 - [distributed ownership](https://mirror.xyz/puniaviision.eth/13EYhkOirEJNxpJB6PssN-2tLs6R1VRinhWc2mwLlbg)
@@ -226,23 +234,21 @@
 
 ---
 
-#### community
-- [forming community](https://review.firstround.com/a-founders-step-by-step-guide-to-getting-your-first-1000-community-members)
-
----
-
 #### coordination problems
 - [coordination](https://studio.ribbonfarm.com/p/coordination-headwinds)
 - [positive sum worlds](https://otherinter.net/research/positive-sum-worlds/)
 - [public goods problems](https://s.mirror.xyz/djByMntM2rQF4tqUISYS2MAO3oCfSWoOZSOpZjsYwaw)
-
----
-
-#### quadratic funding
 - [vitalik](https://vitalik.ca/)
 - [maci](https://ethresear.ch/t/minimal-anti-collusion-infrastructure/5413/2)
 - [gitcoin grants round 4](https://vitalik.ca/general/2020/01/28/round4.html)
 - [clr criticisms](https://www.evanvanness.com/post/190547220716/some-gentle-criticisms-and-comments-on)
+- [optimistic grants](https://medium.com/element-finance/the-future-looks-optimistic-a-new-primitive-for-grants-and-rewards-2fc32f2d09a6)
+
+---
+
+#### contract security
+- [solana security](https://twitter.com/0xsanny/status/1508868586890223626?s=20&t=CMeOsHrQF-p6HIMGYpGmvA)
+* [solana contract auditing common pitfalls](https://blog.neodyme.io/posts/solana_common_pitfalls)
 
 ---
 
