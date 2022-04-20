@@ -42,7 +42,7 @@ There is duplication on the sidebar and also the tabs found on the main page. I 
 
 The portfolio tab is also duplicated across the dashboard and the trade sections, which is unnecessary. Between the sidebar, dashboard, trade, and watchlist, there are plenty of duplications to unravel for a much more compact and concise user journey.
 
- ![](choice-3.png)
+![](choice-3.png)
 
 ![](choice-4.png)
 
