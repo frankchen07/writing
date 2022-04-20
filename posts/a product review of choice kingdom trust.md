@@ -32,32 +32,47 @@ Let's move onto the actual user experience of the web application.
 
 If you've just opened an account, the "current application status" is ridiculously confusing. I understand that I've created an account and finished my application - the completed steps don't need to be shown inside my created account. The only useful part of showing this is that the "fund account" is the main call to action, and it helps me get there.
 
-![choice-1](post-embeds/choice-1.png)
+![](choice-1.png)
+
+![](/images/choice-1.png)
 
 Once you've funded your account and traded once, the current application status disappears. There's no "fund account" call to action, aside from going to the profile menu and adding your bank account. After adding your bank account, you actually have to hit "deposit" to add funds to your retirement account, which is counterintuitive - "am I depositing to my bank account (no), or my retirement account (yes)?"
 
-![choice-2](post-embeds/choice-2.png)
+![](choice-2.png)
+
+![](/images/choice-2.png)
 
 There is duplication on the sidebar and also the tabs found on the main page. I don't need to see my watchlist in the sidebar, on the main page under a hard to see tab, AND as a tab in the trade section. That's three instances of watchlist, a feature I don't even use. Since Casa HYOK only supports one digital asset, I'm not really looking at much of anything else. Here, I would just show my portfolio, my pending transactions, and pending movements into my trust. If they're going to keep doing this whole crazy paperwork fiasco, I want this information up front and center, so filling out forms is easy.
 
 The portfolio tab is also duplicated across the dashboard and the trade sections, which is unnecessary. Between the sidebar, dashboard, trade, and watchlist, there are plenty of duplications to unravel for a much more compact and concise user journey.
 
-![choice-3](post-embeds/choice-3.png)
-![choice-4](post-embeds/choice-4.png)
- 
+ ![](choice-3.png)
+
+![](/images/choice-3.png)
+
+![](choice-4.png)
+
+![](/images/choice-4.png)
+
 The market value of my portfolio is kind of nice, but pie charts in general suck, since humans can't tell "area" differences very well with their eyes. There might be some consolidation between "portfolio" and "market value of portfolio", showing both general information like asset class, and specific information (e.g which asset, cost basis, market value, asset storage location).
 
-![choice-5](post-embeds/choice-5.png)
+![](choice-5.png)
+
+![](/images/choice-5.png)
 
 Under the trade tab, the tab system is easily missed here. I actually didn't see portfolio, trade status, and occupied cash at all. I also can't customize the right hand side bar. Not that necessarily want to, but just seeing the BTC ticker is kind of random. I expected to be able to add widgets for customization, but none of this was available.
 
-![choice-6](post-embeds/choice-6.png)
+![](choice-6.png)
+
+![](/images/choice-6.png)
 
 Referral links are basically hidden at the bottom, and to me, are taking up valuable real estate for other main parts of the product. Put the referral links in the me menu, and use it smartly in a marketing campaign. 
 
 You don't need this oamount of space to contact support, there's already a chat button in the lower right hand corner. 
 
-![choice-7](post-embeds/choice-7.png)
+![](choice-7.png)
+
+![](/images/choice-7.png)
 
 In general, the layout just seems randomly thrown together, and it doesn't inspire me to take the correct action. It's taken more than 10-20 clicks to figure out what I'm looking at and to get at the information that I need.
 
@@ -71,7 +86,7 @@ In general, the layout just seems randomly thrown together, and it doesn't inspi
 5. Some of the visual dashboards on Choice's web product could be de-duplicated.
 6. Some user actions on Choice's web product could be made more clear to promote information access and defined user call-to-actions.
 
-While this post seems critical, I'm still using Choice's services for now, as their customer support system is quite responsive. I will continually reassess and update my opinion here as it changes.
+While this post seems critical, I'm still using Choice's services for now, as their customer support system is quite responsive, but the user experience is frustrating to a point where I may reconsider. I will continually reassess and update my opinion here as it changes.
 
 ---
 
