@@ -120,6 +120,7 @@
 - [iphone privacy ](https://www.nytimes.com/wirecutter/guides/iphone-privacy-tips/)
 - [online privacy 101](https://onlineprivacy101.info/)
 - [take action now](https://twitter.com/sweatystartup/status/1503156514894360577)
+- [the future of elon twitter](https://stratechery.com/2022/back-to-the-future-of-twitter)
 
 ---
 

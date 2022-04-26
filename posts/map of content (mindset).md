@@ -25,7 +25,7 @@ If you're like me and have trouble truly believing in yourself, then [[act your 
 
 A vital part of performing is an athelete's self image. They say you don't "rise to the occasion", but "fall to the level of your training". While true, if the athlete has a strong, positive self image, worked intelligently, and has a strategic game plan, they indeed can rise to the occasion. 
 
-For those still working towards a better self image, it's going to be a conscious process. You must [[constantly decide to be, not try]]. When you're "being", and you won't be perfect the first, fifth, or 500th try, you will still inch closer and closer to embodiments and characteristics of that particular identity. This is because [[the self image regulates like a thermostat]]. Your [[acts reinforce beliefs]] and this further cycles into a more positive or more negative self. image.
+For those still working towards a better self image, it's going to be a conscious process. You must [[constantly decide to be, not try]]. When you're "being", and you won't be perfect the first, fifth, or 500th try, you will still inch closer and closer to embodiments and characteristics of that particular identity. This is because [[the self image regulates like a thermostat]]. Your [[acts reinforce beliefs]] and this further cycles into a more positive or more negative self image.
 
 It all begins consciously - [[nothing has meaning except for the meaning you assign it]]. This sense of presence gives folks permission to see that our futures are not set and our past doesn't lock us in amber.
 
@@ -63,7 +63,7 @@ Developing a system of [[mental management is your most important skill as a bjj
 
 ---
 
-Some copied notes in progress from Mind Gym by Gary Mack:
+Some copied notes in progress from Mind Gym by Gary Mack and Chasing Excellence by Ben Bergeron
 
 * [[act yourself into a way of thinking]]
 * [[develop mental toughness with 7 Cs]]
@@ -76,6 +76,7 @@ Some copied notes in progress from Mind Gym by Gary Mack:
 * [[focus your attention on the present]]
 * [[turn off the analytical mind and see in the present]]
 * [[mental commitment leads to confidence and body commitment]]
+* [[confidence is the mastery of response]]
 * [[getting into the zone cannot be forced]]
 * [[fake it till you fulfill the physical and mental]]
 * [[cultivate inner excellence]]

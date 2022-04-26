@@ -34,6 +34,12 @@ In web2, [[product management is about value and viability]]. This is a more or 
 
 ---
 
+#### building product sense
+
+* [[consciously build product sense]]
+
+---
+
 #### building community
 
 I've been reading some books about community, and I'm increasingly of the opinion that [[building community is a legitimately valuable skill]].
