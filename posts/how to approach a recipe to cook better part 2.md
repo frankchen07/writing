@@ -4,13 +4,13 @@ The other day, I pulled an old card out of the recipe box, a Serious Eats jambal
 
 Let's do this recipe breakdown. First thing that happens is I get hit by a wall of text. For many, I feel like this is intimidating enough to say "ah, fuck this," and not do the recipe.
 
-![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/333e2cca-2bdd-422b-87e2-ed3f83d930e6_290x1169.png)
+![](recipe-2-1.png)
 
-![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/07e0b676-6652-4d8e-8f20-f4483e1139f7_1390x1280.png)
+![](recipe-2-2.png)
 
 Don't fret. Without getting into quantitative amounts just yet, I immediately short-hand this into a notebook, combining ingredients and the action phrases into a stepwise structure that is done in a more or less chronological manner. I already know the concepts that I'll use, but I'll go over them step by step.
 
-![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/1002af9b-385c-46ff-9040-1f5dd034ed21_2982x1906.png)
+![](recipe-2-3.png)
 
 There's three forms of organization that I employ right off the bat with my shorthand.
 
@@ -20,7 +20,7 @@ There's three forms of organization that I employ right off the bat with my shor
 
 ### timing
 
-![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/2d766449-4204-477e-b490-8009cf9679d1_2982x1906.png)
+![](recipe-2-4.png)
 
 Timing is the first way I organize because this shorthand is eventually what I will reference when cooking.
 
@@ -43,13 +43,13 @@ Aside from the stock, the rest of the ingredients are dependent steps. The finis
 
 ### categories
 
-[![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/171661da-d02b-4a77-a309-e81b7817f594_2982x1906.png)](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F171661da-d02b-4a77-a309-e81b7817f594_2982x1906.png)
+![](recipe-2-5.png)
 
 Jambalaya turned out to be an exception, since the chronological nature of the recipe lent itself to a rather neat organization of all the ingredients. This is mainly helpful when you're scouring for ingredients at your local market. It won't be this easy for all the recipes that you cook.
 
 ### flavor development
 
-![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/8be9de9c-36a3-4b98-907e-abaaff60edb3_2982x1906.png)
+![](recipe-2-6.png)
 
 Flavor development is arguably the most important part of understanding the concepts of cooking. As you already know, you must always season at every step, and taste, taste taste. Too many assumptions are made when you salt but don't taste, or don't taste at all. If you don't adjust now, you can't adjust later.
 

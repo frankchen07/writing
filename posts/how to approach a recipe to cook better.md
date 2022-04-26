@@ -8,17 +8,17 @@ Afterwards, I want you to try this with any recipe you desire. Let's get started
 
 #### the recipe
 
-![](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc42fa782-0d65-4441-9d90-fc42f56787f7_1430x1502.png)
+![](recipe-1-1.png)
 
 #### breakdown
 
 For each section of the recipe, I will begin by zooming into the pieces that I want to break down. 
 
-![](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb28d1493-122c-473f-ae3d-ef775030d932_1416x234.png)
+![](recipe-1-2.png)
 
 This is just an overview of the recipe, some written context that Ottolenghi wants you to have. I read it only to get an essence of what to expect, especially if there are some cultural elements surrounding the dish that I'm uncertain of. I don't hang on every word and it's not supposed to be a section where I'm white knuckling it and setting myself up for failure. Enjoy the writing.
 
-![](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff8feafa7-e5bf-4749-a3df-1718c1d5c0e0_1408x348.png)
+![](recipe-1-3.png)
 
 Here we go. These are the goodies. How annoyed are you when you start seeing the exact measurements for oil, herbs, and eggplant? I'm really annoyed. I totally ignore this stuff for now. At the very least, it doesn't tell me how much salt I need, which is somewhat positive. 
 
@@ -34,11 +34,11 @@ Obviously, taste along the way, and you can reinforce where this "category" ends
 
 Let's move into the action portion of the recipe.
 
-![](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F952b8a28-496e-4c32-b56a-11644b9d0074_1392x294.png)
+![](recipe-1-4.png)
 
 Burning the skin offers caramelization to the fullest extent, and layers a smoky flavor that can't be achieved with just simple roasting. The obvious thing heat also does here is cook. Hot temperatures break down the cell walls of the eggplant, rendering them soft. This is the desired texture of the dish. Scoring the eggplant is mostly for safety purposes, as you don't want a hot purple bomb ready to spit eggplant lava at you. Draining it helps to concentrate the flavor. Really, it's about a pasty soft texture, not watery-ass eggplant. This is flavor concentration.
 
-![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/5b2c8da5-8d5e-484a-902e-bc5707c42417_1392x244.png)
+![](recipe-1-5.png)
 
 The rest of the recipe is marination, flavor blending, and a combination of temperature and timing. Mixing the ingredients together is a pretty easy thing to understand, you want the different flavors and textures to come together.
 
