@@ -174,9 +174,10 @@
 - [becoming a crypto analyst](https://mobile.twitter.com/duneanalytics/status/1483071440903680002)
 - [triple halvening](https://squish.substack.com/p/the-triple-halving-where-we-stand)
 - [nakamoto coefficients](https://nakaflow.io/)
-- [how to decentralize](https://future.a16z.com/web3-decentralization-models-framework-principles-how-to/)
-* [progressive decentralization](https://a16z.com/2020/01/09/progressive-decentralization-crypto-product-management/)
-* [customer base composability](https://future.a16z.com/can-community-composability-help-web2-users-make-the-jump-to-web3/)
+- [a16z how to decentralize](https://future.a16z.com/web3-decentralization-models-framework-principles-how-to)
+- [progressive decentralization](https://a16z.com/2020/01/09/progressive-decentralization-crypto-product-management/)
+- [customer base composability](https://future.a16z.com/can-community-composability-help-web2-users-make-the-jump-to-web3/)
+- [ethereum sign-in](https://login.xyz/)
 
 ---
 
@@ -234,6 +235,11 @@
 
 ---
 
+#### deso
+- [decentralization of twitter](https://balajis.com/elondrop/)
+
+---
+
 #### coordination problems
 - [coordination](https://studio.ribbonfarm.com/p/coordination-headwinds)
 - [positive sum worlds](https://otherinter.net/research/positive-sum-worlds/)
@@ -252,7 +258,7 @@
 
 ---
 
-#### learning chinese
+#### learn chinese menu items
 
 - red hot wok
 	- 滷肉飯 / lǔ ròu fàn 
