@@ -17,9 +17,9 @@ Some examples:
 
 To build empathy, try some of these questions:
 
-1.  What do you think the purpose of this product is? Who do you think its for? This will give you a sense of how effective your product's landing page is. It also gives you ideas for words to describe your product that resonate with people.
-2.  Now that you're in the product, what actions do you want to take? This will help you understand which features are easy to discover and how clear your product's navigation and calls to action are.
-3.  What are you thinking right now? How does that make you feel? I tend to ask this at every new step the user lands on, because people tend not to notice their self-talk and feelings otherwise.
+1. What do you think the purpose of this product is? Who do you think it's for? This will give you a sense of how effective your product's landing page is. It also gives you ideas for words to describe your product that resonate with people.
+2. Now that you're in the product, what actions do you want to take? This will help you understand which features are easy to discover and how clear your product's navigation and calls to action are.
+3. What are you thinking right now? How does that make you feel? I tend to ask this at every new step the user lands on, because people tend not to notice their self-talk and feelings otherwise.
 
 Things to note:
 
@@ -33,11 +33,11 @@ Things to note:
 
 Deconstructing products:
 
-1.  What's the experience of getting started or signing up?
-2.  How does this app explain itself in the first minute?
-3.  How easy to use was the app?
-4.  How did you feel while exploring the app?
-5.  Did the app deliver on your expectations?
+1. What's the experience of getting started or signing up?
+2. How does this app explain itself in the first minute?
+3. How easy to use was the app?
+4. How did you feel while exploring the app?
+5. Did the app deliver on your expectations?
 
 Some of the product design choices become more salient and it's easier to get hints of the product's strategy.
 

@@ -1,32 +1,31 @@
 ### map of content (articles)
 
-#### random cool shit
-- https://nav.al/
-- https://www.themarginalian.org/
-- https://www.ribbonfarm.com/
-- https://www.nevertoosmall.com/
-- https://perell.com/recommendations/
-- https://www.peterates.com/index.shtml
-- https://openaudible.org/
-- https://www.mentalcanvas.com/
-- https://sandbox.eth.build/
-- https://gallery.nftx.org/
-- https://superrare.co/
-- https://makersplace.com/
-- https://tryroll.com/
-- https://www.digitalax.xyz/homepage
-- https://www.window-swap.com
-- https://andymatuschak.org/
-- https://www.justwatch.com
+#### writers 
+- [naval ravikant](https://nav.al/)
+- [the marginalian previously brain pickings](https://www.themarginalian.org/)
+- [venkatesh rao](https://www.ribbonfarm.com/)
+- [david perell](https://perell.com/recommendations/)
+- [pete stahl on ballots](https://www.peterates.com/index.shtml)
+- [cobie web3](https://cobie.substack.com/)
+- [andy matuschak](https://andymatuschak.org/)
+- [andy matuschak working notes](https://notes.andymatuschak.org)
 
 ---
 
 #### travel
+- [virtual vacation](https://virtualvacation.us/)
 - [cc points and hacks](https://www.allthehacks.com/travel-hacks-leigh-rowan/)
 - [overseas healthcare](https://www.allthehacks.com/hacking-healthcare-marshall-allen/)
 - [one bag example](https://jeremymaluf.com/onebag/)
 - [e-sim for phones](https://www.gigsky.com)
 - [1password travel mode](https://support.1password.com/travel-mode/)
+- [window swap](https://www.window-swap.com)
+
+---
+
+#### art
+- [never too small](https://www.nevertoosmall.com/)
+- [3d art](https://www.mentalcanvas.com/)
 
 ---
 
@@ -62,6 +61,9 @@
 - [james clear writing](https://jamesclear.com/articles)
 - [great speeches](https://jamesclear.com/great-speeches)
 - [the optimal amount of hassle](https://www.collaborativefund.com/blog/the-optimal-amount-of-hassle/)
+- [kevin kelly bits of advice](https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/#disqus_thread)
+- [the way up is the same as down](https://twitter.com/DrCamRx/status/970561340329795584)
+- [radical acceptance and responsibility](https://twitter.com/DrCamRx/status/1180205914973818880)
 
 ---
 
@@ -121,6 +123,7 @@
 - [online privacy 101](https://onlineprivacy101.info/)
 - [take action now](https://twitter.com/sweatystartup/status/1503156514894360577)
 - [the future of elon twitter](https://stratechery.com/2022/back-to-the-future-of-twitter)
+- [mental frameworks for better thinking](https://untools.co/?utm_campaign=mb&utm_medium=newsletter&utm_source=morning_brew)
 
 ---
 
@@ -178,11 +181,11 @@
 - [progressive decentralization](https://a16z.com/2020/01/09/progressive-decentralization-crypto-product-management/)
 - [customer base composability](https://future.a16z.com/can-community-composability-help-web2-users-make-the-jump-to-web3/)
 - [ethereum sign-in](https://login.xyz/)
+- [builder onboarding](https://sandbox.eth.build/)
 
 ---
 
 #### wallets 
-
 - [a review of metamask](https://blog.cryptographyengineering.com/2022/01/14/an-extremely-casual-code-review-of-metamasks-crypto/)
 - [keystone hardware wallets](https://keyst.one/)
 - [wallet signing & broadcasting](https://medium.com/portis/part-three-creating-and-signing-ethereum-transactions-e9cca44d7e2d)
@@ -194,11 +197,15 @@
 ---
 
 #### nfts
+- [decentralized nft exchange](https://gallery.nftx.org/)
+- [super rare nft marketplace](https://superrare.co/)
+- [makers marketplace](https://makersplace.com/)
 - [nft canon](https://future.a16z.com/nft-canon/)
 - [nfts make the internet ownable](https://variant.mirror.xyz/T8kdtZRIgy_srXB5B06L8vBqFHYlEBcv6ae2zR6Y_eo)
 - [power to the person](https://www.notboring.co/p/power-to-the-person-audio)
 - [how to make an nft](https://medium.com/geekculture/how-to-transform-your-art-into-a-nft-b02a4aee6fd4)
 - [nfts for athletes](https://media.consensys.net/blockchain-in-sports-the-future-of-sports-and-game-chain-gers-to-come-e78c751bbd3)
+- [composable nfts](https://www.digitalax.xyz/homepage)
 - [nft traps](https://seths.blog/2021/03/nfts-are-a-dangerous-trap/)
 - [nft mental model](https://studio.ribbonfarm.com/p/magic-beans)
 - [nft canon by a16z future](https://future.a16z.com/nft-canon/)
@@ -237,6 +244,7 @@
 
 #### deso
 - [decentralization of twitter](https://balajis.com/elondrop/)
+- [social tokens](https://tryroll.com/)
 
 ---
 
@@ -259,7 +267,6 @@
 ---
 
 #### learn chinese menu items
-
 - red hot wok
 	- 滷肉飯 / lǔ ròu fàn 
 	- 脆皮肥腸 / cuì pí féi cháng

@@ -2,8 +2,8 @@
 
 At 10th Planet San Mateo, we have in effect what we call a "burrito tax". If you're sparring with your partner and you get caught or catch someone with a [twister submission](https://www.youtube.com/watch?v=eYZJ3EoSzj8&t=103s), the guy or gal who taps owes their opponent a burrito. Oh and also, wrist locks are tacos. Here are my current debts:
 
-- Alan - 🌯🌯
-- Adam - 🌯
+- Alan - 🌯🌯🌮
+- Adam - 🌯🌯🌯🌯
 - 10p Dennis - 🌯
 - CTA Dennis - 🌯
 - Marangoni - 🌯
