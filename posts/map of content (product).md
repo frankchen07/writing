@@ -10,33 +10,37 @@ In web2, [[product management is about value and viability]]. This is a more or 
 
 #### product reviews
 
-* Here's [[a product review of choice kingdom trust]], an IRA platform that is friendly to digital assets.
+I've written [[a product review of choice kingdom trust]], an IRA platform that is friendly to digital assets. For the time being, I'm still using them, but only because their customer service has been responsive. There's way too many shitty UI issues, random fees, inane paperwork processes that inch me closer to quitting them permanently. 
+
+Since I've been investigating web3 wallets a little bit deeper, I've vocalized [[a product deconstruction of phantom wallet]], one of the more prominent wallets in the Solana ecosystem. This is just me making sure to [[consciously build product sense]].
 
 ---
 
 #### standup
 
-* [[how you organize your day determines your day]]
+I've found that [[how you organize your day determines your day]], so I created a template for myself on how I would like to catch up with my own team.
 
 ---
 
 #### conducting user interviews
 
-* [[developing product sense is about user empathy and deconstructing products]]
-* [[customers don't usually know what they want]]
+One thing to get really good at is talking to users often, because [[developing product sense is about user empathy and deconstructing products]].
+
+We do have to remember that [[customers don't usually know what they want]], so make sure to synthesize your results afterward.
 
 ---
 
 #### prioritization
 
-* [[prioritization should be simple]]
-* [[prioritizing at early product market fit stages is different]]
+After several years of just jumbled prioritization, I generally like to keep things minimal, and have come to the conclusion that [[prioritization should be simple]] but also unique to the problem at hand. 
+
+It's also true that [[prioritizing at early product market fit stages is different]], so there's never really a one size fits all
 
 ---
 
 #### building product sense
 
-* [[consciously build product sense]]
+Deconstruct products and ask targeted questions to [[consciously build product sense]].
 
 ---
 
