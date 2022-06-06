@@ -81,13 +81,3 @@ Some copied notes in progress from Mind Gym by Gary Mack and Chasing Excellence 
 * [[fake it till you fulfill the physical and mental]]
 * [[cultivate inner excellence]]
 * [[encompass the 5 Ls of your sport]]
-
-
-
-
-
-
-
-
-
-[[mental and breathing exercises to break the loop]]
