@@ -51,7 +51,7 @@ One could say all this shit is super complicated, and the best course of action 
 
 The first step is to see that [[observing that your attention is elsewhere is coming back to the present]]. It's like catching yourself falling asleep as your head is about to hit the seat - "ah! I'm awake! I'm here." If you're thinking about what might happen or what has happened, your'e really not paying attention to what's going on in front of you.
 
-I find that [[focusing on breathing brings me back to the present]].
+I find that [[focusing on breathing brings me back to the present]]. Other jiujitsu athletes [[focus on execution, not the outcome]].
 
 ---
 
@@ -81,3 +81,13 @@ Some copied notes in progress from Mind Gym by Gary Mack and Chasing Excellence 
 * [[fake it till you fulfill the physical and mental]]
 * [[cultivate inner excellence]]
 * [[encompass the 5 Ls of your sport]]
+
+
+
+
+
+
+
+
+
+[[mental and breathing exercises to break the loop]]

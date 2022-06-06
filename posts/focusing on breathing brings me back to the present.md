@@ -8,4 +8,16 @@ At the very least, it opens the door to feeling loose and dangerous. I might eve
 
 ---
 
+Anytime you start having negatively spiraling thoughts, immediately begin counting down from 5. When you do so you engage the pre-frontal cortex and you break out of the loop. 
+
+To create your own adrenaline, do Wim-Hof breathing, 25-30 deep and forceful inhales and exhales. 
+
+To calm yourself down, do 2-in 1-out breathing. Breathe in deep, then another sharp breath in to expand the sacs, then out. 
+
+Visualize the conditions so that you know what it feels like day of.
+
+In the current moment, just focus on the next track necessary. "I don't know where I'm going but I know exactly how to get there."
+
+---
+
 Back to [[map of content (mindset)]]

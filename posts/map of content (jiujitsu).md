@@ -4,7 +4,7 @@ At 10th Planet San Mateo, we have in effect what we call a "burrito tax". If you
 
 - Alan - 🌯🌯🌮
 - Adam - 🌯🌯🌯🌯
-- 10p Dennis - 🌯
+- 10p Dennis - 🌯🌯
 - CTA Dennis - 🌯
 - Marangoni - 🌯
 
@@ -97,6 +97,9 @@ One of the tougher battles in jiujitsu is how to better spot and take advantage 
 
 - [[jiujitsu game]]
 - [[jiujitsu accomplishments]]
-- [[break glass in case of mental hardship]]
+- [[2022 may 6th f2w improvements]]
+- [[2022 pdx workshop]]
+- [[your past does not determine your present]]
+- [[competition rolls should be assertive not aggressive]]
 
 
