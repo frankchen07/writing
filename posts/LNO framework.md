@@ -1,4 +1,4 @@
-### LNO framework
+### lno framework
 
 Tasks fall into three categories:
 

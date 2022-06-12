@@ -124,6 +124,7 @@
 - [take action now](https://twitter.com/sweatystartup/status/1503156514894360577)
 - [the future of elon twitter](https://stratechery.com/2022/back-to-the-future-of-twitter)
 - [mental frameworks for better thinking](https://untools.co/?utm_campaign=mb&utm_medium=newsletter&utm_source=morning_brew)
+- [mark cuban killing it](https://www.reddit.com/r/MadeMeSmile/comments/v6fvdl/more_of_this_please/)
 
 ---
 
@@ -201,7 +202,7 @@
 - [super rare nft marketplace](https://superrare.co/)
 - [makers marketplace](https://makersplace.com/)
 - [nft canon](https://future.a16z.com/nft-canon/)
-- [nfts make the internet ownable](https://variant.mirror.xyz/T8kdtZRIgy_srXB5B06L8vBqFHYlEBcv6ae2zR6Y_eo)
+- [nfts make the internet ownable](https://variant.mirror.xyz/T8kdtZRIgy_srXB5B06L8vBqFHYlEBcv6ae2zR6Y_eo
 - [power to the person](https://www.notboring.co/p/power-to-the-person-audio)
 - [how to make an nft](https://medium.com/geekculture/how-to-transform-your-art-into-a-nft-b02a4aee6fd4)
 - [nfts for athletes](https://media.consensys.net/blockchain-in-sports-the-future-of-sports-and-game-chain-gers-to-come-e78c751bbd3)
@@ -209,6 +210,7 @@
 - [nft traps](https://seths.blog/2021/03/nfts-are-a-dangerous-trap/)
 - [nft mental model](https://studio.ribbonfarm.com/p/magic-beans)
 - [nft canon by a16z future](https://future.a16z.com/nft-canon/)
+- [metaverse properties](https://a16zcrypto.com/metaverse-real-estate-digital-land-value-to-users/)
 
 ---
 
