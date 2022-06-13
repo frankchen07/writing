@@ -1,4 +1,4 @@
-### lno framework
+### leverage neutral overhead (lno) framework
 
 Tasks fall into three categories:
 

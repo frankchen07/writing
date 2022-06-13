@@ -20,7 +20,7 @@ Since I've been investigating web3 wallets a little bit deeper, I've vocalized [
 
 I've found that [[how you organize your day determines your day]], so I created a template for myself on how I would like to catch up with my own team.
 
-Staying focused in today's working landscape is also a challenge. I'm looking to test Shreya's [[lno framework]] to help prioritize execution tasks.
+Staying focused in today's working landscape is also a challenge. I'm looking to test Shreya's [[leverage neutral overhead (lno) framework]] to help prioritize execution tasks.
 
 Use pre-mortems to expose product-killing "gotchas". Use post-mortems to figure out how you can do something better next time.
 
