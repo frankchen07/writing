@@ -13,13 +13,13 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          Hello, I'm Frank. This site is where you'll find my working notes, where everything is a work in progress. To explore, I'm in the process of patching together some maps of content (MOCs) on topics that I find interesting. Everything under "working notes" is linked to a map of content.
+          Hello, I'm <a href='https://www.linkedin.com/in/frankchen07/'>Frank</a>. This site contains my working knowledge base.
         </p>
         <p>
-          Currently, there's three maps of content in progress - one about <a href='https://www.frank-chen.com/posts/map-of-content-(product)'>product management</a>, another about <a href='https://www.frank-chen.com/posts/map-of-content-(mindset)'>mindset</a>, and the last about <a href='https://www.frank-chen.com/posts/map-of-content-(jiujitsu)'>jiujitsu</a>. 
+          Currently, there are several "maps of content" (MOC) in progress. There's one about <a href='https://www.frank-chen.com/posts/map-of-content-(product)'>product management</a>, another about <a href='https://www.frank-chen.com/posts/map-of-content-(mindset)'>mindset</a>, and the last about <a href='https://www.frank-chen.com/posts/map-of-content-(jiujitsu)'>jiujitsu</a>. To explore, I'd recommend clicking through a map, but if you're in the mood for roulette, you can jump around under the "working notes" header, which may or may not be linked to a MOC.
         </p>
         <p>
-          There's also some older stuff I'm migrating over. I haven't fully decided how committed I am to these, but I've written some things about <a href='https://www.frank-chen.com/posts/map-of-content-(cooking)'>cooking</a> and have some canned <a href='https://www.frank-chen.com/posts/map-of-content-(scripts)'>scripts</a> that have served me well professionally. I also collect random <a href='https://www.frank-chen.com/posts/map-of-content-(articles)'>articles</a> that I like to revisit on a semi-regular basis. 
+          There's also some older stuff I'm migrating over. I haven't fully decided how committed I am to these, but I've written some things about <a href='https://www.frank-chen.com/posts/map-of-content-(cooking)'>cooking</a> and have some canned <a href='https://www.frank-chen.com/posts/map-of-content-(scripts)'>scripts</a> that have served me well professionally. I also collect random <a href='https://www.frank-chen.com/posts/map-of-content-(articles)'>articles</a> that I like to revisit on a semi-regular basis.
         </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
