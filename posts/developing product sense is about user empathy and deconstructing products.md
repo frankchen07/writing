@@ -23,11 +23,11 @@ To build empathy, try some of these questions:
 
 Things to note:
 
-1.  People are time-crunched and distracted when they use your product. They might not read labels or text and might not be willing to spend even a few seconds to figure out what to do next. Pick the right defaults and use visual design and cues to make primary actions obvious (e.g. prominence, lack of distractions).
+1. People are time-crunched and distracted when they use your product. They might not read labels or text and might not be willing to spend even a few seconds to figure out what to do next. Pick the right defaults and use visual design and cues to make primary actions obvious (e.g. prominence, lack of distractions).
 2. People will drop out of a product flow as soon as they feel confused or nervous that they might be doing something wrong. Make sure labels are unambiguous and contrast options appropriately.
 3. Don't give people too much information at once, because once they feel overwhelmed, they tend to leave. For example, we ran pricing page experiments at Slack and saw increases in purchases when we moved some of the information on the various purchase options behind a dropdown list.
 4. Context impacts decisions. Use tools like comparisons, contrasting, and social proof to make it easier for users to make a decision.
-5.  Make sure the goal of your product and possible actions are clear to users.
+5. Make sure the goal of your product and possible actions are clear to users.
 
 ---
 

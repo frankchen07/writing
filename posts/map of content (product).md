@@ -35,6 +35,8 @@ One thing to get really good at is talking to users often, because [[developing 
 
 We do have to remember that [[customers don't usually know what they want]], so make sure to synthesize your results afterward.
 
+[Conducting research](https://www.youtube.com/watch?v=DtvSR8Q1MZ4) with your target market and target users is ridiculously important. The aim is to [[use research to discover, evaluate, and refine]], and [[use prototyping to map out a user experience]].
+
 ---
 
 #### prioritization
