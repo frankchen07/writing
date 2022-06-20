@@ -7,6 +7,7 @@ This page is just a compilation of a bunch of writing scripts that you can draw 
 - [[how to do another cold introduction]]
 - [[how to do a warm introduction]]
 - [[use double opt intros to stop pissing people off]]
+- [[the ability to ask good questions is an indispensable skill]]
 
 #### increasing serendipity
 - [[how to write well to make a career switch]]
