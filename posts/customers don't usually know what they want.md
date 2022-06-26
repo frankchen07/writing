@@ -16,7 +16,7 @@ Why is this such a problem?
 
 What is the solution?
 
-1. Plan outcome baed customer interviews by carefully planning out the product usage process that includes the "successful" outcome of each step
+1. Plan outcome based customer interviews by carefully planning out the product usage process that includes the "successful" outcome of each step
 
 2. User selection is highly important. Who you select will determine the life or death of your product. Select diverse users who can judge the value and [specific characteristic] of your product.
 
@@ -36,7 +36,7 @@ Some question pointers:
 * Suss out their frustrations.
 	* What is difficult about [process]?
 	* What do you find frustrating about [process]?
-		* If you had a magic wand what would this [process] look like?
+	* If you had a magic wand what would this [process] look like?
 
 ---
 

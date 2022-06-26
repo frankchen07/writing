@@ -6,16 +6,13 @@ At the same time, don't always do everything your users ask. Make sure you deepl
 
 The primary goal is to make 10 customers deeply happy.
 
-Who are these customers? 
-Why are they here? 
-What are they trying to achieve?
-What's keeping them from quickly accomplishing what they want to accomplish?
+- Who are these customers? 
+- Why are they here? 
+- What are they trying to achieve?
+- What's keeping them from quickly accomplishing what they want to accomplish?
+- What major problem or frustrations do they have?
 
-What major problem or frustrations do they have?
-
-Solve for blockers and bugs.
-
-Solve for these frustrations.
+Once you have an understanding of that user, you can look to solving their frustrations.
 
 ---
 

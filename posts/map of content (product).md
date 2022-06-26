@@ -31,9 +31,9 @@ Use pre-mortems to expose product-killing "gotchas". Use post-mortems to figure 
 
 #### conducting user interviews
 
-One thing to get really good at is talking to users often, because [[developing product sense is about user empathy and deconstructing products]].
+One thing to constantly do is to [[consciously build product sense]]. The more you talk to your users, the more intuition you gain, and the better you're able to assess the underlying behaviors that take place.
 
-We do have to remember that [[customers don't usually know what they want]], so make sure to synthesize your results afterward.
+We do have to remember that [[customers don't usually know what they want]], so make sure to properly structure your conversations and synthesize your results afterward.
 
 [Conducting research](https://www.youtube.com/watch?v=DtvSR8Q1MZ4) with your target market and target users is ridiculously important. The aim is to [[use research to discover, evaluate, and refine]], and [[use prototyping to map out a user experience]].
 
@@ -41,7 +41,7 @@ We do have to remember that [[customers don't usually know what they want]], so 
 
 #### prioritization
 
-After several years of just jumbled prioritization, I generally like to keep things minimal, and have come to the conclusion that [[prioritization should be simple]] but also unique to the problem at hand. 
+After several years of just jumbled prioritization, I generally like to keep things minimal, and have come to the conclusion that [[prioritization should be simple]] but also unique to the problem at hand. Something to note is that [prioritization can be as much as a political problem as it is an analytical problem](https://www.mironov.com/pri-politics/), so be aware. 
 
 It's also true that [[prioritizing at early product market fit stages is different]], so there's never really a one size fits all.
 
@@ -63,7 +63,7 @@ Generally, [[misalignment is caused by folks talking past one another]]. Perk yo
 
 #### building community
 
-I've been reading some books about community, and I'm increasingly of the opinion that [[building community is a legitimately valuable skill]].
+I've been reading some books about community, and I'm increasingly of the opinion that [[building community is another form of understanding users]].
 
 ---
 

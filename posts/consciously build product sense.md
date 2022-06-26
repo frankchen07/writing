@@ -1,43 +1,55 @@
 ### consciously build product sense 
 
-Product sense can develop from the core fundamental processes of product management, which is understanding and fulfilling unmet user needs.
+Product sense is the skill of consistently being able to craft products that have an intended impact on their users. The ways of building this skill come from:
 
-Building on fulfillling unmet user needs, we can also:
-
-1. build empathy by observing users interacting with products, and deconstructing products
-
-2. improve creativity by reframing the problem and constantly learning from great product thinkers and upcoming technology trends
-
-During observation assess if the user is understanding what it is they're looking at. Get their thoughts right there, in the moment. Do they:
-
-1. understand what the value proposition of the product is?
-2. understand what actions they can immediately take? 
-
-Some additional questions:
-
-1. what's the experience of getting started or signing up?
-2. how does this app explain itself in the first minute?
-3. how easy to use was the app?
-4. how did you feel while exploring the app?
-5. did the app deliver on your expectations, where were you frustrated, where were you delighted?
-
-Compare applications:
-
-1. what's the value proposition?
-2. what's the look and feel of the app?
-3. how easy is it to discover and perform core actions?
-4. did the app deliver on your expectations?
-
-Some assumptions that Jules Walter has observed during his time at Slack:
-
-1. users are time-crunched and distracted when they use your product
-2. users bolt at the first sign of confusion
-3. users are prone to information overload
-4. context impacts decisions
-5. what's the fucking point of your product? make this clear
+1. observing users interacting with products
+2. practicing product deconstructions
+3. learning from other great product thinkers
 
 ---
 
-Source: Jules Walter via Lenny's Newsletter on [building product sense](https://www.lennysnewsletter.com/p/product-sense)
+#### observation
+
+During observation, assess if the user is understanding what it is they're looking at. Get their thoughts right there, in the moment.
+
+1. What is the value proposition of the product?
+2. Who do they think it is for?
+3. What actions they can immediately take? 
+4. What are they thinking as they use it?
+5. Did the product deliver on their expectations?
+6. Where were they frustrated?
+7. Where were they delighted?
+
+---
+
+#### running your own product deconstructions
+
+You can run deconstructions of various products by answering some of these questions and comparing them between products:
+
+1. What's the experience of getting started or signing up?
+2. How does this app explain itself in the first minute?
+3. How easy to use was the app?
+4. How did you feel while exploring the app?
+5. Did the app deliver on your expectations?
+
+Some of the product design choices become more salient and it's easier to get hints of the product's strategy.
+
+Observe your own frustrations and delights!
+
+---
+
+#### jules walter
+
+Here are some of the observations from [Jules Walter](https://www.lennysnewsletter.com/p/product-sense) of Slack fame when empathizing with users:
+
+1. People are time-crunched and distracted when they use your product. They might not read labels or text and might not be willing to spend even a few seconds to figure out what to do next. Pick the right defaults and use visual design and cues to make primary actions obvious (e.g. prominence, lack of distractions).
+2. People will drop out of a product flow as soon as they feel confused or nervous that they might be doing something wrong. Make sure labels are unambiguous and contrast options appropriately.
+3. Don't give people too much information at once, because once they feel overwhelmed, they tend to leave. For example, we ran pricing page experiments at Slack and saw increases in purchases when we moved some of the information on the various purchase options behind a dropdown list.
+4. Context impacts decisions. Use tools like comparisons, contrasting, and social proof to make it easier for users to make a decision.
+5. Make sure the goal of your product and possible actions are clear to users. What's the fucking point?
+
+---
+
+Source: Jules Walter via Lenny's Newsletter
 
 Back to [[map of content (product)]]

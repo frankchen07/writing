@@ -12,7 +12,7 @@ There's also a growing need for practical, easy applications that can onboard no
 
 In summary, what does this mean for skill development as product folks delve into the world of web3?
 
-1. Start now on nurturing and developing quality relationships that form the backbone of your community. Continually invest in and grow your community. Understand that [[building community is a legitimately valuable skill]].
+1. Start now on nurturing and developing quality relationships that form the backbone of your community. Continually invest in and grow your community. Understand that [[building community is another form of understanding users]].
 2. Focus on the relationship between you and your designer. Make sure you're testing your designs for understanding and content. Better yet, become a semi-expert yourself in what consists of a good user experience.
 3. Understand that onboarding is precious in web3. The risk is always that you lose a user for life if you don't get it right the first time.
 4. If you work in multiple DAOs as a product manager, constantly identify your highest leverage points. If you being to lose context it's time to re-evaluate. 
