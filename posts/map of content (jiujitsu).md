@@ -56,7 +56,9 @@ I went deep on some sport psychology books to learn a little bit about mental pe
 
 To start, [[the way you show up on the mats matters]]. Your attitude is infectious and affects others. If it's up, you'll inspire. If it's down you'll drag. Inspire, don't drag.
 
-You're going to get wrecked in the process of becoming a competent jiujitsu athlete. Don't despair when you roll with higher level athletes because [[approaching higher level players is a mental challenge]]. Naturally, there will be skill gaps, but [[do not start yourself at a deficit]] and go into a roll or competition with a defeatist attitude. That's a surefire way to tank your performance because [[the subconscious is where true performance lies]].
+You're going to get wrecked in the process of becoming a competent jiujitsu athlete. Don't despair when you roll with higher level athletes because [[approaching higher level players is a mental challenge]]. Naturally, there will be skill gaps, but [[do not start yourself at a deficit]] and go into a roll or competition with a defeatist attitude. That's a surefire way to tank your performance because [[the subconscious is where true performance lies]]. 
+
+When it comes to competition, [[success at competing requires more than just technique]], it's a combination of conditioning, tempo, mindset, attitude, belief, confidence, and technique. 
 
 You're also going to get stuck in your progression. There are highs, lows, and plateaus. You'll naturally move past them, but switching it up can offer methods of getting unstuck. My best advice here is to [[aim to perceive what you have not perceived to get unstuck]].
 
@@ -93,13 +95,12 @@ One of the tougher battles in jiujitsu is how to better spot and take advantage 
 
 ---
 
-#### some random items not yet ready 
+#### not yet ready 
 
+- [[leg lock currriculum]]
 - [[jiujitsu game]]
 - [[jiujitsu accomplishments]]
 - [[2022 may 6th f2w improvements]]
 - [[2022 pdx workshop]]
-- [[your past does not determine your present]]
-- [[competition rolls should be assertive not aggressive]]
 
 

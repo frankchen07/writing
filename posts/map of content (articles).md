@@ -64,6 +64,7 @@
 - [kevin kelly bits of advice](https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/#disqus_thread)
 - [the way up is the same as down](https://twitter.com/DrCamRx/status/970561340329795584)
 - [radical acceptance and responsibility](https://twitter.com/DrCamRx/status/1180205914973818880)
+- [let us reject the great flattening](https://ckarchive.com/b/r8u8hoh22n9qe)
 
 ---
 
