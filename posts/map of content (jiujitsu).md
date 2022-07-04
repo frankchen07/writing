@@ -1,18 +1,14 @@
 ### map of content (jiujitsu)
 
-At 10th Planet San Mateo, we have in effect what we call a "burrito tax". If you're sparring with your partner and you get caught or catch someone with a [twister submission](https://www.youtube.com/watch?v=eYZJ3EoSzj8&t=103s), the guy or gal who taps owes their opponent a burrito. Oh and also, wrist locks are tacos. Here are my current debts:
+Here, I post concepts that have helped me through my continuing jiujitsu journey. I revisit these at different points and it almost always brings new perspective to my game and my life. I will be constantly adding and rebuilding these, so check back if you're interested.
+
+At my primary gym (10th Planet San Mateo), we have in effect what we call a "burrito tax". If you're sparring with your partner and you get caught or catch someone with a [twister submission](https://www.youtube.com/watch?v=eYZJ3EoSzj8&t=103s), the guy or gal who taps owes their opponent a burrito. Oh and also, wrist locks are tacos. Here are my current debts:
 
 - Alan - 🌯🌯🌮
 - Adam - 🌯🌯🌯🌯
 - 10p Dennis - 🌯🌯
 - CTA Dennis - 🌯
 - Marangoni - 🌯
-
----
-
-Here, I post concepts that have helped me through my continuing jiujitsu journey. I revisit these at different points and it almost always brings new perspective to my game and my life. I will be constantly adding and rebuilding these, so check back if you're interested.
-
----
 
 #### jiujitsu as a whole
 
@@ -24,8 +20,6 @@ From a personal standpoint, [[everything you do in jiujitsu should be an express
 
 At some point in your journey, you will begin to understand the ethos of "[[each one teach one]]", a concept that I've again experienced in my bboying days. To me, "each one teach one" is about the cycle of responsible mentorship. Someone took the time and patience to bring you from a naive white belt to a limb-controlling, strangle-inducing monster. It is only right that when you are ready, you pass the knowledge along so new grapplers can embark on their own journey. This is how we level up the sport together.
 
----
-
 #### knowing the rules
 
 You should [[know the rules if you're going to play the game]]. This is a set of notes from an IBBJF rules seminar that was held at Caio Terra Academy. 
@@ -33,8 +27,6 @@ You should [[know the rules if you're going to play the game]]. This is a set of
 Just reading the rulebook is actually not enough. There are a lot of "gotcha" situations and technical definitions that really only come to light when you're in a particular situation. If you want to play the game, know the rules, because there will come a day when you need that one point to win your match.
 
 This is a pretty basic concept. If you're competing in IBJJF matches, know those rules. ADCC? EBI? Something else? Give it a read and train under those constraints. Know what submissions are legal and illegal. Know the point system. Know what happens when you go out of bounds. Defend yourself at all times. Or, you could keep the heart of the art alive and always go for the submission win. You can't deny wins off of submissions.
-
----
 
 #### training and learning
 
@@ -47,8 +39,6 @@ When training new movements, [[train under constrained environments]]. This allo
 Purposely get into bad positions. Put yourself there and [[train with late stage escapes]], both for you and for your partner. It will allow you to develop late-stage defenses that are critical in high-level matches.
 
 Finally, for competitors - [[training habits are competition habits]]. Performance that outranks what you do in the training room is rare and generally is an exception. While you can rise to the occasion, the reality is more that you fall to the level of training. Make sure your baseline level of training encompasses competition habits.
-
----
 
 #### the mental side
 
@@ -64,9 +54,7 @@ You're also going to get stuck in your progression. There are highs, lows, and p
 
 Above all, don't quit, because [[a hopeful mindset keeps one in the pocket]], and the longer you're in the pocket, the more benefits and opportunities you'll come across.
 
----
-
-### movement
+#### movement
 
 Let's talk about movement. I revisit these concepts at different points in my journey because they consistently hold different meanings every time I revisit them. This is partly because jiujitsu is a fluid, dynamic entity. It's constantly changing. My life is also constantly changing, so even my interpretation is different on each visit.
 
@@ -93,10 +81,7 @@ One of the tougher battles in jiujitsu is how to better spot and take advantage 
 - [[cultivate a fail opportunity mindset to continue the action]]
 - [[don't be satisfied with only escaping]]
 
----
-
-#### not yet ready 
-
+#### work in progress
 - [[leg lock currriculum]]
 - [[jiujitsu game]]
 - [[jiujitsu accomplishments]]

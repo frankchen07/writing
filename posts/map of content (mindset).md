@@ -2,7 +2,7 @@
 
 Just a note - much of the linked examples here relate to my forays of mindset in the sport of jiujitsu.
 
----
+#### first exposure
 
 The Inner Game of Tennis by Timothy Gallwey was one of the first sport psychology books that I read. He lays out what an athlete should do in order to stop over-analyzing and perform to their fullest ability. The TLDR is hard work and smart training imprints performance to the subconscious, and the way to activate it is for us to shut our conscious brain up and step out of the way. 
 
@@ -11,7 +11,7 @@ The Inner Game of Tennis by Timothy Gallwey was one of the first sport psycholog
 3. [[experience in the present opens you to the language of opportunity]]
 4. [[repeat non judgmental observation to assess the outcome]]
 
----
+#### the subconscious
 
 Many authors talk about the differentiation between the conscious and the subconscious mind. Our conscious mind is the one that we mostly experience on a day to day basis, but [[the subconscious is where true performance lies]].
 
@@ -21,9 +21,9 @@ There are mental exercises you can immediately partake in. The first is to [[acc
 
 If you're like me and have trouble truly believing in yourself, then [[act your way into beliefs which reinforce your actions]]. Alternatively, you can also [[choose courage over confidence]], which in the same stroke, allows you to positively build evidence towards confidence.
 
----
+#### self image & perception
 
-A vital part of performing is an athelete's self image. They say you don't "rise to the occasion", but "fall to the level of your training". While true, if the athlete has a strong, positive self image, worked intelligently, and has a strategic game plan, they indeed can rise to the occasion. 
+A vital part of performing is an athlete's self image. They say you don't "rise to the occasion", but "fall to the level of your training". While true, if the athlete has a strong, positive self image, worked intelligently, and has a strategic game plan, they indeed can rise to the occasion. 
 
 For those still working towards a better self image, it's going to be a conscious process. You must [[constantly decide to be, not try]]. When you're "being", and you won't be perfect the first, fifth, or 500th try, you will still inch closer and closer to embodiments and characteristics of that particular identity. This is because [[the self image regulates like a thermostat]]. Your [[acts reinforce beliefs]] and this further cycles into a more positive or more negative self image.
 
@@ -45,7 +45,7 @@ In the short-term, you must actively practice:
 6. [[create a pressure log helps identify how to tune inward]]
 7. [[create daily intention by staying present and aware]]
 
----
+#### staying in the present 
 
 One could say all this shit is super complicated, and the best course of action is to stay in the present. 
 
@@ -53,7 +53,7 @@ The first step is to see that [[observing that your attention is elsewhere is co
 
 I find that [[focusing on breathing brings me back to the present]]. Other jiujitsu athletes [[focus on execution, not the outcome]].
 
----
+#### the process & the zone
 
 There are [[universal feelings when one gets into the zone]].
 
@@ -61,23 +61,23 @@ Also, you should [[care about the essence and the process]] not just the end. Ho
 
 Developing a system of [[mental management is your most important skill as a bjj athelete]]. Also, it helps to [[clear your baggage and be unencumbered]].
 
----
+#### uncategorized notes
 
-Some copied notes in progress from Mind Gym by Gary Mack and Chasing Excellence by Ben Bergeron
+Here are some copied notes in progress from "Mind Gym" by Gary Mack and "Chasing Excellence" by Ben Bergeron.
 
-* [[act yourself into a way of thinking]]
-* [[develop mental toughness with 7 Cs]]
-* [[limits end where vision ends]]
-* [[the mind responds better to positive action than negative action]]
-* [[your reaction is more important than interpretation]]
-* [[the stories you feed are the ones that come true]]
-* [[the man who wins is the man who thinks he can]]
-* [[scenario game if a champion would self talk the way you do]]
-* [[focus your attention on the present]]
-* [[turn off the analytical mind and see in the present]]
-* [[mental commitment leads to confidence and body commitment]]
-* [[confidence is the mastery of response]]
-* [[getting into the zone cannot be forced]]
-* [[fake it till you fulfill the physical and mental]]
-* [[cultivate inner excellence]]
-* [[encompass the 5 Ls of your sport]]
+- [[act yourself into a way of thinking]]
+- [[develop mental toughness with 7 Cs]]
+- [[limits end where vision ends]]
+- [[the mind responds better to positive action than negative action]]
+- [[your reaction is more important than interpretation]]
+- [[the stories you feed are the ones that come true]]
+- [[the man who wins is the man who thinks he can]]
+- [[scenario game if a champion would self talk the way you do]]
+- [[focus your attention on the present]]
+- [[turn off the analytical mind and see in the present]]
+- [[mental commitment leads to confidence and body commitment]]
+- [[confidence is the mastery of response]]
+- [[getting into the zone cannot be forced]]
+- [[fake it till you fulfill the physical and mental]]
+- [[cultivate inner excellence]]
+- [[encompass the 5 Ls of your sport]]

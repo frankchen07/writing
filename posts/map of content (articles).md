@@ -10,8 +10,6 @@
 - [andy matuschak](https://andymatuschak.org/)
 - [andy matuschak working notes](https://notes.andymatuschak.org)
 
----
-
 #### travel
 - [virtual vacation](https://virtualvacation.us/)
 - [cc points and hacks](https://www.allthehacks.com/travel-hacks-leigh-rowan/)
@@ -21,13 +19,9 @@
 - [1password travel mode](https://support.1password.com/travel-mode/)
 - [window swap](https://www.window-swap.com)
 
----
-
 #### art
 - [never too small](https://www.nevertoosmall.com/)
 - [3d art](https://www.mentalcanvas.com/)
-
----
 
 #### writing & philosophy
 - [philisophical thinking](https://perell.com/essay/how-philosophers-think/)
@@ -66,8 +60,6 @@
 - [radical acceptance and responsibility](https://twitter.com/DrCamRx/status/1180205914973818880)
 - [let us reject the great flattening](https://ckarchive.com/b/r8u8hoh22n9qe)
 
----
-
 #### product
 - [lenny's newsletter](https://www.lennysnewsletter.com/)
 - [planning](https://review.firstround.com/the-secret-to-a-great-planning-process-lessons-from-airbnb-and-eventbrite)
@@ -94,8 +86,6 @@
 - [the art of product management](https://newsletter.bringthedonuts.com/p/the-art-of-product-management?s=r)
 - [building product sense](https://www.lennysnewsletter.com/p/product-sense?s=r)
 - [forming community](https://review.firstround.com/a-founders-step-by-step-guide-to-getting-your-first-1000-community-members)
-
----
 
 #### tech thinking
 - [stables and volatiles](https://randsinrepose.com/archives/stables-and-volatiles/)
@@ -126,8 +116,6 @@
 - [the future of elon twitter](https://stratechery.com/2022/back-to-the-future-of-twitter)
 - [mental frameworks for better thinking](https://untools.co/?utm_campaign=mb&utm_medium=newsletter&utm_source=morning_brew)
 - [mark cuban killing it](https://www.reddit.com/r/MadeMeSmile/comments/v6fvdl/more_of_this_please/)
-
----
 
 #### crypto
 - [the great definancialization](https://nakamotoinstitute.org/mempool/bitcoin-is-the-great-definancialization/)
@@ -186,8 +174,6 @@
 - [builder onboarding](https://sandbox.eth.build/)
 - [a critical review of citycoins](https://docs.google.com/document/d/1Buolm-nVnjTmHTgOuPaYBebrvUF0QVdpaDVNHFQWFgc/edit)
 
----
-
 #### wallets 
 - [a review of metamask](https://blog.cryptographyengineering.com/2022/01/14/an-extremely-casual-code-review-of-metamasks-crypto/)
 - [keystone hardware wallets](https://keyst.one/)
@@ -196,8 +182,6 @@
 - [offline signing](https://eips.ethereum.org/EIPS/eip-4527)
 - [seed storage reviews](https://jlopp.github.io/metal-bitcoin-storage-reviews/)
 - [how to store a seed phrase](https://blog.lopp.net/how-to-back-up-a-seed-phrase/)
-
----
 
 #### nfts
 - [decentralized nft exchange](https://gallery.nftx.org/)
@@ -213,8 +197,6 @@
 - [nft mental model](https://studio.ribbonfarm.com/p/magic-beans)
 - [nft canon by a16z future](https://future.a16z.com/nft-canon/)
 - [metaverse properties](https://a16zcrypto.com/metaverse-real-estate-digital-land-value-to-users/)
-
----
 
 #### daos
 - [dao search service](https://daocentral.com/)
@@ -238,19 +220,13 @@
 - [internet of jobs](https://newsletter.banklesshq.com/p/the-internet-of-jobs-is-coming)
 - [dao opportunities](https://future.a16z.com/the-future-of-work-daos-crypto-networks)
 
----
-
 #### defi
 - [rekt](https://rekt.news/)
 - [defi summary](https://medium.com/alethio/the-defi-series-an-overview-of-the-ecosystem-and-major-protocols-da27d7b11191)
 
----
-
 #### deso
 - [decentralization of twitter](https://balajis.com/elondrop/)
 - [social tokens](https://tryroll.com/)
-
----
 
 #### coordination problems
 - [coordination](https://studio.ribbonfarm.com/p/coordination-headwinds)
@@ -262,13 +238,9 @@
 - [clr criticisms](https://www.evanvanness.com/post/190547220716/some-gentle-criticisms-and-comments-on)
 - [optimistic grants](https://medium.com/element-finance/the-future-looks-optimistic-a-new-primitive-for-grants-and-rewards-2fc32f2d09a6)
 
----
-
 #### contract security
 - [solana security](https://twitter.com/0xsanny/status/1508868586890223626?s=20&t=CMeOsHrQF-p6HIMGYpGmvA)
 - [solana contract auditing common pitfalls](https://blog.neodyme.io/posts/solana_common_pitfalls)
-
----
 
 #### learn chinese menu items
 - red hot wok

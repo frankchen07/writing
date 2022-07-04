@@ -6,15 +6,11 @@ I've been developing some thoughts revolving around [[trends in web3 product man
 
 In web2, [[product management is about value and viability]]. This is a more or less solidified opinion by the Silicon Valley Product Group (SVPG). I'll use this frame of view to make the case that web3 needs to move towards value and viability to reach it's full potential. But right now, [[web3 has been heavily focused on feasibility rather than usability]].
 
----
-
 #### product reviews
 
 I've written [[a product review of choice kingdom trust]], an IRA platform that is friendly to digital assets. For the time being, I'm still using them, but only because their customer service has been responsive. There's way too many shitty UI issues, random fees, inane paperwork processes that inch me closer to quitting them permanently. 
 
 Since I've been investigating web3 wallets a little bit deeper, I've vocalized [[a product deconstruction of phantom wallet]], one of the more prominent wallets in the Solana ecosystem. This is just me making sure to [[consciously build product sense]].
-
----
 
 #### standup & mortems
 
@@ -27,8 +23,6 @@ Use pre-mortems to expose product-killing "gotchas". Use post-mortems to figure 
 - [[premortems expose product killing gotchas]]
 - [[postmortems help improve future iterations]]
 
----
-
 #### conducting user interviews
 
 One thing to constantly do is to [[consciously build product sense]]. The more you talk to your users, the more intuition you gain, and the better you're able to assess the underlying behaviors that take place.
@@ -36,8 +30,6 @@ One thing to constantly do is to [[consciously build product sense]]. The more y
 We do have to remember that [[customers don't usually know what they want]], so make sure to properly structure your conversations and synthesize your results afterward.
 
 [Conducting research](https://www.youtube.com/watch?v=DtvSR8Q1MZ4) with your target market and target users is ridiculously important. The aim is to [[use research to discover, evaluate, and refine]], and [[use prototyping to map out a user experience]].
-
----
 
 #### prioritization
 
@@ -47,25 +39,17 @@ It's also true that [[prioritizing at early product market fit stages is differe
 
 In [Lenny's Podcast](https://open.spotify.com/episode/46ESEeVyHHA6sWE0AdfzTs?si=8a6cc8cc2f6747d4), Shreyas Doshi talks about his experiences with prioritizing work. He encourages us to [[minimize opportunity costs instead of pursuing returns on investment]].
 
----
-
 #### building product sense
 
 Deconstruct products and ask targeted questions to [[consciously build product sense]].
-
----
 
 #### getting alignment
 
 Generally, [[misalignment is caused by folks talking past one another]]. Perk your ears up and listen to which level you're on and which level others are on.
 
----
-
 #### building community
 
 I've been reading some books about community, and I'm increasingly of the opinion that [[building community is another form of understanding users]].
-
----
 
 #### random
 
