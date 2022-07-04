@@ -184,6 +184,7 @@
 - [customer base composability](https://future.a16z.com/can-community-composability-help-web2-users-make-the-jump-to-web3/)
 - [ethereum sign-in](https://login.xyz/)
 - [builder onboarding](https://sandbox.eth.build/)
+- [a critical review of citycoins](https://docs.google.com/document/d/1Buolm-nVnjTmHTgOuPaYBebrvUF0QVdpaDVNHFQWFgc/edit)
 
 ---
 
