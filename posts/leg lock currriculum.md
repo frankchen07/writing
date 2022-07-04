@@ -57,9 +57,9 @@
 - use outside ashi with heel captured to demonstrate concepts/finish
 
 #### understanding heel hook defense 
-1. understanding when and how you are safe to stay in the pocket
-2. understanding importance of knee positioning and knee line
-3. understanding the concept of the secondary leg and hip movement
+- understanding when and how you are safe to stay in the pocket
+- understanding importance of knee positioning and knee line
+- understanding the concept of the secondary leg and hip movement
 
 1. get secondary leg back
 2. ballerina toes and slip
@@ -70,9 +70,6 @@
 
 - use saddle/cross ashi to demonstrate concepts and defend
 - use outside ashi with heel captured to demonstrate concepts and defend
-
-
-
 
 #### cross ashi (saddle)
 - offensive & defensive man situationals
