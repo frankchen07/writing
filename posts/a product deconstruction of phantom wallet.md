@@ -60,7 +60,7 @@ Frustrations:
 2. The mobile application search was horrendous. I quit using search before I even found an application to connect to. 
 3. Based on the two experiences above, Phantom isn't really a good "onboarding" experience, despite being a decent wallet. I'll explain below.
 
-A wallet can just be a method of transferring assets, but building an engaging onboarding experience would most likely prevent several of the dead-stops I experienced. Most users probably would start at the application services level and discover that Phantom is a good choice to let them get access to certain decentralized applications. It's then up to Phantom to one, be delightful but also two, universally make it easy for users to interact with the Solana dApp ecosystem. 
+A wallet can just be a method of transferring assets, but building an engaging onboarding experience would most likely prevent several of the dead-stops I experienced. Most users probably would start at the application services level and discover that Phantom is a good choice to let them get access to certain decentralized applications. It's then up to Phantom to 1. be delightful but also 2. universally make it easy for users to interact with the Solana dApp ecosystem. 
 
 So, what are the biggest barriers to making a smooth wallet experience?
 
