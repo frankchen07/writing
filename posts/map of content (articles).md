@@ -9,6 +9,7 @@
 - [cobie web3](https://cobie.substack.com/)
 - [andy matuschak](https://andymatuschak.org/)
 - [andy matuschak working notes](https://notes.andymatuschak.org)
+- [paul graham on startup ideas](http://paulgraham.com/startupideas.html)
 
 #### travel
 - [virtual vacation](https://virtualvacation.us/)
@@ -59,6 +60,8 @@
 - [the way up is the same as down](https://twitter.com/DrCamRx/status/970561340329795584)
 - [radical acceptance and responsibility](https://twitter.com/DrCamRx/status/1180205914973818880)
 - [let us reject the great flattening](https://ckarchive.com/b/r8u8hoh22n9qe)
+- [the work](https://thework.com/instruction-the-work-byron-katie/)
+- [quit your job](https://palladiummag.com/2022/01/06/quit-your-job/)
 
 #### product
 - [lenny's newsletter](https://www.lennysnewsletter.com/)
@@ -116,6 +119,7 @@
 - [the future of elon twitter](https://stratechery.com/2022/back-to-the-future-of-twitter)
 - [mental frameworks for better thinking](https://untools.co/?utm_campaign=mb&utm_medium=newsletter&utm_source=morning_brew)
 - [mark cuban killing it](https://www.reddit.com/r/MadeMeSmile/comments/v6fvdl/more_of_this_please/)
+- [good kind of debt](https://twitter.com/Codie_Sanchez/status/1549069079432110082)
 
 #### crypto
 - [the great definancialization](https://nakamotoinstitute.org/mempool/bitcoin-is-the-great-definancialization/)
@@ -182,6 +186,7 @@
 - [offline signing](https://eips.ethereum.org/EIPS/eip-4527)
 - [seed storage reviews](https://jlopp.github.io/metal-bitcoin-storage-reviews/)
 - [how to store a seed phrase](https://blog.lopp.net/how-to-back-up-a-seed-phrase/)
+- [how wallets work](https://twitter.com/0xQuit/status/1549558331517259776)
 
 #### nfts
 - [decentralized nft exchange](https://gallery.nftx.org/)
