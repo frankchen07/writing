@@ -9,7 +9,7 @@
 - [cobie web3](https://cobie.substack.com/)
 - [andy matuschak](https://andymatuschak.org/)
 - [andy matuschak working notes](https://notes.andymatuschak.org)
-- [paul graham on startup ideas](http://paulgraham.com/startupideas.html)
+- [paul graham on startup ideas](http://paulgraham.com/startupideas.html
 
 #### travel
 - [virtual vacation](https://virtualvacation.us/)
@@ -62,6 +62,7 @@
 - [let us reject the great flattening](https://ckarchive.com/b/r8u8hoh22n9qe)
 - [the work](https://thework.com/instruction-the-work-byron-katie/)
 - [quit your job](https://palladiummag.com/2022/01/06/quit-your-job/)
+- [essays that became books](https://josephcwells.com/curations/essays-that-became-books)
 
 #### product
 - [lenny's newsletter](https://www.lennysnewsletter.com/)
