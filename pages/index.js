@@ -19,6 +19,9 @@ export default function Home({ allPostsData }) {
           Currently, I have several "maps of content" (MOC) in progress. There's one about <a href='https://www.frank-chen.com/posts/map-of-content-(product)'>product management</a>, another about <a href='https://www.frank-chen.com/posts/map-of-content-(mindset)'>mindset</a>, and the last about <a href='https://www.frank-chen.com/posts/map-of-content-(jiujitsu)'>jiujitsu</a>. To explore, I'd recommend clicking through a map, but if you're in the mood for roulette, you can jump around under the "working notes" header, which may or may not be linked to a MOC.
         </p>
         <p>
+          My latest experience involves <a href='https://www.frank-chen.com/posts/interning-at-a-2-michelin-star-restaurant'>interning at a 2 Michelin star restaurant</a>. I'm sharing my experiences both here and on <a href='https://www.twitter.com/frankchen07'>Twitter</a>.
+        </p>
+        <p>
           There's also some older stuff I'm migrating over. I haven't fully decided how committed I am to these, but I've written some things about <a href='https://www.frank-chen.com/posts/map-of-content-(cooking)'>cooking</a> and have some canned <a href='https://www.frank-chen.com/posts/map-of-content-(scripts)'>scripts</a> that have served me well professionally. I also note <a href='https://www.frank-chen.com/posts/map-of-content-(articles)'>articles</a> that I like to revisit on a semi-regular basis.
         </p>
       </section>
