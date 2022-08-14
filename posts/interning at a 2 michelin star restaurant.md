@@ -15,3 +15,4 @@ I've been sharing my stories on Twitter. You can find renditions of the threads 
 3. [[food waste at restaurants]] / [original tweet thread](https://twitter.com/frankchen07/status/1554516162876059648)
 4. [[people come first]] / [original tweet thread](https://twitter.com/frankchen07/status/1555236984875929600)
 5. [[physical capabilities]] / [original tweet thread](https://twitter.com/frankchen07/status/1556715866430967808)
+6. [[quality above speed]] / [original tweet thread]

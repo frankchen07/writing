@@ -1,6 +1,6 @@
 ### the year of experimenting with careers
 
-2022 has been the year of experimenting with careers. I'm trying something new and looking to sharing my experiences in writing and in public. 🧵about how I've approached it:
+2022 has been the year of experimenting with careers. I'm trying something new and looking to sharing my experiences in writing and in public. 🧵 about how I've approached it:
 
 I've jumped around in the tech space, from digital healthcare to web3, from data to product, from employee to consultant. I've tried and am trying other things too, like being a jiujitsu athlete and instructor, supper club host, and an intern at a 2-star Michelin restaurant.
 
