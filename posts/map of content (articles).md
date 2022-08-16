@@ -9,7 +9,7 @@
 - [cobie web3](https://cobie.substack.com/)
 - [andy matuschak](https://andymatuschak.org/)
 - [andy matuschak working notes](https://notes.andymatuschak.org)
-- [paul graham on startup ideas](http://paulgraham.com/startupideas.html
+- [paul graham on startup ideas](http://paulgraham.com/startupideas.html)
 
 #### travel
 - [virtual vacation](https://virtualvacation.us/)
@@ -66,6 +66,7 @@
 
 #### product
 - [lenny's newsletter](https://www.lennysnewsletter.com/)
+- [mochary method curriculum](https://docs.google.com/document/d/18FiJbYn53fTtPmphfdCKT2TMWH-8Y2L-MLqDk-MFV4s/edit#heading=h.6n39k2bgwx3t)
 - [planning](https://review.firstround.com/the-secret-to-a-great-planning-process-lessons-from-airbnb-and-eventbrite)
 - [roadmap](https://blog.colony.io/roadmap/)
 - [interview](https://review.firstround.com/the-40-best-questions-to-ask-in-an-interview-how-to-go-deeper-than-whats-the-culture-like)
@@ -194,7 +195,7 @@
 - [super rare nft marketplace](https://superrare.co/)
 - [makers marketplace](https://makersplace.com/)
 - [nft canon](https://future.a16z.com/nft-canon/)
-- [nfts make the internet ownable](https://variant.mirror.xyz/T8kdtZRIgy_srXB5B06L8vBqFHYlEBcv6ae2zR6Y_eo
+- [nfts make the internet ownable](https://variant.mirror.xyz/T8kdtZRIgy_srXB5B06L8vBqFHYlEBcv6ae2zR6Y_eo)
 - [power to the person](https://www.notboring.co/p/power-to-the-person-audio)
 - [how to make an nft](https://medium.com/geekculture/how-to-transform-your-art-into-a-nft-b02a4aee6fd4)
 - [nfts for athletes](https://media.consensys.net/blockchain-in-sports-the-future-of-sports-and-game-chain-gers-to-come-e78c751bbd3)
