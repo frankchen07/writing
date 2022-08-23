@@ -2,14 +2,6 @@
 
 Here, I post concepts that have helped me through my continuing jiujitsu journey. I revisit these at different points and it almost always brings new perspective to my game and my life. I will be constantly adding and rebuilding these, so check back if you're interested.
 
-At my primary gym (10th Planet San Mateo), we have in effect what we call a "burrito tax". If you're sparring with your partner and you get caught or catch someone with a [twister submission](https://www.youtube.com/watch?v=eYZJ3EoSzj8&t=103s), the guy or gal who taps owes their opponent a burrito. Oh and also, wrist locks are tacos. Here are my current debts:
-
-- Alan - 🌯🌯🌮
-- Adam - 🌯🌯🌯🌯
-- 10p Dennis - 🌯🌯
-- CTA Dennis - 🌯
-- Marangoni - 🌯
-
 #### jiujitsu as a whole
 
 What are we ultimately doing in jiujitsu?
@@ -58,14 +50,14 @@ Above all, don't quit, because [[a hopeful mindset keeps one in the pocket]], an
 
 Let's talk about movement. I revisit these concepts at different points in my journey because they consistently hold different meanings every time I revisit them. This is partly because jiujitsu is a fluid, dynamic entity. It's constantly changing. My life is also constantly changing, so even my interpretation is different on each visit.
 
-* [[constant movement is better than being static]]
-* [[create movement if you're stuck]]
-* [[if you can't move them move yourself]]
-* [[movement shifts weight which creates opportunities]]
-* [[the whitespace is just as important as the blackspace]]
-* [[utilize all 360 degrees of movement in 3 planes]]
-* [[you don't want a 1 to 1 move tradeoff, you want an n to 1 tradeoff]]
-* [[jiujitsu conditioning stretching rehab meditation]]
+- [[constant movement is better than being static]]
+- [[create movement if you're stuck]]
+- [[if you can't move them move yourself]]
+- [[movement shifts weight which creates opportunities]]
+- [[the whitespace is just as important as the blackspace]]
+- [[utilize all 360 degrees of movement in 3 planes]]
+- [[you don't want a 1 to 1 move tradeoff, you want an n to 1 tradeoff]]
+- [[jiujitsu conditioning stretching rehab meditation]]
 
 Contrary to popular belief, humans have five limbs. The [[use of your head is the fifth limb]].
 
@@ -73,6 +65,7 @@ Grips are very important for imposing your game because the start of any competi
 
 One of the tougher battles in jiujitsu is how to better spot and take advantage of opportunities. It will be different for everyone. For myself, the best results have come from relaxing my analytical mindset and just flow. That is not to say you don't need to train smart or that there are no concepts to utilize:
 
+- [[don't overcomplicate and make things so hard on yourself]]
 - [[pair offensive actions on the offbeat]]
 - [[real threats cause reactions which sets up attack chains]]
 - [[take what they give you]]
@@ -82,9 +75,10 @@ One of the tougher battles in jiujitsu is how to better spot and take advantage 
 - [[don't be satisfied with only escaping]]
 
 #### work in progress
-- [[leg lock currriculum]]
+- [[training observations]]
 - [[jiujitsu game]]
 - [[jiujitsu accomplishments]]
+- [[leg lock currriculum]]
 - [[2022 may 6th f2w improvements]]
 - [[2022 pdx workshop]]
 
