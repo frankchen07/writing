@@ -66,4 +66,4 @@ Too slow? "Yes chef, I'll move faster."
 
 "How's your day?" - "Best day of my fucking life."
 
-Every compliment, accomplishment, failure, and setback, was met with enduring acknowledgment and a persistence to do better. That's sort of the attitude that's required to be successful.
+Every compliment, accomplishment, failure, and setback, was met with enduring acknowledgment and a persistence to do better. That's the sort of attitude that's required to be successful.
