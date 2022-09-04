@@ -17,3 +17,4 @@ I've been sharing my stories on Twitter. You can find renditions of the threads 
 5. [[physical capabilities]] / [original tweet thread](https://twitter.com/frankchen07/status/1556715866430967808)
 6. [[quality above speed]] / [original tweet thread](https://twitter.com/frankchen07/status/1558694736772313088)
 7. [[standards]] / [original tweet thread](https://twitter.com/frankchen07/status/1563809158343770112)
+8. [[the magic of the experience]] / [original tweet thread](https://twitter.com/frankchen07/status/1566487628848828416)
