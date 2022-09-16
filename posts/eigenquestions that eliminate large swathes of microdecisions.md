@@ -52,7 +52,6 @@ You'd like to shift your company's communication patterns from being primarily "
 1. Is the type of messaging more urgent, or more collaborative?
 2. Is the work involved more design/product, or technical?
 
-
 ![](eigenquestion-4.png)
 
 ---
