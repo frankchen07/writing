@@ -3,7 +3,7 @@
 Here, I post concepts that have helped me through my continuing jiujitsu journey. I revisit these at different points and it almost always brings new perspective to my game and my life. I will be constantly adding and rebuilding these, so check back if you're interested.
 
 I attended the 2022 ADCC World Championships this year in Las Vegas. I haven't done this before, but I wanted to share some of my observations and 
- [[thoughts about ADCC 2022]], both from a event and a meta-game perspective. 
+ [[thoughts about ADCC 2022]], both from an event and a meta-game perspective. 
 
 #### teaching philosophy
 
