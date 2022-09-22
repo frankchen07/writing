@@ -50,19 +50,8 @@ Intentionality is extremely important, especially if we're thinking about avoidi
 
 To this, I'd say it might be because it feels like there's more intentionality on the bottom man's part - their default state is seen as retaining guard because the top man MUST engage. 
 
-Guard retention is not stalling per se, but it can arguably be passive and non-offensive. However, it's the top man in this case that gets penalized for not appearing to pass. The prime example is Kaynan, who was penalized multiple times for stalling against Craig Jones.
+Guard retention is not stalling per se, but it can arguably be passive and non-offensive. However, it's the top man in this case that gets penalized for not appearing to pass. The prime example is Kaynan, who was penalized multiple times for stalling against Craig Jones. Did he deserve all those penalties? Note sure 🤷‍♂️. I'd love to hear the explanation for each one though. My suspicion is that the scoreboard was unconsciously biased towards keeping the match on a more "even" keel. 2 points is easier to recover from than 10. 
 
-The opposite case would be Yuri Simoes' absolute run to gold. There were multiple times where he had top position but was not penalized for stalling, which meant he exhibited the intent and good faith effort to pass. 
+If we look at other cases, such as Yuri Simoes' absolute run to gold, there were multiple times where he had top position but was not penalized for stalling. That means to the judges, he exhibited the intent and good faith effort to pass, where Kaynan apparently did not. I'm not sure I'm in agreement there. 
 
-Kaynan did notably score points in passing while Yuri did not. What I'm trying to determine is what this "intentionality" really looks like. Is it moving forward? Is it intelligent passing technique? I'd be curious to find out.
-
-
-
-
-
-- diego pato leg entanglements
-- merigali first match wrestling
-- mica vs ruotolo leg entanglements
-- gordon ryan galvao passing
-- bodoni vs lucas
-- lachlan north south guard
+What I'm trying to determine is what this "intentionality" really looks like. Is it moving forward? Is it intelligent passing technique? Or is it unintended, unconscious scoring bias? I'd be curious to find out.
