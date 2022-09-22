@@ -2,6 +2,19 @@
 
 Here, I post concepts that have helped me through my continuing jiujitsu journey. I revisit these at different points and it almost always brings new perspective to my game and my life. I will be constantly adding and rebuilding these, so check back if you're interested.
 
+I attended the 2022 ADCC World Championships this year in Las Vegas. I haven't done this before, but I wanted to share some of my observations and 
+ [[thoughts about ADCC 2022]], both from a event and a meta-game perspective. 
+
+#### teaching philosophy
+
+I've been teaching jiujitsu more frequently nowadays, and I'd like to share some of my observations as to what informs my teaching philosophy, what I've found to work, and what I need to improve on.
+
+- [[there is always something to learn regardless of your rank]]
+- [[what has worked for me may not work for you]]
+- [[trust and verify using a variety of constrained situations]]
+- [[intentionality and constraint are necessary tools]]
+- [[approaching student learning at different skill levels]]
+
 #### jiujitsu as a whole
 
 What are we ultimately doing in jiujitsu?
