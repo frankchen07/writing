@@ -10,6 +10,7 @@
 - [andy matuschak](https://andymatuschak.org/)
 - [andy matuschak working notes](https://notes.andymatuschak.org)
 - [paul graham on startup ideas](http://paulgraham.com/startupideas.html)
+- [25iq](https://25iq.com)
 
 #### travel
 - [virtual vacation](https://virtualvacation.us/)

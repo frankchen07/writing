@@ -10,8 +10,7 @@ I attended the 2022 ADCC World Championships this year in Las Vegas. I haven't d
 I've been teaching jiujitsu more frequently nowadays, and I'd like to share some of my observations as to what informs my teaching philosophy, what I've found to work, and what I need to improve on.
 
 - [[there is always something to learn regardless of your rank]]
-- [[what has worked for me may not work for you]]
-- [[trust and verify using a variety of constrained situations]]
+- [[what has worked for me may not work for you so trust and verify]]
 - [[intentionality and constraint are necessary tools]]
 - [[approaching student learning at different skill levels]]
 
@@ -94,5 +93,3 @@ One of the tougher battles in jiujitsu is how to better spot and take advantage 
 - [[leg lock currriculum]]
 - [[2022 may 6th f2w improvements]]
 - [[2022 pdx workshop]]
-
-
