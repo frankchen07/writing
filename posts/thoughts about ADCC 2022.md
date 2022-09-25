@@ -1,6 +1,6 @@
 ### thoughts about ADCC 2022
 
-This year's ADCC was hands down the greatest jiujitsu production event that I have witnessed. Mo Jassim, ADCC's head organizer, paired up with Seth Daniels of F2W Pro fame to host an event to remember for the jiujitsu community. 
+This year's ADCC was hands down the greatest jiujitsu production event that I have witnessed. Mo Jassim, ADCC's head organizer, paired up with Seth Daniels of F2W Pro and hosted an event to remember. 
 
 Despite being a top-notch production, I still hold the opinion that I don't see jiujitsu becoming a well-known spectator sport, simply because it requires too much technical understanding to identify with what is happening on the mats. I hope I get proven wrong.
 
