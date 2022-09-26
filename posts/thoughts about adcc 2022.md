@@ -68,4 +68,4 @@ For myself, some of the matches that I'd like re-review:
 - lachlan giles vs. tye ruotolo and yuri simoes, north south guard
 - mason fowler vs. robinho guillotine counter
 - craig jones vs. kyle boehm guillotine counter
-- ooghan o'flanagan, leg entanglements
+- eoghan o'flanagan, leg entanglements
