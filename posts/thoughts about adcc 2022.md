@@ -1,4 +1,4 @@
-### thoughts about ADCC 2022
+### thoughts about adcc 2022
 
 This year's ADCC was hands down the greatest jiujitsu production event that I have witnessed. Mo Jassim, ADCC's head organizer, paired up with Seth Daniels of F2W Pro and hosted an event to remember. 
 
