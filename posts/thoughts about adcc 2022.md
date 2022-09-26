@@ -10,7 +10,7 @@ With jiujitsu, the most "primal" thing you'll probably see is some version of a 
 
 That's all to say, "here's to hoping it'll change." It didn't take away from any of my own enjoyment. 🍻
 
-The event itself was quite long. It did take some stamina as a spectator to make it through the entire event, since the entire time you're interpreting what's happening, and at times, trying to follow up to three simultaneous matches. For the most part though, 80%+ of the match ups were absolutely captivating, which helped.
+The event itself was quite long. It did take some stamina as a spectator to make it through the entire event, since the entire time you're interpreting what's happening, and at times, trying to follow three simultaneous matches. For the most part though, 80%+ of the match ups were absolutely captivating, which helped.
 
 ---
 
@@ -55,3 +55,17 @@ Guard retention is not stalling per se, but it can arguably be passive and non-o
 If we look at other cases, such as Yuri Simoes' absolute run to gold, there were multiple times where he had top position but was not penalized for stalling. That means to the judges, he exhibited the intent and good faith effort to pass, where Kaynan apparently did not. I'm not sure I'm in agreement there. 
 
 What I'm trying to determine is what this "intentionality" really looks like. Is it moving forward? Is it intelligent passing technique? Or is it unintended, unconscious scoring bias? I'd be curious to find out.
+
+I'll post more thoughts as I have time to study some of the footage. 
+
+For myself, some of the matches that I'd like re-review:
+
+- diego pato oliveira, leg entanglements
+- nicholas merigali vs. 
+- mica galvao vs. kade ruotolo, leg entanglements
+- gordon ryan vs andre galvao, passing and outside heel hooks
+- giancarlo bodoni vs lucas barbosa, turtle to back exposure
+- lachlan giles vs. tye ruotolo and yuri simoes, north south guard
+- mason fowler vs. robinho guillotine counter
+- craig jones vs. kyle boehm guillotine counter
+- ooghan o'flanagan, leg entanglements
