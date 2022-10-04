@@ -17,6 +17,7 @@ I've been sharing my stories on Twitter. You can find renditions of the threads 
 5. [[quality above speed]] / [original tweet thread](https://twitter.com/frankchen07/status/1558694736772313088)
 6. [[standards]] / [original tweet thread](https://twitter.com/frankchen07/status/1563809158343770112)
 7. [[the magic of the experience]] / [original tweet thread](https://twitter.com/frankchen07/status/1566487628848828416)
+8. [[continuing the work and professionalization]] / [original tweet thread](https://twitter.com/frankchen07/status/1577104580059357186)
 
 Some other thoughts related to my time interning: 
 
