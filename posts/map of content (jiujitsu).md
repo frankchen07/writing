@@ -88,8 +88,8 @@ One of the tougher battles in jiujitsu is how to better spot and take advantage 
 
 #### work in progress
 - [[training observations]]
-- [[jiujitsu game]]
 - [[jiujitsu accomplishments]]
-- [[leg lock currriculum]]
+- [[jiujitsu game]]
+- [[leg lock curriculum]]
 - [[2022 may 6th f2w improvements]]
 - [[2022 pdx workshop]]
