@@ -1,4 +1,4 @@
-### accept that you are being what you want to be already
+### accept that you are what you want to be already
 
 Identify with who and what you are capable of to create a strong self image.
 

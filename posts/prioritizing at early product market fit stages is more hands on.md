@@ -1,4 +1,4 @@
-### prioritizing at early product market fit stages is different
+### prioritizing at early product market fit stages is more hands on
 
 Many early product market fit PMs fall into the trap of relying too much on data, solving nice-to-have problems, and getting caught up in theory and not building. 
 

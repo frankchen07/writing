@@ -1,16 +1,16 @@
 ### map of content (articles)
 
 #### writers 
-- [naval ravikant](https://nav.al/)
-- [the marginalian previously brain pickings](https://www.themarginalian.org/)
-- [venkatesh rao](https://www.ribbonfarm.com/)
-- [david perell](https://perell.com/recommendations/)
-- [pete stahl on ballots](https://www.peterates.com/index.shtml)
-- [cobie web3](https://cobie.substack.com/)
-- [andy matuschak](https://andymatuschak.org/)
+- [naval ravikant on technology](https://nav.al/)
+- [the marginalian previously brain pickings on philosophy](https://www.themarginalian.org/)
+- [venkatesh rao on philosophy](https://www.ribbonfarm.com/)
+- [david perell on writing](https://perell.com/recommendations/)
+- [pete stahl on ballots and voting](https://www.peterates.com/index.shtml)
+- [cobie on web3](https://cobie.substack.com/)
 - [andy matuschak working notes](https://notes.andymatuschak.org)
 - [paul graham on startup ideas](http://paulgraham.com/startupideas.html)
-- [25iq](https://25iq.com)
+- [25iq on being dope](https://25iq.com)
+- [tom crichlow on consulting](https://tomcritchlow.com/start-here/)
 
 #### travel
 - [virtual vacation](https://virtualvacation.us/)
@@ -19,6 +19,7 @@
 - [one bag example](https://jeremymaluf.com/onebag/)
 - [e-sim for phones](https://www.gigsky.com)
 - [1password travel mode](https://support.1password.com/travel-mode/)
+- [seven corners medical insurance](https://www.sevencorners.com/)
 - [window swap](https://www.window-swap.com)
 
 #### art

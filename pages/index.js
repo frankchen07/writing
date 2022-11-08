@@ -16,13 +16,13 @@ export default function Home({ allPostsData }) {
           Hello, I'm <a href='https://www.linkedin.com/in/frankchen07/'>Frank</a>. This is my working knowledge base where I play around with concepts.
         </p>
         <p>
-          Currently, I have several "maps of content" (MOC) in progress. There's one about <a href='https://www.frank-chen.com/posts/map-of-content-(product)'>product management</a>, another about <a href='https://www.frank-chen.com/posts/map-of-content-(mindset)'>mindset</a>, and the last about <a href='https://www.frank-chen.com/posts/map-of-content-(jiujitsu)'>jiujitsu</a>. To explore, I'd recommend clicking through a map, but if you're in the mood for roulette, you can jump around under the "working notes" header, which may or may not be linked to a MOC.
+          Currently, I have several "maps of content" in progress. There's one about <a href='https://www.frank-chen.com/posts/map-of-content-(product)'>product management</a>, another about <a href='https://www.frank-chen.com/posts/map-of-content-(mindset)'>mindset</a>, and the last about <a href='https://www.frank-chen.com/posts/map-of-content-(jiujitsu)'>jiujitsu</a>. I recommend clicking through a map, but if you're in the mood for roulette, you can jump around under the "working notes" header.
         </p>
         <p>
-          My latest experience involves <a href='https://www.frank-chen.com/posts/interning-at-a-2-michelin-star-restaurant'>interning at a 2 Michelin star restaurant</a>. I'm sharing my experiences both here and on <a href='https://www.twitter.com/frankchen07'>Twitter</a>.
+          My latest experience involves <a href='https://www.frank-chen.com/posts/interning-at-a-2-michelin-star-restaurant'>working at a 2 Michelin star restaurant</a>. I'm sharing my experiences both here and on <a href='https://www.twitter.com/fronkfeeds'>Twitter</a>.
         </p>
         <p>
-          There's also some older stuff I'm migrating over. I haven't fully decided how committed I am to these, but I've written some things about <a href='https://www.frank-chen.com/posts/map-of-content-(cooking)'>cooking</a> and have some canned <a href='https://www.frank-chen.com/posts/map-of-content-(scripts)'>scripts</a> that have served me well professionally. I also note <a href='https://www.frank-chen.com/posts/map-of-content-(articles)'>articles</a> that I like to revisit on a semi-regular basis.
+          There's also some older maps I'm migrating over. I haven't fully decided how committed I am to these, but I've written some things about <a href='https://www.frank-chen.com/posts/map-of-content-(cooking)'>cooking</a> and have some canned <a href='https://www.frank-chen.com/posts/map-of-content-(scripts)'>scripts</a> that have served me well professionally. I also note <a href='https://www.frank-chen.com/posts/map-of-content-(articles)'>articles</a> that I like to revisit on a semi-regular basis.
         </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
