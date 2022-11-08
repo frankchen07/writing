@@ -1,4 +1,4 @@
-### interning at a 2 michelin star restaurant
+### working at a 2 michelin star restaurant
 
 Many have asked me how I scored an interesting opportunity like this with no experience. 
 
