@@ -22,7 +22,7 @@ export default function Home({ allPostsData }) {
           My latest experience involves <a href='https://www.frank-chen.com/posts/interning-at-a-2-michelin-star-restaurant'>working at a 2 Michelin star restaurant</a>. I'm sharing my experiences both here and on <a href='https://www.twitter.com/fronkfeeds'>Twitter</a>.
         </p>
         <p>
-          There's also some older maps I'm migrating over. I haven't fully decided how committed I am to these, but I've written some things about <a href='https://www.frank-chen.com/posts/map-of-content-(cooking)'>cooking</a> and have some canned <a href='https://www.frank-chen.com/posts/map-of-content-(scripts)'>scripts</a> that have served me well professionally. I also note <a href='https://www.frank-chen.com/posts/map-of-content-(articles)'>articles</a> that I like to revisit on a semi-regular basis.
+          There's also some older maps I'm migrating over. I haven't fully decided how committed I am to these, but I've written some things about <a href='https://www.frank-chen.com/posts/map-of-content-(cooking)'>cooking</a> and have some canned <a href='https://www.frank-chen.com/posts/map-of-content-(scripts)'>scripts</a> that have served me well professionally.
         </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
