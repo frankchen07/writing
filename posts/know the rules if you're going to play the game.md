@@ -1,6 +1,8 @@
 ### know the rules if you're going to play the game
 
-As per the IBJJF, the rules are meant to be referenced for a "good fight". 
+As per the IBJJF, the rules are meant to be referenced for a "good fight". I outline some exception cases (although sometimes I think the entire ruleset is a collection of exception cases). 😂
+
+This is a set of notes from an IBBJF rules seminar that was held at Caio Terra Academy.
 
 - Double guard pull:
 	- In the case where there is a double guard pull, if the referee does not check his watch, that means one competitor pulled before the other. If the referee is checking his watch, that means both competitors, in his/her view, pulled at the same time. In any case, it is to the benefit of whichever competitor who wants to win to get up and get on top. If they were the one who pulled guard first, then then would get on top. If they weren't the one who pulled guard, they would get points. 

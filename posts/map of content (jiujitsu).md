@@ -1,66 +1,56 @@
 ### map of content (jiujitsu)
 
-Here, I post concepts that have helped me through my continuing jiujitsu journey. I revisit these at different points and it almost always brings new perspective to my game and my life. I will be constantly adding and rebuilding these, so check back if you're interested.
+I post concepts and philsophies here that have helped me through my continuing jiujitsu journey. I routinely revisit these because my understanding of them changes constantly, and the same concepts presented at different times can bring new perspectives. I will be constantly adding and rebuilding these, so check back if you're interested.
 
-I attended the 2022 ADCC World Championships this year in Las Vegas. I haven't done this before, but I wanted to share some of my observations and 
- [[thoughts about adcc 2022]], both from an event and a meta-game perspective. 
+#### what is jiujitsu?
+
+Jiujitsu is the isolation and control of an opponent's body in a manner that inhibits their athletic and defensive potential, resulting in leveraged positions that eventually lead to strangulation and joint breaks.
+
+Of course, this is the technical definition - jiujitsu transcends the physics of strength, flexibility, and movement. The sport demands self-mastery, spirituality, ego control, mental fortitude, and work ethic. I could go on, but the general summary is that if you allow it, jiujitsu can positively affect you in multiple dimensions.
+
+From an artistic standpoint, [[everything you do in jiujitsu should be an expression of you]]. I draw this relation from my old bboying days. If you blurred the faces of noteworthy dancers and jiujitsu athletes, you can still tell who is who purely based on how they move, the moves they use, and the tempo they take. That is the expression of essence. So, [[play your game because no one else is going to be better than you at it]]. This advice transcends the mat. Do your own thing and don't worry about everyone else.
+
+At some point in your journey, you encounter the ethos of "[[each one teach one]]", a concept that I've experienced in my bboying days. To me, "each one teach one" is about the cycle of responsible mentorship. Someone took the time and patience to bring you from a naive white belt to a limb-controlling, strangle-inducing monster. It is only right that when you are ready, you pass the knowledge along so new grapplers can embark on their own journey. This is how we level up the sport together.
+
+#### training and learning
+
+To progress in jiujitsu, you need discover how to learn, because part of the [[process is understanding that everyone learns differently]]. You will find your own path. The faster you understand and come to terms with that, the faster you will seek and master yourself.
+
+When I'm learning, I look to [[shuttle learnings into concepts and systems]], and when I'm teaching, I keep in mind that [[the greatest teachers create thinking students]].
+
+When training new movements, [[train under constrained environments]]. This allows you to get multiple repetitions of a move in a specific position so you spend the majority of a roll's time perfecting new movements, not just getting there.
+
+Purposely train starting in bad positions. Put yourself there and [[train with late stage escapes]], both for you and for your partner. It will allow you to develop late-stage defenses that are critical in tough matches.
+
+Finally, for competitors - [[training habits are competition habits]]. Performance that outranks what you do in the training room is rare and generally is an exception. While you can rise to the occasion, the reality is more that you fall to the level of training. Make sure your baseline level of training encompasses competition habits.
 
 #### teaching philosophy
 
-I've been teaching jiujitsu more frequently nowadays, and I'd like to share some of my observations as to what informs my teaching philosophy, what I've found to work, and what I need to improve on.
+I've been teaching jiujitsu more frequently nowadays, and teaching, unlike competing and training for yourself, is a completely different skill. This section is devoted to sharing some of my observations as to what informs my teaching philosophy, what I've found to work, and what I need to improve on.
 
 - [[there is always something to learn regardless of your rank]]
 - [[what has worked for me may not work for you so trust and verify]]
 - [[intentionality and constraint are necessary tools]]
 - [[approaching student learning at different skill levels]]
-
-#### jiujitsu as a whole
-
-What are we ultimately doing in jiujitsu?
-
-From a technical standpoint, it's arguable that [[the isolation of limbs is what jiujitsu is all about]]. Jiujitsu does transcend technical control and ability though. It exercises self-mastery, spirituality, ego control, strength, flexibility, mental fortitude, and work ethic. I could go on, but the general summary is that jiujitsu can affect you in so many positive ways. 
-
-From a personal standpoint, [[everything you do in jiujitsu should be an expression of you]]. I draw this relation from my old bboying (breakdancing) days. If you blurred the faces of noteworthy dancers and jiujitsu athletes, you can still tell who is who purely based on how they move, the moves they use, and the tempo they take. That is the expression of essence. So, [[play your game because no one else is going to be better than you at it]]. This advice transcends the mat. Do your own thing and don't worry about everyone else.
-
-At some point in your journey, you will begin to understand the ethos of "[[each one teach one]]", a concept that I've again experienced in my bboying days. To me, "each one teach one" is about the cycle of responsible mentorship. Someone took the time and patience to bring you from a naive white belt to a limb-controlling, strangle-inducing monster. It is only right that when you are ready, you pass the knowledge along so new grapplers can embark on their own journey. This is how we level up the sport together.
-
-#### knowing the rules
-
-You should [[know the rules if you're going to play the game]]. This is a set of notes from an IBBJF rules seminar that was held at Caio Terra Academy. 
-
-Just reading the rulebook is actually not enough. There are a lot of "gotcha" situations and technical definitions that really only come to light when you're in a particular situation. If you want to play the game, know the rules, because there will come a day when you need that one point to win your match.
-
-This is a pretty basic concept. If you're competing in IBJJF matches, know those rules. ADCC? EBI? Something else? Give it a read and train under those constraints. Know what submissions are legal and illegal. Know the point system. Know what happens when you go out of bounds. Defend yourself at all times. Or, you could keep the heart of the art alive and always go for the submission win. You can't deny wins off of submissions.
-
-#### training and learning
-
-To progress in jiujitsu, you need discover your own process on how to learn, because [[process is understanding that everyone learns differently]]. You will find your own path. The faster you understand and come to terms with that, the faster you will seek and master yourself.
-
-When I'm learning, I look to [[shuttle learnings into concepts and systems]], and when I'm teaching, I keep in mind that [[the greatest teachers create thinking students]].
-
-When training new movements, [[train under constrained environments]]. This allows you to get multiple repetitions of a move in a specific position so you spend the majority of a roll's time perfecting new movements. 
-
-Purposely get into bad positions. Put yourself there and [[train with late stage escapes]], both for you and for your partner. It will allow you to develop late-stage defenses that are critical in high-level matches.
-
-Finally, for competitors - [[training habits are competition habits]]. Performance that outranks what you do in the training room is rare and generally is an exception. While you can rise to the occasion, the reality is more that you fall to the level of training. Make sure your baseline level of training encompasses competition habits.
+- [[depth then breadth or breadth then depth]]
 
 #### the mental side
 
-I went deep on some sport psychology books to learn a little bit about mental performance. Many of these concepts link to my [[map of content (mindset)]], but you'll find some topics here.
+I went deep on some sport psychology books to learn a little more about mental performance. Many of these concepts link to my [[map of content (mindset)]], but you'll find some topics here.
 
 To start, [[the way you show up on the mats matters]]. Your attitude is infectious and affects others. If it's up, you'll inspire. If it's down you'll drag. Inspire, don't drag.
 
 You're going to get wrecked in the process of becoming a competent jiujitsu athlete. Don't despair when you roll with higher level athletes because [[approaching higher level players is a mental challenge]]. Naturally, there will be skill gaps, but [[do not start yourself at a deficit]] and go into a roll or competition with a defeatist attitude. That's a surefire way to tank your performance because [[the subconscious is where true performance lies]]. 
 
-When it comes to competition, [[success at competing requires more than just technique]], it's a combination of conditioning, tempo, mindset, attitude, belief, confidence, and technique. 
+When it comes to competition, [[success at competing requires more than just technique]], it's a combination of conditioning, tempo, mindset, attitude, belief, confidence, and technique. There's also a little bit of luck. Sometimes the bracket is just structured a certain way.
 
 You're also going to get stuck in your progression. There are highs, lows, and plateaus. You'll naturally move past them, but switching it up can offer methods of getting unstuck. My best advice here is to [[aim to perceive what you have not perceived to get unstuck]].
 
 Above all, don't quit, because [[a hopeful mindset keeps one in the pocket]], and the longer you're in the pocket, the more benefits and opportunities you'll come across.
 
-#### movement
+#### movement, grips & limbs, opportunities
 
-Let's talk about movement. I revisit these concepts at different points in my journey because they consistently hold different meanings every time I revisit them. This is partly because jiujitsu is a fluid, dynamic entity. It's constantly changing. My life is also constantly changing, so even my interpretation is different on each visit.
+Let's talk about movement. I revisit these concepts at different points in my journey because they consistently hold different meanings every time I revisit them. This is partly because jiujitsu is a fluid, dynamic entity. It's constantly changing alongside my life, so my interpretation is different on each visit.
 
 - [[constant movement is better than being static]]
 - [[create movement if you're stuck]]
@@ -70,12 +60,13 @@ Let's talk about movement. I revisit these concepts at different points in my jo
 - [[utilize all 360 degrees of movement in 3 planes]]
 - [[you don't want a 1 to 1 move tradeoff, you want an n to 1 tradeoff]]
 - [[jiujitsu conditioning stretching rehab meditation]]
-
-Contrary to popular belief, humans have five limbs. The [[use of your head is the fifth limb]].
+- [[create tension when connecting to your opponent]]
 
 Grips are very important for imposing your game because the start of any competitive jiujitsu match is where the most chaos occurs. The best competitors [[use initial conditions to constrain chaotic environments]] and are the first to implement their game. In order to achieve this, [[dominating the grip fight means you dominate the initial entry]], and that sets you up to achieve end-game positions.
 
-One of the tougher battles in jiujitsu is how to better spot and take advantage of opportunities. It will be different for everyone. For myself, the best results have come from relaxing my analytical mindset and just flow. That is not to say you don't need to train smart or that there are no concepts to utilize:
+Learning how to use all five limbs as dexterously as your fingers and hands will provide multiple advantages over your opponent. Yes, I said five. The [[use of your head is the fifth limb]].
+
+One of the tougher battles in jiujitsu is how to better spot and take advantage of opportunities. It will be different for everyone. For myself, the best results have come from relaxing my analytical mindset and just flow. That is not to say you don't need to train smart or that there are no concepts to utilize.
 
 - [[don't overcomplicate and make things so hard on yourself]]
 - [[pair offensive actions on the offbeat]]
@@ -86,10 +77,19 @@ One of the tougher battles in jiujitsu is how to better spot and take advantage 
 - [[cultivate a fail opportunity mindset to continue the action]]
 - [[don't be satisfied with only escaping]]
 
+#### competing
+
+If you compete, you should [[know the rules if you're going to play the game]].
+
+Just reading the rulebook is actually not enough. There are a lot of "gotcha" situations and technical definitions that really only come to light when you're in a particular situation. If you want to play the game, know the rules, because there will come a day when you need that one point to win your match.
+
+This is a pretty basic concept. If you're competing in IBJJF matches, know those rules. ADCC? EBI? Something else? Give it a read and train under those constraints. Know what submissions are legal and illegal. Know the point system. Know what happens when you go out of bounds. Defend yourself at all times. Or, you could always go for the submission win. You can never deny a win off of a submission.
+
+#### adcc 2022
+
+I attended the 2022 ADCC World Championships in Las Vegas. I wrote up some  observations and [[thoughts about adcc 2022]], both from an event and a meta-game perspective. 
+
 #### work in progress
-- [[training observations]]
+
+- [[jiujitsu training observations]]
 - [[jiujitsu accomplishments]]
-- [[jiujitsu game]]
-- [[leg lock curriculum]]
-- [[2022 may 6th f2w improvements]]
-- [[2022 pdx workshop]]
