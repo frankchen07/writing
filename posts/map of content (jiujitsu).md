@@ -1,6 +1,6 @@
 ### map of content (jiujitsu)
 
-I post concepts and philsophies here that have helped me through my continuing jiujitsu journey. I routinely revisit these because my understanding of them changes constantly, and the same concepts presented at different times can bring new perspectives. I will be constantly adding and rebuilding these, so check back if you're interested.
+I post concepts and philosophies here that have helped me through my continuing jiujitsu journey. I routinely revisit these because my understanding of them changes constantly, and the same concepts presented at different times can bring new perspectives. I will be constantly adding and rebuilding these, so check back if you're interested.
 
 #### what is jiujitsu?
 
