@@ -19,7 +19,7 @@ export default function Home({ allPostsData }) {
           Currently, I have several "maps of content" in progress. There's one about <a href='https://www.frank-chen.com/posts/map-of-content-(product)'>product management</a>, another about <a href='https://www.frank-chen.com/posts/map-of-content-(mindset)'>mindset</a>, and the last about <a href='https://www.frank-chen.com/posts/map-of-content-(jiujitsu)'>jiujitsu</a>. I recommend clicking through a map, but if you're in the mood for roulette, you can jump around under the "working notes" header.
         </p>
         <p>
-          My latest experience involves <a href='https://www.frank-chen.com/posts/interning-at-a-2-michelin-star-restaurant'>working at a 2 Michelin star restaurant</a>. I'm sharing my experiences both here and on <a href='https://www.twitter.com/fronkfeeds'>Twitter</a>.
+          My latest experience involves <a href='https://www.frank-chen.com/posts/working-at-a-2-michelin-star-restaurant'>working at a 2 Michelin star restaurant</a>. I'm sharing my experiences both here and on <a href='https://www.twitter.com/fronkfeeds'>Twitter</a>.
         </p>
         <p>
           There's also some older maps I'm migrating over. I haven't fully decided how committed I am to these, but I've written some things about <a href='https://www.frank-chen.com/posts/map-of-content-(cooking)'>cooking</a> and have some canned <a href='https://www.frank-chen.com/posts/map-of-content-(scripts)'>scripts</a> that have served me well professionally.
