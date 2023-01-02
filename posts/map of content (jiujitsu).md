@@ -4,7 +4,7 @@ I post concepts and philosophies here that have helped me through my continuing 
 
 #### what is jiujitsu?
 
-Jiujitsu is the isolation and control of an opponent's body in a manner that inhibits their athletic and defensive potential, resulting in leveraged positions that eventually lead to strangulation and joint breaks.
+Jiujitsu is the immobilization of an opponent's body in a manner that inhibits their athletic and defensive potential, eventually resulting in leveraged positions that eventually lead to strangulation and joint breaks.
 
 Of course, this is the technical definition - jiujitsu transcends the physics of strength, flexibility, and movement. The sport demands self-mastery, spirituality, ego control, mental fortitude, and work ethic. I could go on, but the general summary is that if you allow it, jiujitsu can positively affect you in multiple dimensions.
 
@@ -33,6 +33,7 @@ I've been teaching jiujitsu more frequently nowadays, and teaching, unlike compe
 - [[intentionality and constraint are necessary tools]]
 - [[approaching student learning at different skill levels]]
 - [[depth then breadth or breadth then depth]]
+- [[the ecological method of teaching]]
 
 #### the mental side
 
