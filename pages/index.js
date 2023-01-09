@@ -15,14 +15,24 @@ export default function Home({ allPostsData }) {
         <p>
           Hello, I'm <a href='https://www.linkedin.com/in/frankchen07/'>Frank</a>. This is my working knowledge base where I play around with concepts.
         </p>
+
         <p>
-          Currently, I have several "maps of content" in progress. There's one about <a href='https://www.frank-chen.com/posts/map-of-content-(product)'>product management</a>, another about <a href='https://www.frank-chen.com/posts/map-of-content-(mindset)'>mindset</a>, and the last about <a href='https://www.frank-chen.com/posts/map-of-content-(jiujitsu)'>jiujitsu</a>. I recommend clicking through a map, but if you're in the mood for roulette, you can jump around under the "working notes" header.
+          I have several "maps of content":
         </p>
+
+        <ul>
+          <li><a href='https://www.frank-chen.com/posts/map-of-content-(product)'>product management</a></li>
+          <li><a href='https://www.frank-chen.com/posts/map-of-content-(jiujitsu)'>jiujitsu</a></li>
+          <li><a href='https://www.frank-chen.com/posts/map-of-content-(mindset)'>mindset</a></li>
+          <li><a href='https://www.frank-chen.com/posts/map-of-content-(cooking)'>cooking</a></li>
+          <li><a href='https://www.frank-chen.com/posts/map-of-content-(scripts)'>canned scripts</a></li>
+        </ul>
+
+        <p> I recommend clicking through a map, but if you're in the mood for roulette, you can jump around under the "working notes" header.
+        </p> 
+
         <p>
-          My latest experience involves <a href='https://www.frank-chen.com/posts/working-at-a-2-michelin-star-restaurant'>working at a 2 Michelin star restaurant</a>. I'm sharing my experiences both here and on <a href='https://www.twitter.com/fronkfeeds'>Twitter</a>.
-        </p>
-        <p>
-          There's also some older maps I'm migrating over. I haven't fully decided how committed I am to these, but I've written some things about <a href='https://www.frank-chen.com/posts/map-of-content-(cooking)'>cooking</a> and have some canned <a href='https://www.frank-chen.com/posts/map-of-content-(scripts)'>scripts</a> that have served me well professionally.
+          I closed out 2022 with my <a href='https://www.frank-chen.com/posts/2022-year-in-review'>year in review</a> and finished up a stint at a 2 Michelin star restaurant. I shared my experiences both <a href='https://www.frank-chen.com/posts/working-at-a-2-michelin-star-restaurant'>here</a> and on <a href='https://www.twitter.com/fronkfeeds'>Twitter</a>.
         </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
