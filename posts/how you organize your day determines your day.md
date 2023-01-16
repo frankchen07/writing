@@ -20,6 +20,12 @@
 - following up list
 - waiting for list
 
+#### state of me email (send to manager, weekly)
+1. things you can help me with 
+2. my current priorities 
+3. other things on my mind
+4. something fun or interesting
+
 ---
 
 Back to [[map of content (product)]]

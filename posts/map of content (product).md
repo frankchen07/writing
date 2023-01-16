@@ -52,6 +52,7 @@ Here you'll find some thoughts revolving around the core tenants of product mana
 
 - This whole section is just me making sure to [[consciously build product sense]].
 
-#### finding a job
+### a comprehensive product framework
 
-- [[practicing for pm interviews]]
+I've been putting together a [[comprehensive product framework]] that helps combine a bunch of questions that could be considered to generate interesting directions for any product question.
+

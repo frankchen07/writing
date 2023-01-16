@@ -2,6 +2,19 @@ Riffing on some ideas for zero knowledge products:
 
 ---
 
+An observation made throughout all of the ideas below is that identity is a core concept that enables all of them to work.
+
+In order to proceed with these ideas it may be prudent to begin talking to identity institutions (namely governmental bodies). Currently they are the owners of what an "official identification" is. I'm thinking, at least for the United States:
+
+- State DMVs (Driver's License)
+- United States Department of State (Passports)
+
+There are several strategic approaches:
+1. help governmental bodies adopt an on-chain solution and eventually decentralize and allow users to control their own identity data
+2. make the technology in the private sector and seek to legitimize them under the governmental system
+
+---
+
 ### shielded transactions
 
 The most well-known idea for zero knowledge is creating shielded transactions. Individuals who are sending money to one another can do so in a private way. As an example, Alice can send money to Bob with neither of their addresses or transaction amounts revealed. Zcash helps to enable this kind of transaction.
@@ -99,6 +112,20 @@ With the recent collapse of FTX, zero knowledge could have helped with creating 
 Of course, fast loans can possibly bypass these results, but these are kinks to be worked out. 
 
 (This is really interesting, investigate more).
+
+---
+
+### web3 estate planning
+
+Zero knowledge technology could be instrumental in disrupting the estate planning space. 
+
+Estate planning could unlock many of the techniques involving on-chain dead-man switch setups and preserve the privacy of secrets before and after a life event trigger.
+
+You can hide asset ownership and destinations and only reveal the necessarily information following death. This has the added benefit of keeping declarations anonymous.
+
+Zero knowledge technology can also help with double assurances and other protections to stop rogue lawyers as well. 
+
+Perhaps working with a hardware integration like Ledger in a combined product could be useful as an estate packing planning bundle. 
 
 ---
 
