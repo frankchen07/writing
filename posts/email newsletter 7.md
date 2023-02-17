@@ -34,4 +34,4 @@ I came across [Matchmaker Exchange](https://www.matchmakerexchange.org/) whilst
   
 *"Don't always bet on the little guy, but do always bet against headquarters. Because headquarters politics will invariably and inevitably 'bland up' and kill any worthwhile project."* - Tom Peters
 
-I published past versions of the newsletter on my website, so there's some history: https://frank-chen.com/posts/email-newsletter-archive
+I published past versions of the newsletter on my website, so there's some history. Check out the [[email newsletter archive]].
