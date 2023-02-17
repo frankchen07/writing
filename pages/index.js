@@ -34,6 +34,10 @@ export default function Home({ allPostsData }) {
         <p>
           I closed out 2022 with my <a href='https://www.frank-chen.com/posts/2022-year-in-review'>year in review</a> and finished up a stint at a 2 Michelin star restaurant. I shared my experiences both <a href='https://www.frank-chen.com/posts/working-at-a-2-michelin-star-restaurant'>here</a> and on <a href='https://www.twitter.com/fronkfeeds'>Twitter</a>.
         </p>
+
+        <p>
+          If you're part of my email newsletter, you can visit the <a href='https://frank-chen.com/posts/email-newsletter-archive'>email newsletter archives</a> to see past posts. This too is an experiment.
+        </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>working notes</h2>
