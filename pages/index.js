@@ -34,7 +34,7 @@ export default function Home({ allPostsData }) {
         <ul>
           <li><a href='https://www.frank-chen.com/posts/working-at-a-2-michelin-star-restaurant'>working at a 2* Michelin restaurant, Birdsong SF</a></li>
           <li><a href='https://www.frank-chen.com/posts/2022-year-in-review'>2022 year in review</a></li>
-          <li><a href='https://www.frank-chen.com/posts/getting-0-to-1-for-zero-knowledge-products'>0 to 1 in zero knowledge products</a></li>
+          <li><a href='https://www.frank-chen.com/posts/getting-from-0-to-1-for-zero-knowledge-products'>getting from 0 to 1 in zero knowledge products</a></li>
         </ul>
 
         <p>
