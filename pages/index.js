@@ -28,15 +28,17 @@ export default function Home({ allPostsData }) {
           <li><a href='https://www.frank-chen.com/posts/map-of-content-(scripts)'>canned scripts</a></li>
         </ul>
 
-        <p> I recommend clicking through a map, but if you're in the mood for roulette, you can jump around under the "working notes" header.
-        </p> 
-
-        <p>
-          I closed out 2022 with my <a href='https://www.frank-chen.com/posts/2022-year-in-review'>year in review</a> and finished up a stint at a 2 Michelin star restaurant. I shared my experiences both <a href='https://www.frank-chen.com/posts/working-at-a-2-michelin-star-restaurant'>here</a> and on <a href='https://www.twitter.com/fronkfeeds'>Twitter</a>.
+        <p> I recommend clicking through a map, but if you're in the mood for roulette, you can jump around under the "working notes" header, or read some of the hand-selected things that less "map of content" and more "public experiments":
         </p>
 
+        <ul>
+          <li><a href='https://www.frank-chen.com/posts/working-at-a-2-michelin-star-restaurant'>working at a 2* Michelin restaurant, Birdsong SF</a></li>
+          <li><a href='https://www.frank-chen.com/posts/2022-year-in-review'>2022 year in review</a></li>
+          <li><a href='https://www.frank-chen.com/posts/0-to-1-in-zero-knowledge-products'>0 to 1 in zero knowledge products</a></li>
+        </ul>
+
         <p>
-          If you're part of my email newsletter, you can visit the <a href='https://frank-chen.com/posts/email-newsletter-archive'>email newsletter archives</a> to see past posts. This too is an experiment.
+          If you're part of my email newsletter, you can visit the <a href='https://frank-chen.com/posts/email-newsletter-archive'>email newsletter archives</a> to see past posts. This is also an ongoing experiment.
         </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>

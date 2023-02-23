@@ -54,5 +54,9 @@ Here you'll find some thoughts revolving around the core tenants of product mana
 
 ### a comprehensive product framework
 
-I've been putting together a [[comprehensive product framework]] that helps combine a bunch of questions that could be considered to generate interesting directions for any product question.
+I've been putting together a [[comprehensive product framework]] that helps combine a bunch of questions that could be considered to generate interesting directions for any product question. This is currently in progress.
+
+### in progress
+-  [[straightforward roadmapping]]
+- [[comprehensive product framework]]
 
