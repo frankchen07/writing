@@ -1,5 +1,7 @@
 ### email newsletter archive
 
+- [[email newsletter 9]]
+- [[email newsletter 8]]
 - [[email newsletter 7]]
 - [[email newsletter 6]]
 - [[email newsletter 5]]
