@@ -1,10 +1,12 @@
 ### email newsletter #8
 
-**What I've been up to:**  
+### france, suffering
+
+### france
 
 I visited the south of France, Lyon, and Paris from March 8th to the 21st. I've been recounting my experiences on Instagram. You can catch all the stories here: https://www.instagram.com/fronkfeeds/. I'm posting quite frequently until I get through my backlog, and then I'll probably ghost for another year. (/s) 🤗
 
-**What I've been reading:**  
+### suffering
   
 I'm re-reading Paul Millerd's "The Pathless Path" again, reflecting on my year of doing random shit.
 
@@ -34,7 +36,7 @@ I fucking hated it, but it had to be done. And at the core, it hurt. It was admi
 
 My attention now turns to how to avoid the same fate again when I inevitably try again. I suspect it's less about doing and more about "being".
 
-**Quote of the week:**  
+### quote of the week
   
 *"For bootstrapping products, real professionals ship ... tempo design is more important than organizational design. Make sure you get a good understanding as to what good looks like from a tempo perspective."* - Patrick Campbell
 

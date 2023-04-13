@@ -1,5 +1,7 @@
 ### email newsletter #1
 
+### la eats, chat gpt, alternative work
+
 Hey friends,  
   
 I'm experimenting with writing more. One of these experiments is a form of "what's going on in Frank's side of the world" email on some semi-regular basis.
@@ -10,7 +12,7 @@ If you'd like to opt-out, just let me know. I'm starting with just 4-5 people. S
 
 ---
 
-**What the hell I've been up to:**
+### la eats
 
 Amy and I spent Christmas in Los Angeles. As usual, the trip was a gravy train of continuous eating.
 
@@ -34,7 +36,7 @@ Here were some highlights of our favorite spots, food and non-food.
 
 [SYTK Sullengtang](https://www.yelp.com/biz/sytk-sullungtang-los-angeles-3) - go for the ox knee bone soup. I've made it a habit of ordering one to eat there and one to go. It's the perfect rainy day sick food, but I eat it even when it's not raining.
 
-**What I've been reading:**
+### the pathless path
 
 "The Pathless Path" by Paul Millerd. The book is attached to this newsletter. 
 
@@ -42,20 +44,20 @@ Paul talks about the sense of creativity and curiosity that arises when one take
 
 Take a gander at his [state of work tweet thread](https://twitter.com/p_millerd/status/1339060009930350593), or load his book into a Kindle.
 
-**What I've been watching:**
+### for your viewing pleasure
 
 Alice in Borderland on Netflix. This show is one of those fucked up science fiction survival shows where the characters are playing games with deathly consequences. Think "Squid Game" but in Japanese with a post-apocalyptic parallel universe feel. It's quite heartfelt at times, which is surprising.  
   
-**Cool tech I found:**  
+### chat gpt
   
 I've been playing around with [Open AI's Chat GPT](http://chat.openai.com/), which is an AI bot that you can talk to. Find ways to fuck it up and give you a wrong answer. Or, use it as a learning tool. Ask it complex questions, use acronyms, tell it you don't understand, etc.  
   
 There's another site that I think uses Chat GPT - [character.ai](https://beta.character.ai/). It's a place where you can talk to Elon Musk or other celebrities. It's surprisingly accurate.  
   
-**Latest crazy idea I've had:**  
+### random idea
   
 Our dog Speck likes to chase things, so I'm looking into a small, fast remote controlled car that I might stuff into a squirrel costume.  
   
-**Quote of the week:**  
+### quote of the week
   
 *"There's so much more to who you are than you know right now. You are, indeed, something mysterious and someone magnificent. You hold within you – secreted for safekeeping in your heart – a great gift for this world. Although you might sometimes feel like a cog in a huge machine, that you don't really matter in the great scheme of things, the truth is that you are fully eligible for a meaningful life, a mystical life, a life of the greatest fulfillment and service."* - Bill Plotkin

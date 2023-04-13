@@ -1,10 +1,12 @@
 ### email newsletter #2
 
-**What I've been up to:**
+### year in review, unreasonable hospitality, travel tech
+
+### year in review
 
 I've been writing my [2022 year in review](https://www.frank-chen.com/posts/2022-year-in-review). It's taken a month and a bunch of edits to finally be in a place where I can start sharing it. I'm on a quest to improve my writing, so feel free to respond with any feedback. I hope folks can get some actionable takeaways from it.
 
-**What I've been reading:**
+### unreasonable hospitality
 
 Unreasonable Hospitality by Will Guidara. This book comes at a very opportune time after my stint at Birdsong SF. It tells the story of how Eleven Madison Park achieved 3 Michelin stars and became the best restaurant in the world after a decade of hard work. I'd say it's actually a broadly applicable book about leadership.
 
@@ -22,18 +24,18 @@ You might be wondering what that means. Here's a preview concept:
 
 I'll let you draw your own conclusions on how you might apply this in a broader leadership context, but for me, the takeaway was that being observant, going over the top, and creating experiences that garner unforgettable feelings can be a powerful tool.
 
-**What I've been watching:**
+### chefs table
 
 Not much actually. I'm currently finishing up the Chef's Table Pizza series. Most of it is videography of a bunch of chefs slinging pizzas in sexy slow motion shots as if they're having a snowball fight in the middle of winter. 
 
-**Cool thing I found:**
+### travel tech
 
 [Flykitt](https://www.fount.bio/flykitt) by Fount. It looks like a pre-prepared kit that helps you avoid jet lag when traveling. It kind of looks like the app [Timeshifter](https://www.timeshifter.com/), except that Flykitt actually provides you some of the supplements to take at predetermined times. I'm thinking of trying this for my next trip.
 
-**Latest idea I've had:**
+### random idea
 
 Video-giphy checklist. I capture snippets of jiujitsu movements that I want to test out. I also set arbitrary goals every training session (e.g "hit this movement 3 times in this position"). Having a live-action checklist where the movement is playing over and over again next to the goal seems like a helpful training handicap. 
 
-**Quote of the week:**
+### quote of the week
 
 *"When we're talking, we hop from thought to thought. But writing asks us to freeze our thoughts, which is why it's such an effective way to improve our thinking. Writing is useful precisely because it's difficult."* - David Perell
