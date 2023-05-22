@@ -2,7 +2,7 @@
 
 Here you'll find some thoughts revolving around the core tenants of product management, some of my learnings, and how I've approached my workflow.
 
-#### standup & mortems
+### standup & mortems
 
 - I've found that [[how you organize your day determines your day]], so I created a template to effectively get up to date with my team. 
 
@@ -10,13 +10,13 @@ Here you'll find some thoughts revolving around the core tenants of product mana
 
 - Use evaluations (I call em' "mortems") to your advantage. I've repurposed some analogies from Shreyas Doshi as examples - [[premortems expose product killing gotchas]] and [[postmortems help improve future iterations]].
 
-#### conducting user interviews
+### conducting user interviews
 
 - The more you talk to your users, the more intuition you gain, and the better you're able to assess the underlying behaviors that take place. This helps you to [[consciously build product sense]]. The aim is to [[use research to discover, evaluate, and refine]], and to [[use prototyping to map out a user experience]].
 
 - Doing hundred of iterations with users has honed the process that I use when speaking with users. It's less a rigid format and more concepts I adopt in order to really [[empathize with users during conversations]]. We do have to remember that [[customers don't usually know what they want]], so making sure to properly structure your conversations to uncover frustrations should be the priority.
 
-#### prioritization
+### prioritization
 
 - After several years of jumbled prioritization, I generally keep things quite minimal. I've come to the conclusion that [[prioritization should be simple]] and unique to the problem at hand. Of course, you'll have to adapt given the size and stage of a company - for example, [[prioritizing at early product market fit stages is more hands on]]. Something to note is that [prioritization can be as much as a political problem as it is an analytical problem](https://www.mironov.com/pri-politics/), so be aware. It's not always your fault. 
 
@@ -24,27 +24,27 @@ Here you'll find some thoughts revolving around the core tenants of product mana
 
 - One of my favorite approaches to thinking about prioritization involves answering [[eigenquestions that eliminate large swathes of microdecisions]].
 
-#### building product sense
+### building product sense
 
 - Deconstruct products and ask targeted questions to [[consciously build product sense]]. You can run these exercises every so often on your own with products that you enjoy using.
 
-#### getting alignment
+### getting alignment
 
 - Generally, [[misalignment is caused by folks talking past one another]]. Perk your ears up and listen to which level you're on and which level others are on.
 
 - Clarity in long and short form writing is critical for good communication, especially in the modern remote work milieu. Good communication (whether through writing or speech) generally cuts down on misalignment. It can also be argued in the opposite direction, where communication in itself means there's "communicating to be had" which represents misalignment opportunities. This might suggest team size as the problem or something at the organizational level. 
 
-#### building community
+### building community
 
 - I've been reading some books about community, and I'm increasingly of the opinion that [[building community is another form of understanding users]].
 
-#### web3 vs web2 product
+### web3 vs web2 product
 
 - I've been developing some thoughts revolving around [[trends in web3 product management]] as well as [[preparing for a future in web3 product]].
 
 - In web2, [[product management is about value and viability]]. This is based off of an opinion piece by the Silicon Valley Product Group (SVPG). I'll use this frame of view to make the case that web3 needs to move towards value and viability to reach its full potential. Right now, [[web3 has been heavily focused on feasibility rather than usability]], which inhibits massive growth.
 
-#### product reviews
+### product reviews
 
 - For my own benefit, I've written [[a product review of choice kingdom trust]], an IRA platform that is friendly to digital assets. I'm still use them because their customer service has been responsive, otherwise I'd probably duck out. There's way too many shitty UI issues, random fees, and inane paperwork processes that inch me closer to quitting them permanently. 
 
@@ -56,7 +56,7 @@ Here you'll find some thoughts revolving around the core tenants of product mana
 
 I've been putting together a [[comprehensive product framework]] that helps combine a bunch of questions that could be considered to generate interesting directions for any product question. This is currently in progress.
 
-### in progress
--  [[straightforward roadmapping]]
+### work in progress
+- [[straightforward roadmapping]]
 - [[comprehensive product framework]]
 

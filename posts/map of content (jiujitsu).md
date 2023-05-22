@@ -2,7 +2,7 @@
 
 I post concepts and philosophies here that have helped me through my continuing jiujitsu journey. I routinely revisit these because my understanding of them changes constantly, and the same concepts presented at different times can bring new perspectives. I will be constantly adding and rebuilding these, so check back if you're interested.
 
-#### what is jiujitsu?
+### what is jiujitsu?
 
 Jiujitsu is the immobilization of an opponent's body in a manner that inhibits their athletic and defensive potential, eventually resulting in leveraged positions that eventually lead to strangulation and joint breaks.
 
@@ -12,7 +12,7 @@ From an artistic standpoint, [[everything you do in jiujitsu should be an expres
 
 At some point in your journey, you encounter the ethos of "[[each one teach one]]", a concept that I've experienced in my bboying days. To me, "each one teach one" is about the cycle of responsible mentorship. Someone took the time and patience to bring you from a naive white belt to a limb-controlling, strangle-inducing monster. It is only right that when you are ready, you pass the knowledge along so new grapplers can embark on their own journey. This is how we level up the sport together.
 
-#### training and learning
+### training and learning
 
 To progress in jiujitsu, you need discover how to learn, because part of the [[process is understanding that everyone learns differently]]. You will find your own path. The faster you understand and come to terms with that, the faster you will seek and master yourself.
 
@@ -24,7 +24,7 @@ Purposely train starting in bad positions. Put yourself there and [[train with l
 
 Finally, for competitors - [[training habits are competition habits]]. Performance that outranks what you do in the training room is rare and generally is an exception. While you can rise to the occasion, the reality is more that you fall to the level of training. Make sure your baseline level of training encompasses competition habits.
 
-#### teaching philosophy
+### teaching philosophy
 
 I've been teaching jiujitsu more frequently nowadays, and teaching, unlike competing and training for yourself, is a completely different skill. This section is devoted to sharing some of my observations as to what informs my teaching philosophy, what I've found to work, and what I need to improve on.
 
@@ -35,7 +35,7 @@ I've been teaching jiujitsu more frequently nowadays, and teaching, unlike compe
 - [[depth then breadth or breadth then depth]]
 - [[the ecological method of teaching]]
 
-#### the mental side
+### the mental side
 
 I went deep on some sport psychology books to learn a little more about mental performance. Many of these concepts link to my [[map of content (mindset)]], but you'll find some topics here.
 
@@ -49,7 +49,7 @@ You're also going to get stuck in your progression. There are highs, lows, and p
 
 Above all, don't quit, because [[a hopeful mindset keeps one in the pocket]], and the longer you're in the pocket, the more benefits and opportunities you'll come across.
 
-#### movement, grips & limbs, opportunities
+### movement, grips & limbs, opportunities
 
 Let's talk about movement. I revisit these concepts at different points in my journey because they consistently hold different meanings every time I revisit them. This is partly because jiujitsu is a fluid, dynamic entity. It's constantly changing alongside my life, so my interpretation is different on each visit.
 
@@ -60,7 +60,6 @@ Let's talk about movement. I revisit these concepts at different points in my jo
 - [[the whitespace is just as important as the blackspace]]
 - [[utilize all 360 degrees of movement in 3 planes]]
 - [[you don't want a 1 to 1 move tradeoff, you want an n to 1 tradeoff]]
-- [[jiujitsu conditioning stretching rehab meditation]]
 - [[create tension when connecting to your opponent]]
 
 Grips are very important for imposing your game because the start of any competitive jiujitsu match is where the most chaos occurs. The best competitors [[use initial conditions to constrain chaotic environments]] and are the first to implement their game. In order to achieve this, [[dominating the grip fight means you dominate the initial entry]], and that sets you up to achieve end-game positions.
@@ -78,7 +77,7 @@ One of the tougher battles in jiujitsu is how to better spot and take advantage 
 - [[cultivate a fail opportunity mindset to continue the action]]
 - [[don't be satisfied with only escaping]]
 
-#### competing
+### competing
 
 If you compete, you should [[know the rules if you're going to play the game]].
 
@@ -86,11 +85,18 @@ Just reading the rulebook is actually not enough. There are a lot of "gotcha" si
 
 This is a pretty basic concept. If you're competing in IBJJF matches, know those rules. ADCC? EBI? Something else? Give it a read and train under those constraints. Know what submissions are legal and illegal. Know the point system. Know what happens when you go out of bounds. Defend yourself at all times. Or, you could always go for the submission win. You can never deny a win off of a submission.
 
-#### adcc 2022
+### adcc 2022
 
 I attended the 2022 ADCC World Championships in Las Vegas. I wrote up some  observations and [[thoughts about adcc 2022]], both from an event and a meta-game perspective. 
 
-#### work in progress
+### work in progress
 
 - [[jiujitsu training observations]]
 - [[jiujitsu accomplishments]]
+- [[there is always something to learn regardless of your rank]]
+- [[what has worked for me may not work for you so trust and verify]]
+- [[intentionality and constraint are necessary tools]]
+- [[approaching student learning at different skill levels]]
+- [[depth then breadth or breadth then depth]]
+- [[the ecological method of teaching]]
+- [[create tension when connecting to your opponent]]

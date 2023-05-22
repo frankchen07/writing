@@ -51,4 +51,4 @@ Some other thoughts related to my time interning:
 - [[find the way you like things even if it involves modifications]]
 - [[pizza without cheese and meat swaps]]
 - [[the essence of the paper cup]]
-- [[I could eat is a universally positive phrase]]
+- [[i could eat is a universally positive phrase]]

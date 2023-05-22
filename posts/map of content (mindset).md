@@ -1,6 +1,6 @@
 ### map of content (mindset)
 
-#### the workings of performance
+### the workings of performance
 
 The Inner Game of Tennis by Timothy Gallwey was one of the first sport psychology books that I read. He lays out what an athlete should do in order to stop over-analyzing and perform to their fullest ability. The TLDR is that hard work and smart training imprints performance to the subconscious, and the way to activate it is for us to shut our conscious brain up and step out of the way. 
 
@@ -9,7 +9,7 @@ The Inner Game of Tennis by Timothy Gallwey was one of the first sport psycholog
 3. [[experience in the present opens you to the language of opportunity]]
 4. [[assess the outcome by repeating non judgmental observation]]
 
-#### the subconscious
+### the subconscious
 
 Many authors talk about the differentiation between the conscious and the subconscious mind. Our conscious mind is the one that we mostly experience on a day to day basis, but [[the subconscious is where true performance lies]].
 
@@ -19,7 +19,7 @@ There are mental exercises you can immediately partake in. The first is to [[acc
 
 If you're like me and have trouble truly believing in yourself, then [[act your way into beliefs which reinforce your actions]]. Alternatively, you can also [[choose courage over confidence]], which in the same stroke, allows you to positively build evidence towards confidence.
 
-#### self image & perception
+### self image & perception
 
 A vital part of performing is an athlete's self image. They say you don't "rise to the occasion", but "fall to the level of your training". While true, if an athlete has a negative self image, has a strategic game plan, and has worked hard, they can still stumble.
 
@@ -43,7 +43,7 @@ In the short-term, actively practice:
 6. [[create a pressure log helps identify how to tune inward]]
 7. [[create daily intention by staying present and aware]]
 
-#### staying in the present 
+### staying in the present 
 
 One could say all this shit is super complicated, and the best course of action is to just stay in the present.
 
@@ -51,18 +51,18 @@ The first step is to grasp that [[observing that your attention is elsewhere is 
 
 For me, [[focusing on breathing brings me back to the present]]. Other jiujitsu athletes [[focus on execution, not the outcome]], to bring them back to the present.
 
-#### the process & the zone
+### the process & the zone
 
 You should [[care about the essence and the process]], not just the end. How you get there is important, especially for long term commitments.
 
 Along the way, you'll want to learn how to get into the zone. There are [[universal feelings when one gets into the zone]]. Learn to identify them. 
 
-#### uncategorized snippets
+### uncategorized snippets
 
 - [[mental management is your most important skill as a bjj athelete]]
 - [[clear your baggage and be unencumbered]]
 - [[act yourself into a way of thinking]]
-- [[develop mental toughness with 7 Cs]]
+- [[develop mental toughness with 7 cs]]
 - [[limits end where vision ends]]
 - [[the mind responds better to positive action than negative action]]
 - [[your reaction is more important than interpretation]]
