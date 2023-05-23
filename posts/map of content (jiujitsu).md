@@ -93,6 +93,8 @@ I attended the 2022 ADCC World Championships in Las Vegas. I wrote up some  obse
 
 - [[jiujitsu training observations]]
 - [[jiujitsu accomplishments]]
+- [[2022 workshop pdx]]
+- [[2023 workshop nyc]]
 - [[there is always something to learn regardless of your rank]]
 - [[what has worked for me may not work for you so trust and verify]]
 - [[intentionality and constraint are necessary tools]]
