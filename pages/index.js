@@ -13,36 +13,25 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          Hello, I'm <a href='https://www.linkedin.com/in/frankchen07/'>Frank</a>. This is my working knowledge base where I play around with concepts.
-        </p>
-
-        <p>
-          I have several "maps of content":
+          Hello, I'm <a href='https://www.linkedin.com/in/frankchen07/'>Frank</a>. This is a working knowledge base where I share concepts I'm experimenting with.
         </p>
 
         <ul>
-          <li><a href='https://www.frank-chen.com/posts/map-of-content-(product)'>product management</a></li>
-          <li><a href='https://www.frank-chen.com/posts/map-of-content-(jiujitsu)'>jiujitsu</a></li>
-          <li><a href='https://www.frank-chen.com/posts/map-of-content-(mindset)'>mindset</a></li>
-          <li><a href='https://www.frank-chen.com/posts/map-of-content-(cooking)'>cooking</a></li>
-          <li><a href='https://www.frank-chen.com/posts/map-of-content-(scripts)'>canned scripts</a></li>
-        </ul>
-
-        <p> I recommend clicking through a map, but if you're in the mood for roulette, you can jump around under the "working notes" header, or read some of the hand-selected things that less "map of content" and more "public experiments":
-        </p>
-
-        <ul>
-          <li><a href='https://www.frank-chen.com/posts/working-at-a-2-michelin-star-restaurant'>working at a 2* Michelin restaurant, Birdsong SF</a></li>
+          <li><a href='https://www.frank-chen.com/posts/map-of-content-(product)'>being better at product management</a></li>
+          <li><a href='https://www.frank-chen.com/posts/map-of-content-(jiujitsu)'>jiujitsu philosophies</a></li>
+          <li><a href='https://www.frank-chen.com/posts/map-of-content-(mindset)'>mindset for performance</a></li>
+          <li><a href='https://www.frank-chen.com/posts/map-of-content-(cooking)'>cooking endeavors</a></li>
+          <li><a href='https://www.frank-chen.com/posts/map-of-content-(scripts)'>canned scripts for easy writing</a></li>
+          <li><a href='https://www.frank-chen.com/posts/working-at-a-2-michelin-star-restaurant'>working at a 2* michelin restaurant, birdsong sf</a></li>
           <li><a href='https://www.frank-chen.com/posts/2022-year-in-review'>2022 year in review</a></li>
-          <li><a href='https://www.frank-chen.com/posts/getting-from-0-to-1-for-zero-knowledge-products'>getting from 0 to 1 in zero knowledge products</a></li>
         </ul>
 
         <p>
-          If you're part of my email newsletter, you can visit the <a href='https://frank-chen.com/posts/email-newsletter-archive'>email newsletter archives</a> to see past posts. This is also an ongoing experiment.
+          I also post life updates on my <a href='https://fronk.substack.com/'>email newsletter</a>.
         </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
-        <h2 className={utilStyles.headingLg}>working notes</h2>
+        <h2 className={utilStyles.headingLg}>all writings</h2>
         <ul className={utilStyles.list}>
           {/* {allPostsData.map(({/ id, date, title }) => ( */}
           {allPostsData.map(({ id, title, url }) => (
