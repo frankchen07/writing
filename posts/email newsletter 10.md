@@ -1,3 +1,5 @@
+### email newsletter 10
+
 ### mimesis, differentiation, competition
 
 I recently finished a book called "Wanting" by Luke Burgis, which was a pretty comprehensive riff on Rene Girard's philosophies surrounding mimetic models of desire. 
