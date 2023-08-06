@@ -87,7 +87,7 @@ This is a pretty basic concept. If you're competing in IBJJF matches, know those
 
 ### adcc 2022
 
-I attended the 2022 ADCC World Championships in Las Vegas. I wrote up some  observations and [[thoughts about adcc 2022]], both from an event and a meta-game perspective. 
+I attended the 2022 ADCC World Championships in Las Vegas. I wrote up some observations and [[thoughts about adcc 2022]], both from an event and a meta-game perspective. 
 
 ### work in progress
 
