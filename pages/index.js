@@ -25,7 +25,7 @@ export default function Home({ allPostsData }) {
         </p>
 
         <p>
-          I'm into a fair amount of <a href='https://www.instagram.com/fronkfeeds/'>cooking related shit</a> as well - <a href='https://www.frank-chen.com/posts/map-of-content-(cooking)'>food science blogging, hosting experimental supper clubs</a>, and <a href='https://www.frank-chen.com/posts/working-at-a-2-michelin-star-restaurant'>staging at a 2* Michelin restaurant</a>. The hospitality space continues to inspire me from a technological and cultural standpoint, and continually reminds me that to cook is to be human.
+          I'm into a fair amount of <a href='https://www.instagram.com/fronkfeeds/'>cooking related shit</a> as well - <a href='https://www.frank-chen.com/posts/map-of-content-(cooking)'>did some food science blogging, hosted experimental supper clubs</a>, and <a href='https://www.frank-chen.com/posts/working-at-a-2-michelin-star-restaurant'>staged at a 2* Michelin restaurant</a>. The hospitality space continues to inspire me from a technological and cultural standpoint, and continually reminds me that to cook is to be human.
         </p>
 
         <p>
