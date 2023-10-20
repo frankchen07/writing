@@ -59,4 +59,15 @@ I've been putting together a [[comprehensive product framework]] that helps comb
 ### work in progress
 - [[straightforward roadmapping]]
 - [[comprehensive product framework]]
+- [[first principles product thinking]]
+- [[the making of a manager]]
+- [[ship first mentality]]
+- [[product strategy brief]]
+- [[product led acquisition (pla) by julian shapiro]]
+- [[navigating the product leadership fog by john cutler]]
+- [[product mgmt pathless path]]
+- [[shreyas doshi product notes]]
+- [shreyas thoughts](https://twitter.com/shreyas/status/1628108448511696896)
+- [incompetent leaders by shreyas](https://twitter.com/shreyas/status/1339997380335128576)
+- [[strategies for one person business]]
 
