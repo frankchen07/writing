@@ -91,6 +91,7 @@ I attended the 2022 ADCC World Championships in Las Vegas. I wrote up some obser
 
 ### work in progress
 
+- [[jiujitsu mental training]]
 - [[jiujitsu training observations]]
 - [[jiujitsu accomplishments]]
 - [[2022 workshop pdx]]
