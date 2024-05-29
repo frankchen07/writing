@@ -2,7 +2,7 @@
 
 This will be my first year in review inspired by [David Perell's 2021 year in review](https://perell.com/essay/annual-review-2021/) and his writing. 2022 was full of themes and experiments that I'd like to reflect on and use as feedback as to how I'd like to structure 2023. 
 
-I've organized this piece under headers to help split up my thoughts but I've done my best to summarize actionable insights at the end of each section. 
+I've organized this piece under headers to help split up my thoughts but I've done my best to summarize actionable insights at the end of each section. I also did a TLDR of this thread here: [[2022 year in review tweet thread]].
 
 ### comfort vs. exploration
 

@@ -29,15 +29,11 @@ export default function Home({ allPostsData }) {
         </p>
 
         <p>
-          I'm into a fair amount of <a href='https://www.instagram.com/fronkfeeds/'>cooking related shit</a> as well. <a href='https://www.frank-chen.com/posts/map-of-content-(cooking)'>I did some food science blogging, hosted experimental supper clubs</a>, and <a href='https://www.frank-chen.com/posts/working-at-a-2-michelin-star-restaurant'>worked at a 2* Michelin restaurant</a>. The hospitality space continues to inspire me from a technological and cultural standpoint, and continually reminds me to be "unreasonably hospitable", because it keeps us human.
+          I'm into a fair amount of <a href='https://www.instagram.com/fronkfeeds/'>cooking related shit</a> as well. <a href='https://www.frank-chen.com/posts/map-of-content-(cooking)'>I did some food science blogging, hosted experimental supper clubs</a>, and <a href='https://www.frank-chen.com/posts/working-at-a-2-michelin-star-restaurant'>worked at a 2* Michelin restaurant</a>. The hospitality space continues to inspire me from a technological and cultural standpoint, and continually reminds me to be "unreasonably hospitable" because it keeps us human.
         </p>
 
         <p>
-          I try to run my life in experiments. Like food, there are seasons to everything. The skill of <a href='https://www.frank-chen.com/posts/map-of-content-(scripts)'>having courage and talking to strangers</a> helps me to figure out what hell I'm doing. Also, it helps to do some <a href='https://www.frank-chen.com/posts/2022-year-in-review'>reflection (2022)</a>.
-        </p>
-
-        <p>
-          Lately, I've been posting life updates on my <a href='https://fronk.substack.com/'>email newsletter</a>.
+          I try to run my life in experiments. Like food, there are seasons to everything. Lately, I've been posting life updates on my <a href='https://fronk.substack.com/'>email newsletter</a>.
         </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
