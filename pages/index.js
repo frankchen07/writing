@@ -13,23 +13,27 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          Hello, I'm <a href='https://www.linkedin.com/in/frankchen07/'>Frank</a>. This is a working knowledge base where I share concepts I'm experimenting with.
+          Hey, I'm <a href='https://www.linkedin.com/in/frankchen07/'>Frank</a>. I share experiments I'm testing in this working knowledge base.
         </p>
 
         <p>
-          Currently, I'm helping to build the private internet with <a href='https://twitter.com/AleoHQ'>Aleo</a> through the power of zero knowledge and distributed ledgers. In a past life, I played around with numbers and told stories as an analyst, but eventually shifted over to <a href='https://www.frank-chen.com/posts/map-of-content-(product)'>product</a>.
+          I'm currently on sabbatical in 2024. This particular adventure started with living abroad in France and has morphed into various experiments to change the shape of my life.
         </p>
 
         <p>
-          I do a fuck ton of <a href='https://www.instagram.com/frankthetankjj/'>jiujitsu</a> and consider it one the defining obsessions that has altered the way I think about <a href='https://www.frank-chen.com/posts/map-of-content-(mindset)'>mindset</a>, <a href='https://www.frank-chen.com/posts/map-of-content-(jiujitsu)'>learning, training, and strategy</a>.
+          Just prior, I helped build the foundations of a private internet with <a href='https://provable.com/'>Aleo</a> and a product to fund Ethereum public goods with <a href='https://gitcoin.co'>Gitcoin</a>. In a past life, I played around with numbers as an analyst, but eventually shifted over to telling stories in the realm of <a href='https://www.frank-chen.com/posts/map-of-content-(product)'>products</a>.
         </p>
 
         <p>
-          I'm into a fair amount of <a href='https://www.instagram.com/fronkfeeds/'>cooking related shit</a> as well - <a href='https://www.frank-chen.com/posts/map-of-content-(cooking)'>did some food science blogging, hosted experimental supper clubs</a>, and <a href='https://www.frank-chen.com/posts/working-at-a-2-michelin-star-restaurant'>worked at a 2* Michelin restaurant</a>. The hospitality space continues to inspire me from a technological and cultural standpoint, and continually reminds me that to cook is to be human.
+          I do a fuck ton of <a href='https://www.instagram.com/frankthetankjj/'>jiujitsu</a> and consider the defining obsession that has altered the way I think about <a href='https://www.frank-chen.com/posts/map-of-content-(mindset)'>mindset</a>, <a href='https://www.frank-chen.com/posts/map-of-content-(jiujitsu)'>learning, training, and strategy</a>.
         </p>
 
         <p>
-          I run my life in a series of fractal experiments. Like food, there are seasons to everything. The skill of <a href='https://www.frank-chen.com/posts/map-of-content-(scripts)'>having courage and talking to strangers</a> helps me to figure out what hell I'm doing. Also, it helps to do some <a href='https://www.frank-chen.com/posts/2022-year-in-review'>reflection (2022)</a>.
+          I'm into a fair amount of <a href='https://www.instagram.com/fronkfeeds/'>cooking related shit</a> as well. <a href='https://www.frank-chen.com/posts/map-of-content-(cooking)'>I did some food science blogging, hosted experimental supper clubs</a>, and <a href='https://www.frank-chen.com/posts/working-at-a-2-michelin-star-restaurant'>worked at a 2* Michelin restaurant</a>. The hospitality space continues to inspire me from a technological and cultural standpoint, and continually reminds me to be "unreasonably hospitable", because it keeps us human.
+        </p>
+
+        <p>
+          I try to run my life in experiments. Like food, there are seasons to everything. The skill of <a href='https://www.frank-chen.com/posts/map-of-content-(scripts)'>having courage and talking to strangers</a> helps me to figure out what hell I'm doing. Also, it helps to do some <a href='https://www.frank-chen.com/posts/2022-year-in-review'>reflection (2022)</a>.
         </p>
 
         <p>

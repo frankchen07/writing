@@ -6,11 +6,17 @@ I post concepts and philosophies here that have helped me through my continuing 
 
 Jiujitsu is the immobilization of an opponent's body in a manner that inhibits their athletic and defensive potential, eventually resulting in leveraged positions that eventually lead to strangulation and joint breaks.
 
-Of course, this is the technical definition - jiujitsu transcends the physics of strength, flexibility, and movement. The sport demands self-mastery, spirituality, ego control, mental fortitude, and work ethic. I could go on, but the general summary is that if you allow it, jiujitsu can positively affect you in multiple dimensions.
+That's a mouthful, let's try to simplify that.
+
+Jiujitsu is using more of my body against less of yours.
+
+Of course, this is only the technical definition. If you revisit this definition throughout your journey, you'll find that it shows up almost everywhere. 
+
+I'll also note that the technical definition also only encompasses the physical aspect of jiujitsu. The sport demands self-mastery, spirituality, ego control, mental fortitude, skill acquisition,  and work ethic (just to name a non-exhaustive few).
 
 From an artistic standpoint, [[everything you do in jiujitsu should be an expression of you]]. I draw this relation from my old bboying days. If you blurred the faces of noteworthy dancers and jiujitsu athletes, you can still tell who is who purely based on how they move, the moves they use, and the tempo they take. That is the expression of essence. So, [[play your game because no one else is going to be better than you at it]]. This advice transcends the mat. Do your own thing and don't worry about everyone else.
 
-At some point in your journey, you encounter the ethos of "[[each one teach one]]", a concept that I've experienced in my bboying days. To me, "each one teach one" is about the cycle of responsible mentorship. Someone took the time and patience to bring you from a naive white belt to a limb-controlling, strangle-inducing monster. It is only right that when you are ready, you pass the knowledge along so new grapplers can embark on their own journey. This is how we level up the sport together.
+At some point in your journey, you will encounter the ethos of "[[each one teach one]]", another concept that I've experienced in my bboying days. To me, "each one teach one" is about the cycle of responsible mentorship. Someone took the time and patience to bring you from a naive white belt to a limb-controlling, strangle-inducing monster. It is only right that when you are ready, you pass the knowledge along so new grapplers can embark on their own journey. This is how we level up the sport together.
 
 ### training and learning
 
@@ -33,7 +39,9 @@ I've been teaching jiujitsu more frequently nowadays, and teaching, unlike compe
 - [[intentionality and constraint are necessary tools]]
 - [[approaching student learning at different skill levels]]
 - [[depth then breadth or breadth then depth]]
-- [[the ecological method of teaching]]
+- [[how is jiujitsu done]]
+- [[teaching templates for understanding the why]]
+- [[examples of the ecological method of teaching]]
 
 ### the mental side
 
@@ -85,6 +93,8 @@ Just reading the rulebook is actually not enough. There are a lot of "gotcha" si
 
 This is a pretty basic concept. If you're competing in IBJJF matches, know those rules. ADCC? EBI? Something else? Give it a read and train under those constraints. Know what submissions are legal and illegal. Know the point system. Know what happens when you go out of bounds. Defend yourself at all times. Or, you could always go for the submission win. You can never deny a win off of a submission.
 
+Lately, I've been thinking more that [[one of the key levers for great competitors is that they have access to the repertoire they exhibit in a training situation at greater magnitudes of effort despite competitive pressure]].
+
 ### adcc 2022
 
 I attended the 2022 ADCC World Championships in Las Vegas. I wrote up some observations and [[thoughts about adcc 2022]], both from an event and a meta-game perspective. 
@@ -102,5 +112,9 @@ I attended the 2022 ADCC World Championships in Las Vegas. I wrote up some obser
 - [[intentionality and constraint are necessary tools]]
 - [[approaching student learning at different skill levels]]
 - [[depth then breadth or breadth then depth]]
-- [[the ecological method of teaching]]
-- [[create tension when connecting to your opponent]]
+- [[how is jiujitsu done]]
+- [[teaching templates for understanding the why]]
+- [[examples of the ecological method of teaching]]
+
+- [[one of the key levers for great competitors is that they have access to the repertoire they exhibit in a training situation at greater magnitudes of effort despite competitive pressure]]
+
