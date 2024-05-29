@@ -37,7 +37,7 @@ export default function Home({ allPostsData }) {
         </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
-        <h2 className={utilStyles.headingLg}>all explorations</h2>
+        <h2 className={utilStyles.headingLg}>a la carte knowledge bits</h2>
         <ul className={utilStyles.list}>
           {/* {allPostsData.map(({/ id, date, title }) => ( */}
           {allPostsData.map(({ id, title, url }) => (
