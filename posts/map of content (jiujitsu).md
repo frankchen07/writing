@@ -69,6 +69,7 @@ Let's talk about movement. I revisit these concepts at different points in my jo
 - [[utilize all 360 degrees of movement in 3 planes]]
 - [[you don't want a 1 to 1 move tradeoff, you want an n to 1 tradeoff]]
 - [[create tension when connecting to your opponent]]
+- [[creating set ups is mastering the art of distraction and also complete awareness]]
 
 Grips are very important for imposing your game because the start of any competitive jiujitsu match is where the most chaos occurs. The best competitors [[use initial conditions to constrain chaotic environments]] and are the first to implement their game. In order to achieve this, [[dominating the grip fight means you dominate the initial entry]], and that sets you up to achieve end-game positions.
 
@@ -117,4 +118,6 @@ I attended the 2022 ADCC World Championships in Las Vegas. I wrote up some obser
 - [[examples of the ecological method of teaching]]
 
 - [[one of the key levers for great competitors is that they have access to the repertoire they exhibit in a training situation at greater magnitudes of effort despite competitive pressure]]
+
+- [[creating set ups is mastering the art of distraction and also complete awareness]]
 
