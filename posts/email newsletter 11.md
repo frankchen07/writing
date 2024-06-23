@@ -24,7 +24,7 @@ You see this with bboys quite frequently - bboy Menno and Victor come to mind. [
 
 What about constraints? If you're accustomed to doing the same thing - toprock, some footwork, a power move, and then a freeze, that's a neural pathway that's well worn. When you're playing around the key is to break out of that. Maybe do the same thing but only use your right hand. Throw a freeze every time you transition out of a power move. Do only airchairs in one set.
 
-By doing this, you start breaking habits, digging up new movement modalities that were previously unexplored, and mapping out new experiences. You’re purposefully "doing something different", but in the larger picture, what you're really doing is crafting an environment that promotes creativity.
+By doing this, you start breaking habits, digging up new movement modalities that were previously unexplored, and mapping out new experiences. You're purposefully "doing something different", but in the larger picture, what you're really doing is crafting an environment that promotes creativity.
 
 ---
 
@@ -42,9 +42,9 @@ With constraints, when I was cooking more often in my supper club, I limited mys
 
 Creative laboratories in jiujitsu help me with skill development.
 
-Going at "high intensity", like in a bboy battle, or executing a dinner menu, will force you to go down the most well-known neural pathways because those are the ones that are second nature. In jiujitsu, you're not going to be working your B or C game when someone is coming for your neck. “A” game only.
+Going at "high intensity", like in a bboy battle, or executing a dinner menu, will force you to go down the most well-known neural pathways because those are the ones that are second nature. In jiujitsu, you're not going to be working your B or C game when someone is coming for your neck. "A" game only.
 
-Again, the creative laboratory is the time and place to play around and discover new neural pathways. During these times, don't judge movement as good or bad - it’s exploration. Get caught in a submission? Lose position? You're training with trusted partners in an experimental mindset. There are no medals, money, or pride on the line. Purposefully get entrenched into positions you might not find yourself in and find ways to work out of them. Skill development works best when you’re in a low-ego state.
+Again, the creative laboratory is the time and place to play around and discover new neural pathways. During these times, don't judge movement as good or bad - it's exploration. Get caught in a submission? Lose position? You're training with trusted partners in an experimental mindset. There are no medals, money, or pride on the line. Purposefully get entrenched into positions you might not find yourself in and find ways to work out of them. Skill development works best when you're in a low-ego state.
 
 You can choose to impose optional constraints to further break out of bad habits - don't use your left hand, only play certain guards, look for only triangle chokes throughout your entire roll, or impose time limits on getting a sweep or a pass.
 

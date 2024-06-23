@@ -20,7 +20,7 @@ I think it's to be honest and forthright.
 
 Should the review be done publicly, privately, or anonymously? To me, it doesn't really matter. There's not a right or wrong way. I think the key is to avoid outrage, and to make sure you're presenting the information in a way where the criticized can understand your experience. A great example is [Justin Khanna's honest review of a restaurant he ate at recently](https://www.youtube.com/watch?v=zH3q7JcFQTk). 
 
-In my case, I did it publicly and anonymously. I plan on doing it privately as well, otherwise they'll never know and then they can’t improve.
+In my case, I did it publicly and anonymously. I plan on doing it privately as well, otherwise they'll never know and then they can't improve.
 
 So, how can we make this process better? If we view hospitality as a two sided marketplace with both the restaurant and the customer, it serves to stand that a restaurant should receive an opportunity to respond to constructive criticism, just as a guest has the free opportunity to write a review.
 

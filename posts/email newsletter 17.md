@@ -17,11 +17,11 @@ The wrong way to bring your pet abroad - 1 day shipping.
 
 ### paperwork
 
-Visit your nearest veterinarian to ensure you have the right health certificates and updated vaccines for travel. Some airlines also want you to fill out a couple of forms saying that your pet won’t urinate or defecate on the plane (as if they could control it 🙄).
+Visit your nearest veterinarian to ensure you have the right health certificates and updated vaccines for travel. Some airlines also want you to fill out a couple of forms saying that your pet won't urinate or defecate on the plane (as if they could control it 🙄).
 
-Rules on where you can take your pet depend on the country you’re going to. Europe is pretty relaxed. Asian countries and Australia have really strict requirements and sometimes might not let your pet in at all.
+Rules on where you can take your pet depend on the country you're going to. Europe is pretty relaxed. Asian countries and Australia have really strict requirements and sometimes might not let your pet in at all.
 
-For somewhere in Europe, you’ll need:
+For somewhere in Europe, you'll need:
 1. updated rabies vaccination
 2. latest health certificate
 3. airline forms
@@ -34,7 +34,7 @@ Of the three airlines, United seems to have screwed people over the most (the do
 
 If your pet is under 8 kgs (17 lbs), then many more airlines open up, and in general, it's easy to find carriers that are guaranteed to fit under your seat. If your pet is anything like Speck (awkwardly long, 18-22 lbs), then rejections become more common, unless it's with these three airlines.
 
-Get a soft sided carrier because they can compress somewhat to fit under your seat. I purchased the large [Sherpa Original Deluxe Carrier](https://www.amazon.com/dp/B000FLETX8?th=1) with dimensions of 19" L x 11.8" W x 11.5" H. When asked what my carrier dimensions were, I just gave the max dimensions listed on the carrier's website (usually 18”L x 11”W x 11”H), and trusted that the soft carrier can compress and expand as needed.
+Get a soft sided carrier because they can compress somewhat to fit under your seat. I purchased the large [Sherpa Original Deluxe Carrier](https://www.amazon.com/dp/B000FLETX8?th=1) with dimensions of 19" L x 11.8" W x 11.5" H. When asked what my carrier dimensions were, I just gave the max dimensions listed on the carrier's website (usually 18"L x 11"W x 11"H), and trusted that the soft carrier can compress and expand as needed.
 
 There are other more expensive options. The next tier up is JSX, a semi-chartered plane flight. They are currently U.S domestic only and have limited flight paths between major cities, but the real kicker is that they allow up to 70 lbs of animal (that's alotta dog) to ride in cabin without a carrier (awesome).
 
@@ -48,15 +48,15 @@ Airlines "operated by" some carrier abide by the operation carrier's rules. So, 
 
 We also chose a flight that broke up the international trip into two legs. We're stopping in New York so Speck can stretch his legs and use the bathroom. You may choose to do one leg, but we found that even a 3-4 hour leg with him was a little long for his bladder.
 
-What you’ll do is you’ll book your flight first, then make a separate call to the airline to add your pet to your ticket. You should do this ASAP because there is a pet limit on each plane (6-7 pets or something), once that limit has been reached, you can’t bring your pet.
+What you'll do is you'll book your flight first, then make a separate call to the airline to add your pet to your ticket. You should do this ASAP because there is a pet limit on each plane (6-7 pets or something), once that limit has been reached, you can't bring your pet.
 
-If you do seat selection, you can’t sit in any seats that don’t have under-the-feet storage (no front seats), and you can’t sit in the emergency exit rows, so choose wisely. You can use one of those seat websites to figure out a good place to sit.
+If you do seat selection, you can't sit in any seats that don't have under-the-feet storage (no front seats), and you can't sit in the emergency exit rows, so choose wisely. You can use one of those seat websites to figure out a good place to sit.
 
 ### day of
 
 Get to the airport early. Southwest makes you pay a pet fare each way, so you have to stand in line and see a help desk associate. This is similar with other airlines as well. You're not checking bags, but you're also not just cruisin' through security without visiting an airline desk first.
 
-Don’t be an idiot and feed and water your dog like an all-you-can-eat Chinese buffet before getting on the flight or you’ll have pee-poo issues.
+Don't be an idiot and feed and water your dog like an all-you-can-eat Chinese buffet before getting on the flight or you'll have pee-poo issues.
 
 If you see other peoples' dogs out and about without an issue, it's probably ok to take em' out. The rule is "your dog has to be in the carrier at all times including in the airport." But honestly, after we got past security, it was frickin' dog-show-galore. Everyone was walking their pets and just hanging onto their carriers. So, take em' out when you can (let em' use the potty) and maybe feel just a tad mischievous when you're passing by airport security (nothing happened, they smiled at him).
 
