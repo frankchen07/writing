@@ -1,5 +1,6 @@
 ### email newsletter archive
 
+- [[paris series 4]]
 - [[paris series 3]]
 - [[paris series 2]]
 - [[paris series 1]]
