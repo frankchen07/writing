@@ -1,9 +1,10 @@
 ### email newsletter archive
 
-- [[paris series 4]]
-- [[paris series 3]]
-- [[paris series 2]]
-- [[paris series 1]]
+- [[paris series 5]] (paris series 5)
+- [[through the looking glass]] (paris series 4)
+- [[bready set go]] (paris series 3)
+- [[the truthfulness in pretending]] (paris series 2)
+- [[diving into the city of light]] (paris series 1)
 - [[email newsletter 18]]
 - [[email newsletter 17]]
 - [[email newsletter 16]]
