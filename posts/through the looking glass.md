@@ -16,7 +16,7 @@ The cafés are set up in a way that facilitates people watching. Outdoor chairs 
 
 Le Bonaparte (6éme) captures this essence really well. They've got balling seating for the peanut gallery, not to mention a peppery saucisson and decent espresso. 😋 Smoking is allowed. Loud conversation is welcome. Dogs are allowed in the mix too - just make sure you bring something for them, otherwise:
 
-![](https://youtube.com/shorts/0Veg0X8Bfn4?feature=share)
+<iframe width="656" height="1166" src="https://www.youtube.com/embed/0Veg0X8Bfn4" title="what did you get for meee" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 This idea of "theater" is actually a motivation to dress better too, since you might as well look pleasant for others if you're being watched. "Going to the theater/opera" back in the day (and even today) is an experience that you'd dress up for. Bourgeois for sure, but if we think about it as being part of the entire scene, it's less about individual perspectives and more about the coming together of beauty and how people fit together, including you.
 
