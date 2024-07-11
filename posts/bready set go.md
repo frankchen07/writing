@@ -1,4 +1,4 @@
-### paris series 3
+### bready, set, go (paris series 3)
 
 ### bread culture
 

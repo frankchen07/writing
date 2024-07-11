@@ -1,5 +1,4 @@
-### diving into the city of light
-**paris series 1**
+### diving into the city of light (paris series 1)
 
 I'm writing a short series about my time living abroad in France. Doing something like this helps me remember and simultaneously update my friends to the fact that I haven't completely disappeared off the face of the earth.
 

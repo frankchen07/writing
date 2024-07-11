@@ -1,4 +1,4 @@
-### paris series 4
+### through the looking glass (paris series 4)
 
 ### cafés & people watching
 
