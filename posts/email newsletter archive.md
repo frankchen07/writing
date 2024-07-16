@@ -1,6 +1,8 @@
 ### email newsletter archive
 
+- [[paris series 6]] (paris series 6)
 - [[paris series 5]] (paris series 5)
+- [[fattening the tail end]] (asia series 1)
 - [[through the looking glass]] (paris series 4)
 - [[bready set go]] (paris series 3)
 - [[the truthfulness in pretending]] (paris series 2)
