@@ -24,7 +24,7 @@ Theater aside, I find that people watching is a good way to self-critique, simpl
 
 _"What's the relationship between these two, and also the group sitting behind them?" (catch the in-betweens of human interaction?)_
 
-_"I love this man’s penny loafers, scarf, and maroon tweed suit - so put together." (maybe a style I'm interested in?)_
+_"I love this man's penny loafers, scarf, and maroon tweed suit - so put together." (maybe a style I'm interested in?)_
 
 _"Ugh, why is this guy SO LOUD and trying SO HARD to make others laugh?" (maybe some latent shadow-self coming up?)_
 
@@ -34,7 +34,7 @@ Play with people watching and see what you find. Be a part of the world. Feel go
 
 ![](paris-peoplewatch.jpg)
 
-For those who are envious of folks who are constantly traveling, I encourage you to master the art of people watching. It's leisure, it's imaginative, it's curiosity - it’s the ultimate form of travel. You won't even need to travel anymore if you learn how to people watch (maybe only half true 🧐). You can easily observe 100, maybe even 200 people in the course of several hours. It's not just looking at their physical being, it's their mannerisms, what they're talking about, how they act around others, and how they click into society at the current moment. Marinated with your own thoughts and judgments, it becomes a powerful catalyst for self discovery and presence in the moment.
+For those who are envious of folks who are constantly traveling, I encourage you to master the art of people watching. It's leisure, it's imaginative, it's curiosity - it's the ultimate form of travel. You won't even need to travel anymore if you learn how to people watch (maybe only half true 🧐). You can easily observe 100, maybe even 200 people in the course of several hours. It's not just looking at their physical being, it's their mannerisms, what they're talking about, how they act around others, and how they click into society at the current moment. Marinated with your own thoughts and judgments, it becomes a powerful catalyst for self discovery and presence in the moment.
 
 Here's a people watching kit:
 
