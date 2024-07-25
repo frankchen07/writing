@@ -1,7 +1,8 @@
 ### email newsletter archive
 
-- [[paris series 6]] (paris series 6)
-- [[paris series 5]] (paris series 5)
+- [[paris series xxx]] (paris series ideas)
+- [[beauty is a muscle]] (paris series 6)
+- [[when its you and not the world]] (paris series 5)
 - [[fattening the tail end]] (asia series 1)
 - [[through the looking glass]] (paris series 4)
 - [[bready set go]] (paris series 3)
