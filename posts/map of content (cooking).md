@@ -16,7 +16,7 @@ I've transitioned through some careers multiple times, but this particular exper
 
 I've been sharing my stories on Twitter. You can find renditions of the threads below.
 
-1. [[soaking duck legs]] / [original tweet thread](https://twitter.com/frankchen07/status/1551613360231174145)
+1. [[dont fuck with the duck]] / [original tweet thread](https://twitter.com/frankchen07/status/1551613360231174145)
 2. [[the first service]] / [original tweet thread](https://twitter.com/frankchen07/status/1553415561777795072)
 3. [[people come first]] / [original tweet thread](https://twitter.com/frankchen07/status/1555236984875929600)
 4. [[physical capabilities]] / [original tweet thread](https://twitter.com/frankchen07/status/1556715866430967808)

@@ -1,4 +1,4 @@
-### the truthfulness in pretending (paris series 2)
+### the truthfulness in pretending (paris series 2,  digital detoxes, pretending to be a local)
 
 My approach to Paris was pretty scattershot. Because I was going to be there for longer than two weeks, I tried planning less. Now that I've had some time to reflect, there's two things I would've liked to have done better: 
 

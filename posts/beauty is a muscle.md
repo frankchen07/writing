@@ -1,4 +1,4 @@
-### paris series 6
+### beauty is a muscle (paris series 6, extrinsic beauty, intrinsic beauty, practicing)
 
 Several posts back, I made this observation about how Paris is an ideal training ground for recognizing beauty, both extrinsic and intrinsic.
 
