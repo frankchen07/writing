@@ -1,6 +1,6 @@
 ### don't fuck with the duck (michelin part 1, hanging duck legs, beauty as a requirement for longevity)
 
-This is a re-sharing of a culinary experience that I had back in 2022, working at the 2* Michelin restaurant, Birdsong SF. I posted an eight-part series on Twitter at the time, but it was never formalized in a longer format. I’m doing this to sort of immortalize the experience here since it was some of my earliest beginnings of living according to my values, doing what I found interesting, and finding beauty.
+This is a re-sharing of a culinary experience that I had back in 2022, working at a 2* Michelin restaurant, Birdsong SF. I posted an eight-part series on Twitter at the time, but it was never formalized in a longer format. I’m doing this to sort of immortalize the experience here since it was some of my earliest beginnings of living according to my values, doing what I found interesting, and finding beauty.
 
 It’s an experience that helped shape my first sabbatical and I’m revisiting some of these learnings as they mix with conversations and readings in my current sabbatical.
 
