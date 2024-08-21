@@ -12,7 +12,7 @@ This observation was (and still is) pivotal in my process of becoming less of a 
 > 
 > _~ Fred Rogers_
 
-Extrinsic beauty is the easier one to identify. It’s “some combination of qualities, such as shape, color, or form, that pleases the aesthetic senses.” Paris was no doubt a beautiful city, so there were examples everywhere:
+Extrinsic beauty is the easier one to identify. It's "some combination of qualities, such as shape, color, or form, that pleases the aesthetic senses." Paris was no doubt a beautiful city, so there were examples everywhere:
 
 1. Paris went through a massive renovation in the 19th century to "unify" and "beautify" the city. The most common building erected during this time was the classic Haussmann, easily identifiable with its cream exterior, slanted roofs, and small outdoor balconies. The architecture was designed to let more light onto the streets at all times of the day. It seems to have worked, since the original description of Paris - "dark", "medieval", and "narrow", is certainly not how I would describe the modern city of lights.
 
@@ -34,11 +34,11 @@ You'll find interesting accoutrements to these types of buildings, such as oddly
 
 ![](christian-dior.png)
 
-5. We saw the same Belgian malinois at the Raspail famer's market every Thursday and Saturday, trapped in an infinite circle of hedge grass, it's owner somewhere off selling cheese and charcuterie, earning the euros to keep him lookin' adorable. Leash-free but restricted to a donut 🍩. A permanent fixture, and super adorable. I didn’t use to be a dog person, but now that I am a proud owner of one, I’ve got the eyes 🤩 for other handsome pups.
+5. We saw the same Belgian malinois at the Raspail famer's market every Thursday and Saturday, trapped in an infinite circle of hedge grass, it's owner somewhere off selling cheese and charcuterie, earning the euros to keep him lookin' adorable. Leash-free but restricted to a donut 🍩. A permanent fixture, and super adorable. I didn't use to be a dog person, but now that I am a proud owner of one, I've got the eyes 🤩 for other handsome pups.
 
 <iframe width="674" height="1198" src="https://www.youtube.com/embed/3zlvobb3TRI" title="circular belgian malinois" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-I could go on. This is the obvious type of beauty that one can capture in pictures, design, architecture, or people. And because it's so common, you can practice noticing it frequently to figure out what you like and don't like. In doing so, you'll strengthen your ability to observe and appreciate, which are the primary skills for intrinsic beauty. It’s more or less an active practice in understanding yourself.
+I could go on. This is the obvious type of beauty that one can capture in pictures, design, architecture, or people. And because it's so common, you can practice noticing it frequently to figure out what you like and don't like. In doing so, you'll strengthen your ability to observe and appreciate, which are the primary skills for intrinsic beauty. It's more or less an active practice in understanding yourself.
 
 ### intrinsic beauty
 
@@ -72,17 +72,17 @@ Examples might help:
 
 6. Everyday on our street, we'd notice shops that seemingly popped up out of nowhere - was this shop here before? The ones with the handwritten price tags and silky dresses? Also, who handwrites price tags? (either it was efficient to do so - practical view 🤖, or it was just part of handcrafted wares - beauty 😌). This example is all about improving the art of noticing. Revisiting streets on different days, at different times of the day, and with different internal states caused this kind of odd phenomenon where our street felt alive and in-flux because we were zooming in and out on the details.
 
-7. We spent a fair amount of time trolloping up and down Rue du Dragon, mainly to bathroom our dog. We learned that without grass, he urinates on walls and _specifically_ defecates on ledges. 😂 Every hot one he dropped was an opportunity to play bagged poo basketball with the trash bins on our street. I definitely made a couple of three pointers and managed to get some French people to smile. 🤌 Aside from setting one of the stupidest goals in the morning, it felt good to make someone else laugh. That’s perhaps the best way to pass beauty on.
+7. We spent a fair amount of time trolloping up and down Rue du Dragon, mainly to bathroom our dog. We learned that without grass, he urinates on walls and _specifically_ defecates on ledges. 😂 Every hot one he dropped was an opportunity to play bagged poo basketball with the trash bins on our street. I definitely made a couple of three pointers and managed to get some French people to smile. 🤌 Aside from setting one of the stupidest goals in the morning, it felt good to make someone else laugh. That's perhaps the best way to pass beauty on.
 
-8. Beauty was in the red and white awnings of farmer's market stalls, a metaphorical flag to France’s deference to fresh culinary fare. Even when the market had closed down, the awnings permanently stayed up like a reminder to come back when you inevitably run out of food.
+8. Beauty was in the red and white awnings of farmer's market stalls, a metaphorical flag to France's deference to fresh culinary fare. Even when the market had closed down, the awnings permanently stayed up like a reminder to come back when you inevitably run out of food.
 
 ![](farmers-market.jpg)
 
-9. I found a clarinet shop around the way, which reminded me of my musical past, a decades long relationship with the instrument. I can still hear the tuning tones of our big band symphony, and the feeling of getting dressed up like penguins, performing something special, and just sounding fucking awesome. I was proud of what we built at that age. I’d like to think that for my high school, those four years were the golden years for music. There was so much talent.
+9. I found a clarinet shop around the way, which reminded me of my musical past, a decades long relationship with the instrument. I can still hear the tuning tones of our big band symphony, and the feeling of getting dressed up like penguins, performing something special, and just sounding fucking awesome. I was proud of what we built at that age. I'd like to think that for my high school, those four years were the golden years for music. There was so much talent.
 
 ![](clarinet.jpg)
 
-10. Before my sabbatical, I worked in blockchain. It was haunting to see the remnants of an NFT factory that was built in a weekend (presumably for the EthCC conference). We have this weird ability to create infrastructure and community _anywhere_ at the snap of our fingers, and at the same time, take it away like gods (crypto-craaash anyone? 📉). Outwardly, it’s a mix of abandoned modern and residential classy, but I found this particularly beautiful because it felt like it represented all the figurative interpretations of good and bad found in our industry.
+10. Before my sabbatical, I worked in blockchain. It was haunting to see the remnants of an NFT factory that was built in a weekend (presumably for the EthCC conference). We have this weird ability to create infrastructure and community _anywhere_ at the snap of our fingers, and at the same time, take it away like gods (crypto-craaash anyone? 📉). Outwardly, it's a mix of abandoned modern and residential classy, but I found this particularly beautiful because it felt like it represented all the figurative interpretations of good and bad found in our industry.
 
 ![](nft-factory.jpg)
 

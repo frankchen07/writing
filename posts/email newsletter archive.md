@@ -2,7 +2,7 @@
 
 - [[paris series xxx]] (paris series ideas)
 - [[working asia title 2]] (asia series 2)
-- [[dont fuck with the duck]] (michelin part 1)
+- [[don't fuck with the duck]] (michelin part 1)
 - [[beauty is a muscle]] (paris series 6)
 - [[when its you and not the world]] (paris series 5)
 - [[fattening the tail end]] (asia series 1)
