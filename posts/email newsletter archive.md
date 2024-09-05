@@ -2,8 +2,8 @@
 
 
 - [[paris series xxx]] (paris series ideas)
-- [[michelin working title 2]] (michelin part 2)
 - [[working asia title 2]] (asia series 2)
+- [[your job is customer service and perfection]] (michelin part 2)
 - [[don't fuck with the duck]] (michelin part 1)
 - [[beauty is a muscle]] (paris series 6)
 - [[when its you and not the world]] (paris series 5)
