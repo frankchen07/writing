@@ -1,6 +1,8 @@
 ### email newsletter archive
 
+
 - [[paris series xxx]] (paris series ideas)
+- [[michelin working title 2]] (michelin part 2)
 - [[working asia title 2]] (asia series 2)
 - [[don't fuck with the duck]] (michelin part 1)
 - [[beauty is a muscle]] (paris series 6)

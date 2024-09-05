@@ -1,8 +1,8 @@
 ### don't fuck with the duck (michelin part 1, hanging duck legs, beauty as a requirement for longevity)
 
-This is a re-sharing of a culinary experience that I had back in 2022, working at a 2* Michelin restaurant, Birdsong SF. I posted an eight-part series on Twitter at the time, but it was never formalized in a longer format. I’m doing this to sort of immortalize the experience here since it was some of my earliest beginnings of living according to my values, doing what I found interesting, and finding beauty.
+This is a re-sharing of a culinary experience that I had back in 2022, working at a 2* Michelin restaurant, Birdsong SF. I posted an eight-part series on Twitter at the time, but it was never formalized in a longer format. I'm doing this to sort of immortalize the experience here since it was some of my earliest beginnings of living according to my values, doing what I found interesting, and finding beauty.
 
-It’s an experience that helped shape my first sabbatical and I’m revisiting some of these learnings as they mix with conversations and readings in my current sabbatical.
+It's an experience that helped shape my first sabbatical and I'm revisiting some of these learnings as they mix with conversations and readings in my current sabbatical.
 
 Each part will be about the same with some grammatical and intonation fixes, plus an updated reflection about beauty and work longevity at the end. Enjoy 😌.
 
@@ -16,9 +16,9 @@ One of the first tasks I almost botched was washing off cure on duck legs. Befor
 
 It was actually quite annoying, because I had to wash off these little bits of juniper, peppercorns, and pine needles embedded in the hard to reach places. My sous chef came by twice to nudge me to move faster. "Let's pick it up Frank. You gotta move faster, Frank." I was already in the weeds.
 
-I did a sheet tray’s worth and still had a sinkful of duck to go. I don’t think I quite understood the speed at which I had to move at. They say you could always go faster (and they’re right). There's a lot of prep work that goes into a 12-course tasting menu, 40 covers a night. Even if you're confident you're fast, you're too slow.
+I did a sheet tray's worth and still had a sinkful of duck to go. I don't think I quite understood the speed at which I had to move at. They say you could always go faster (and they're right). There's a lot of prep work that goes into a 12-course tasting menu, 40 covers a night. Even if you're confident you're fast, you're too slow.
 
-In my haste to finish, thinking that a stronger stream of water from the faucet would somehow blow the cure off faster, I hadn’t noticed the sink filling up with water.
+In my haste to finish, thinking that a stronger stream of water from the faucet would somehow blow the cure off faster, I hadn't noticed the sink filling up with water.
 
 "Whoa, whoa whoa, Frank, you can't let these legs sit in this water. You're undoing the cure."
 
@@ -46,8 +46,8 @@ My learning was their cost, but without the patience of experience, future gener
 
 ### beauty as a requirement for longevity
 
-Looking back on this experience, it was easy to overlook the beauty and presence involved in the culinary world. I think that’s why so many people stay in the craft for so long, despite the shitty hours and low pay. There’s something special about bringing all of your physical and mental self to the task at hand everyday, and constantly finding ways to get better, despite the difficulty of the kitchen.
+Looking back on this experience, it was easy to overlook the beauty and presence involved in the culinary world. I think that's why so many people stay in the craft for so long, despite the shitty hours and low pay. There's something special about bringing all of your physical and mental self to the task at hand everyday, and constantly finding ways to get better, despite the difficulty of the kitchen.
 
-Being who I am now, I think I would’ve enjoyed the last three months at Birdsong much more than before. During my time there, I let pressure and monotonous process take me over. When you work at a place where the menu has been refined by years of expertise, it’s only natural that the less experienced would be doing many of the same things to build their skills. If you stay present with your senses and really dive into what you’re doing, it is indeed a beautiful thing. You won’t last in this world if you can’t appreciate the [intrinsic beauty](https://www.frank-chen.com/posts/beauty-is-a-muscle) in whatever work you’re doing.
+Being who I am now, I think I would've enjoyed the last three months at Birdsong much more than before. During my time there, I let pressure and monotonous process take me over. When you work at a place where the menu has been refined by years of expertise, it's only natural that the less experienced would be doing many of the same things to build their skills. If you stay present with your senses and really dive into what you're doing, it is indeed a beautiful thing. You won't last in this world if you can't appreciate the [intrinsic beauty](https://www.frank-chen.com/posts/beauty-is-a-muscle) in whatever work you're doing.
 
-In the moment, I think the majority of folks would hate to break their back hanging up duck legs but if they _see_ and _feel_ the details, there’s a completely different story. It’s this mastery of rinsing that leg until it’s clean and dry, hanging them exactly three inches apart with seven inches of twine, and twirling a perfect noose knot with frostbitten fingers that just presents itself as this beautiful, hard-fought artistic process. Even thinking about it now, it gives me this sense of pride, and _that_ is what is important for longevity.
+In the moment, I think the majority of folks would hate to break their back hanging up duck legs but if they _see_ and _feel_ the details, there's a completely different story. It's this mastery of rinsing that leg until it's clean and dry, hanging them exactly three inches apart with seven inches of twine, and twirling a perfect noose knot with frostbitten fingers that just presents itself as this beautiful, hard-fought artistic process. Even thinking about it now, it gives me this sense of pride, and _that_ is what is important for longevity.
