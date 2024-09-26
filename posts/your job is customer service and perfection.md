@@ -1,4 +1,3 @@
-
 ### your job is customer service and perfection (michelin part 2, the first service, it's not about you)
 
 _This is a re-sharing of a culinary experience that I had back in 2022, working at a 2* Michelin restaurant, Birdsong SF. I posted an eight-part series on Twitter at the time, but it was never formalized in a longer format. I'm doing this to sort of immortalize the experience here since it was some of my earliest beginnings of living according to my values, doing what I found interesting, and finding beauty._
