@@ -42,4 +42,6 @@ Sure, there's food, there's wine, and cooking, but ultimately, it's about people
 
 Remembering guest preferences and characteristics can make or break a restaurant. We all have that one favorite sandwich/coffee spot we constantly hit up - the owner has taken a liking to you, knows your common orders, and gives you something extra in every order. Excellent customer service gives you that warm fuzzy feeling inside and a strong reason to show up again. Honestly, if anyone even remembers the smallest thing, I'm impressed.
 
-The work is always done beforehand. None of this "magical experience" that the customer feels is actually magic. It's pre-work, a bunch of hours putting ourselves in the customer's shoes and figuring shit out. It's probably one of the hardest things to get right - being a balanced mix of prescient, spontaneous, and adaptive - all at the same time.
+The work is always done beforehand. None of this "magical experience" that the customer feels is actually magic. It's pre-work, a bunch of hours putting ourselves in the customer's shoes and figuring shit out. It's probably one of the hardest things to get right - being a balanced mix of prescient, spontaneous, and adaptive all at the same time.
+
+<- [part 2](https://www.frank-chen.com/posts/your-job-is-customer-service-and-perfection) | [part 4]() ->

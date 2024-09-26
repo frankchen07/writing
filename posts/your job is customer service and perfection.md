@@ -66,4 +66,4 @@ My reflection is simple. It's easy to glorify service and view chefs as demi-god
 
 The reality is that service is about hitting a standard over and over, and never forgetting the fact that it's not your ego you're serving, it's a real person. It's not about you and how well you can keep up. It's focused customer service, an enduring state of mind that will serve you in any endeavor going forward.
 
-<- [part 1](https://www.frank-chen.com/posts/don't-fuck-with-the-duck) | part 3 ->
+<- [part 1](https://www.frank-chen.com/posts/don't-fuck-with-the-duck) | [part 3](https://www.frank-chen.com/posts/do-it-for-the-people) ->
