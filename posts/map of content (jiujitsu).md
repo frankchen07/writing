@@ -104,7 +104,7 @@ I attended the 2022 ADCC World Championships in Las Vegas. I wrote up some obser
 
 - [[jiujitsu mental training]]
 - [[jiujitsu training observations]]
-- [[jiujitsu ecological training]]
+- [[jiujitsu ecological distillations]]
 - [[stretching & strength]]
 - [[jiujitsu accomplishments]]
 

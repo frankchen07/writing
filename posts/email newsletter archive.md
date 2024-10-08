@@ -1,9 +1,11 @@
 ### email newsletter archive
 
-
 - [[paris series xxx]] (paris series ideas)
-- [[do it for the people]] (michelin part 3)
+- [[working title michelin part 4]] (michelin part 4)
 - [[working title selves n shit]] (not sure which series yet)
+---
+- [[old school taiwanese chive box]] (asia series 3)
+- [[do it for the people]] (michelin part 3)
 - [[the courage to be yourself]] (asia series 2)
 - [[your job is customer service and perfection]] (michelin part 2)
 - [[don't fuck with the duck]] (michelin part 1)
