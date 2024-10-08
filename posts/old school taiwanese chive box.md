@@ -1,4 +1,6 @@
-### old school taiwanese chive box (asia series 3, recording, chive boxes)
+### old school taiwanese chive box (asia series 3, etchings, chive boxes)
+
+### etchings
 
 Prior to 2024, I had made a self note to make my way back to Taiwan in order to start capturing old childhood recipes that I really enjoyed from my mother and grandmother.
 
