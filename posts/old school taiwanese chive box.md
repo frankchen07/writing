@@ -8,7 +8,7 @@ I finally started doing this after having realized that I was trying to plan too
 
 When I heard from my dad that my mom and her sister were going to China to find their lost aunts and uncles, I was like "ok, this is a trip not to be missed - when else am I going to get this opportunity to see some _great-aunts and uncles_?"
 
-For all those who still don't know how to capture your family history or to generate moments, it's easy - **pull out your phone and just start making videos and taking pictures**. If you want better perspectives, buy a cheap ass tripod that you can easily stick anywhere. I have some random $20 one that my friend gave me because he wasn't using it. Set it up in the corner and go about an evening - worst case you capture some bullshit and laughs, best case it's something you'll have forever just in case something cool happens. I filmed expressions when my mom met her great-aunt, when we conjured up half of a completely wrong neighborhood looking for folks 😂, and of course, making chive boxes with my mother.
+For all those who still don't know how to capture your family history or to generate moments, it's easy - **pull out your phone and just start making videos and taking pictures**. If you want better perspectives, buy a cheap ass tripod that you can easily stick anywhere. I have some random $20 one that my friend gave me because he wasn't using it. Set it up in the corner and go about an evening - worst case you capture some bullshit and laughs, best case it's something you'll have forever just in case something cool happens. I filmed expressions when my mom met her great-aunt, when we conjured up half of a completely wrong neighborhood looking for folks 😂, and of course, made chive boxes with my mother.
 
 I think I'm going to do this every time I return to Taiwan, even for the mundane stuff. Digital storage is cheap. I can always do pruning and editing later.
 
@@ -21,7 +21,7 @@ This time, I recorded it so I'll always have the recipe (more or less) when I ne
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2ijZvw_0KzI?si=-075gVeBezMjOsqE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ![](chive-box-develop.jpg)
-i'll give you one guess which ones i made and which ones my mom made
+those fat ugly ones are mine 😂
 
 ![](chive-box-finished.jpg)
 what could be better, honestly?
