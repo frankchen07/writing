@@ -1,9 +1,9 @@
 ### email newsletter archive
 
 - [[paris series xxx]] (paris series ideas)
-- [[working title michelin part 4]] (michelin part 4)
 - [[working title selves n shit]] (not sure which series yet)
 ---
+- [[the body keeps score]] (michelin part 4)
 - [[old school taiwanese chive box]] (asia series 3)
 - [[do it for the people]] (michelin part 3)
 - [[the courage to be yourself]] (asia series 2)
