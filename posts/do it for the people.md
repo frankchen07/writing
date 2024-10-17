@@ -44,4 +44,4 @@ Remembering guest preferences and characteristics can make or break a restaurant
 
 The work is always done beforehand. None of this "magical experience" that the customer feels is actually magic. It's pre-work, a bunch of hours putting ourselves in the customer's shoes and figuring shit out. It's probably one of the hardest things to get right - being a balanced mix of prescient, spontaneous, and adaptive all at the same time.
 
-<- [part 2](https://www.frank-chen.com/posts/your-job-is-customer-service-and-perfection) | [part 4]() ->
+<- [part 2](https://www.frank-chen.com/posts/your-job-is-customer-service-and-perfection) | [part 4](https://www.frank-chen.com/posts/the-body-keeps-score) ->
