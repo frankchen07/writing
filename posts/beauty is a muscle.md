@@ -53,6 +53,7 @@ Examples might help:
 3. There are also literary concepts like irony, awe, and comedy that present itself as interpretations of intrinsic beauty. Here in the States, dogs are allowed in parks but not restaurants. In Paris, it's the opposite. Dogs are not allowed in parks, but restaurants are ok. There's some kind of comical irony in that, like one of those weird multi-verse experiences.
 
 ![](interdit.jpg)
+*look how happily prohibited they are*
 
 4. Our neighborhood was a series of residential homes built in the early 1700s, which housed the working class (craftsman and artists) and some French authors. This makes sense, since the famous café Les Deux Magots was just across the street, where past literary greats (like Ernest Hemingway) would gather and where some of the most well-known books were scripted out.
 

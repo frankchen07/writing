@@ -21,7 +21,7 @@ This time, I recorded it so I'll always have the recipe (more or less) when I ne
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2ijZvw_0KzI?si=-075gVeBezMjOsqE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ![](chive-box-develop.jpg)
-those fat ugly ones are mine 😂
+*those fat ugly ones are mine* 😂
 
 ![](chive-box-finished.jpg)
-what could be better, honestly?
+*what could be better, honestly?*
