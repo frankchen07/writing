@@ -6,7 +6,7 @@ Interning at a 2 Michelin star kitchen - 🧵 for story number five:
 
 My sous was picking bitter melon slices out and inspecting them one by one. He sighed impatiently, discarding one out of every three he was looking at.
 
-I stood there, looking an idiot. I didn't have a good explanation. I stammered in apology, and said I was cutting them rind side down.
+I stood there, looking like an idiot. I didn't have a good explanation. I stammered in apology, and said I was cutting them rind side down.
 
 "Yeah, but why did you put them in if you knew they weren't good? Also, that's not the way I showed you right?"
 

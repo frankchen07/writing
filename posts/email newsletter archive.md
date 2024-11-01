@@ -3,6 +3,7 @@
 - [[paris series xxx]] (paris series ideas)
 - [[working title selves n shit]] (not sure which series yet)
 ---
+- [[lessons under the knife]] (michelin part 5)
 - [[the body keeps score]] (michelin part 4)
 - [[old school taiwanese chive box]] (asia series 3)
 - [[do it for the people]] (michelin part 3)
