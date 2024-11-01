@@ -69,4 +69,4 @@ I've talked to my friends and family and have openly said that this experience a
 
 I think if I had found cooking in my younger-younger years, things might've turned out differently, but "shoulda woulda coulda". For now, I wouldn't dare call myself a chef, even an ex-chef. Just someone who was a visitor, saw some shit, learned some stuff, got inspired about hospitality, and has a high likelihood of coming back to revisit some of that beauty. 😌
 
-<- [part 3](https://www.frank-chen.com/posts/do-it-for-the-people) | part 5 ->
+<- [part 3](https://www.frank-chen.com/posts/do-it-for-the-people) | [part 5](https://www.frank-chen.com/posts/lessons-under-the-knife) ->

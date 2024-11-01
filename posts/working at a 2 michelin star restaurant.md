@@ -10,11 +10,11 @@ I've transitioned through some careers multiple times, but this particular exper
 
 I've been sharing my stories on Twitter. You can find renditions of the threads below.
 
-1. [[don't fuck with the duck]] / [original tweet thread](https://twitter.com/frankchen07/status/1551613360231174145)
+1. [[don't fuck with the duck]] / [original tweet thread](https://twitter.com/frankchen07/status/1551613360231174145) / 
 2. [[your job is customer service and perfection]] / [original tweet thread](https://twitter.com/frankchen07/status/1553415561777795072)
-3. [[people come first]] / [original tweet thread](https://twitter.com/frankchen07/status/1555236984875929600)
-4. [[physical capabilities]] / [original tweet thread](https://twitter.com/frankchen07/status/1556715866430967808)
-5. [[quality above speed]] / [original tweet thread](https://twitter.com/frankchen07/status/1558694736772313088)
+3. [[do it for the people]] / [original tweet thread](https://twitter.com/frankchen07/status/1555236984875929600)
+4. [[the body keeps score]] / [original tweet thread](https://twitter.com/frankchen07/status/1556715866430967808)
+5. [[lessons under the knife]] / [original tweet thread](https://twitter.com/frankchen07/status/1558694736772313088)
 6. [[standards]] / [original tweet thread](https://twitter.com/frankchen07/status/1563809158343770112)
 7. [[the magic of the experience]] / [original tweet thread](https://twitter.com/frankchen07/status/1566487628848828416)
 8. [[continuing the work and professionalization]] / [original tweet thread](https://twitter.com/frankchen07/status/1577104580059357186)
