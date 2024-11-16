@@ -4,8 +4,8 @@
 - [[working title selves n shit]] (not sure which series yet)
 - [[michelin part 8]] (michelin part 8)
 - [[michelin part 7]] (michelin part 7)
-- [[michelin part 6]] (michelin part 6)
 ---
+- [[the shape of excellence]] (michelin part 6)
 - [[finding lost relatives]] (asia series 4)
 - [[lessons under the knife]] (michelin part 5)
 - [[the body keeps score]] (michelin part 4)
