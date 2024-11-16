@@ -67,4 +67,4 @@ While this was an acutely painful experience that I recapped, I really liked the
 
 As I sit here, I still see Instagram posts of excited diners at Birdsong SF. The dishes, as usual, look perfect. For me, I no longer just see the food. There's this feeling of quality, that a chef in the back learned the same things I did, and is holding the standard at a certain level. Identifying and chasing this philosophy of quality is perhaps one of the best things I've learned in the past few years. If you let it permeate everything that you do, and practice it alongside the muscle of [beauty and wonder](https://www.frank-chen.com/posts/beauty-is-a-muscle), you'll discover new levels to anything you do.
 
-← [part 4](https://www.frank-chen.com/posts/the-body-keeps-score) | part 6 →
+← [part 4](https://www.frank-chen.com/posts/the-body-keeps-score) | [part 6](https://www.frank-chen.com/posts/the-shape-of-excellence) →
