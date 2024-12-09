@@ -1,38 +1,39 @@
-### the magic of the experience
+### the magic of the experience (michelin part 7)
 
-Interning at a 2 Michelin star kitchen - 🧵 for story number seven:
+_This is a re-sharing of a culinary experience that I had back in 2022, working at a 2* Michelin restaurant, Birdsong SF. I posted an eight-part series on Twitter at the time, but it was never formalized in a longer format. I'm doing this to sort of immortalize the experience here since it was some of my earliest beginnings of living according to my values, doing what I found interesting, and finding beauty._
+
+_It's an experience that helped shape my first sabbatical and I'm revisiting some of these learnings as they mix with conversations and readings in my current sabbatical._
+
+_Each part will be about the same with some grammatical and intonation fixes, plus an updated reflection at the end._
+
+_This is part seven. Enjoy_ 😌.
+
+---
 
 Some of my friends have asked "has working at the 2-star restaurant ruined the magic of dining there? Would you go back to eat there?"
 
-I chuckled at the question - it's a nuanced answer, not a simple yes or no.
+It's a nuanced answer, not a simple yes or no. I'd say that the magic was replaced by narratives. And like learning a language, it's a one way street. Once you learn it, you can no longer hear gibberish.
 
-From a literal perspective, working at the restaurant has not detracted from any of my prior experiences as a guest. How could it? It's already happened.
-
-Ok, ok, I'm being cheeky. I'll stop sidestepping the question. 
-
-My answer is that the magic was replaced by narratives. And like learning a language, it's a one way street - once you learn it, you can no longer hear gibberish.
-
-Part of this rationalization is that inherent in the word "magic" is the fact that you don't have a working explanation for why something occurs. 
-
-Once I had more context, whether by understanding the process or by being in the trenches with the people who work with the food day-in and day-out, I was able to build narratives around the unknowns.
+Inherent in the word "magic" is the fact that you don't have a working explanation for why something occurs. Once I gathered more context by being in the trenches with the people who work with the food day in and day out, I was able to build narratives around the unknowns.
 
 This lessens the magic in a way where the unknowns become more known. When you're operating more in the realm of knowns rather than unknowns, you have more explanations, and therefore less magic.
 
-When I return to eat, I'll have a hard bias to shake. I won't be able to separate the narratives of the chefs and the food. They would be one and the same. I won't be able to view the dishes in isolation anymore.
+When I return to eat, I'll have a hard bias to shake. I won't be able to separate the narratives of the kitchen and the artistry of the food. They would be one and the same. I won't be able to view the dishes in isolation anymore.
 
 Instead, I would see stories.
 
-Stories of the time we almost ran out of peas and the executive sous was downstairs prepping them as fast as we were serving them (clutch 💪).
+Stories of the time we almost ran out of peas and the executive sous was downstairs prepping them as fast as we were serving them (clutch 💪🫛).
 
-Stories of the CDC staying up until 3am, experimenting and perfecting that super-duper-special-occasion hazelnut soufflé. 😋
+Stories of the CDC staying up until 3 am, experimenting and perfecting that super-duper-special-occasion hazelnut soufflé. 😋
 
 Stories of the heroic dishwashers that somehow keep the entire night going, dishing out (pun intended) clean plates for the guests. 🐙
 
-Stories of the unseen commis downstairs ravaging through hundreds of pounds of produce, washing, cleaning, picking, prepping, working faster than I could ever imagine (or keep up). 🌿🌱🍄🐟
+Stories of the unseen commis downstairs ravaging through hundreds of pounds of produce, washing, cleaning, picking, prepping, and working faster than I could ever imagine (or keep up). 🔨🌿🌱🍄🐟
 
-And of course, seeing a glimpse of the layers upon layers of flavors that go into each dish, and experiencing the logistics of the whole entire operation that keep the restaurant going.  🔨
+And of course, the stories of each dish - layers upon layers of flavors that were carefully coaxed into perfect bites. 🥘
 
-So, in a way, the magic will be gone, but there'll be a different kind of magic that takes its place, which is an unbelievably cop-out answer to the original question. But it's the one you'll get. 😜
+For me, the magic has morphed into a vast well of awe and wonder. And because of my experience, it's always served with a side dish of humble appreciation.
 
+![](birdsong-friday-service.jpeg)
 
-
+← [part 6](https://www.frank-chen.com/posts/the-shape-of-excellence) | part 8 →

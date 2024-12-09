@@ -2,8 +2,8 @@
 
 - [[paris series xxx]] (paris series ideas)
 - [[working title selves n shit]] (not sure which series yet)
-- [[michelin part 8]] (michelin part 8)
-- [[michelin part 7]] (michelin part 7)
+- [[continuing the work and professionalization]] (michelin part 8)
+- [[the magic of the experience]] (michelin part 7)
 ---
 - [[the shape of excellence]] (michelin part 6)
 - [[finding lost relatives]] (asia series 4)
@@ -25,8 +25,8 @@
 - [[email newsletter 17]]
 - [[email newsletter 16]]
 - [[email newsletter 15]]
-- [[email newsletter 14]]
-- [[email newsletter 13]]
+- [[email newsletter 14]] - first issue with curly quotes / curly single, and on
+- [[email newsletter 13]] - last issue with straight quotes " / '
 - [[email newsletter 12]]
 - [[email newsletter 11]]
 - [[email newsletter 10]]
