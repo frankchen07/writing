@@ -88,7 +88,7 @@ This idea of constant improvement leading to anti-fragility makes or breaks the 
 
 It's important for anything that you do to feel out what the "shape of excellence" in that field really looks like. For cooking, it's doing it alongside professionals who operate at a two-star level. For something else, whether it be athletics, academics, or business, there are folks out there who are on some ungodly level of proficiency. They have the experience because they've been through the wringer and back. Find them, befriend them, and learn all that you can from them. Have their standard of excellence be guideposts to help you shape and define your own.
 
-← [part 5](https://www.frank-chen.com/posts/lessons-under-the-knife) | part 7 →
+← [part 5](https://www.frank-chen.com/posts/lessons-under-the-knife) | [part 7](https://www.frank-chen.com/posts/the-magic-of-the-experience) →
 
 ---
 
