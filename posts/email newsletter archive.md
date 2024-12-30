@@ -2,9 +2,9 @@
 
 - [[paris series xxx]] (paris series ideas)
 - [[working title selves n shit]] (not sure which series yet)
+---
 - [[continuing the work and professionalization]] (michelin part 8)
 - [[the magic of the experience]] (michelin part 7)
----
 - [[the shape of excellence]] (michelin part 6)
 - [[finding lost relatives]] (asia series 4)
 - [[lessons under the knife]] (michelin part 5)
