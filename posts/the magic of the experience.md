@@ -36,4 +36,4 @@ For me, the magic has morphed into a vast well of awe and wonder. And because of
 
 ![](birdsong-friday-service.jpeg)
 
-← [part 6](https://www.frank-chen.com/posts/the-shape-of-excellence) | part 8 →
+← [part 6](https://www.frank-chen.com/posts/the-shape-of-excellence) | [part 8](https://www.frank-chen.com/posts/continuing-the-work-and-professionalization) →

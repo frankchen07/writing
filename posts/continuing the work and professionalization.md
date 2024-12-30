@@ -50,4 +50,4 @@ Part of the “normal guy doing shit” attitude is purposefully remaining a whi
 
 This is just a long-winded way to share the direction my thinking is moving in. As I embark on new adventures, these will be the things I keep in mind.
 
-← [part 7]()
+← [part 7](https://www.frank-chen.com/posts/the-magic-of-the-experience)
