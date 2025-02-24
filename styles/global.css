@@ -1,16 +1,83 @@
+/* Import Canela Text and Inconsolata Extra Fine (200) */
+@import url('https://fonts.googleapis.com/css2?family=Canela+Text&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200;300;400;500&display=swap');
+
 html,
 body {
   padding: 0;
   margin: 0;
-  /* font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif; */
-  font-family: Lora, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  font-family: 'Canela Text', sans-serif !important;
+  font-weight: 400 !important;
+  /* font-family: Lora, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif; */
   line-height: 1.6;
   /* font-size: 18px; */
+  /* font-size: 1.2rem; */
+}
+
+* {
+  box-sizing: border-box;
+}
+
+a {
+  color: #0070f3;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+:root {
+  --font-canela: var(--font-canela);
+  --font-inconsolata: var(--font-inconsolata);
+}
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: var(--font-canela);
+  line-height: 1.6;
   font-size: 1.2rem;
 }
 
 * {
   box-sizing: border-box;
+}
+
+code,
+pre {
+  font-family: var(--font-inconsolata);
 }
 
 a {
