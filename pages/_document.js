@@ -7,7 +7,7 @@ class MyDocument extends Document {
         <Head>
           {/* Corrected link to include both Canela Text and Inconsolata */}
           <link 
-            href="https://fonts.googleapis.com/css2?family=PT+Serif&family=Inconsolata:wght@200;300;400;500&display=swap" 
+            href="https://fonts.googleapis.com/css2?family=Lora&family=Inconsolata:wght@200;300;400;500&display=swap" 
             rel="stylesheet" 
           />
         </Head>
