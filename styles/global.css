@@ -1,15 +1,15 @@
-/* Local url for font */
+/* Local URL for font */
 @font-face {
   font-family: 'Canela';
-  src: url('/fonts/Canela-Regular.ttf') format ('truetype');
+  src: url('/fonts/Canela-Regular.ttf') format('truetype');
 }
 
-/* All code */
+/* Global styling */
 html,
 body {
   padding: 0;
   margin: 0;
-  font-family: 'Canela', /*Lora,*/ -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue sans-serif !important;
+  font-family: 'Canela', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif !important;
   font-weight: 400 !important;
   line-height: 1.6;
 }
@@ -18,14 +18,14 @@ body {
 code,
 .cm-inline-code,
 .markdown-preview-view code {
-    font-family: 'Inconsolata', monospace !important;
-    font-weight: 300 !important;
+  font-family: 'Inconsolata', monospace !important;
+  font-weight: 300 !important;
 }
 
 /* Block code */
-code, pre, .cm-s-obsidian .HyperMD-codeblock, .markdown-preview-view code {
-    font-family: 'Inconsolata', monospace !important;
-    font-weight: 300 !important;
+pre, .cm-s-obsidian .HyperMD-codeblock, .markdown-preview-view code {
+  font-family: 'Inconsolata', monospace !important;
+  font-weight: 300 !important;
 }
 
 * {
