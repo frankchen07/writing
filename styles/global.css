@@ -1,4 +1,4 @@
-/* Import Canela Text and Inconsolata Fine (200) */
+/* Manual import Canela Text and Inconsolata Fine (200) */
 /* @import url('https://fonts.googleapis.com/css2?family=Canela+Text&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200;300;400;500&display=swap'); */
 
@@ -7,7 +7,6 @@
   font-family: 'Canela Text';
   src: url('/fonts/Lora-Regular.ttf') format ('truetype');
 }
-
 @font-face {
   font-family: 'Inconsolata';
   src: url('/fonts/Inconsolata-VariableFont_wdth,wght.ttf') format('truetype');
@@ -18,7 +17,7 @@ html,
 body {
   padding: 0;
   margin: 0;
-  font-family: Canela Text, Lora, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue sans-serif !important;
+  font-family: 'Canela Text', Lora, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue sans-serif !important;
   font-weight: 400 !important;
   line-height: 1.6;
 }
@@ -27,13 +26,13 @@ body {
 code,
 .cm-inline-code,
 .markdown-preview-view code {
-    font-family: Inconsolata, monospace !important;
+    font-family: 'Inconsolata', monospace !important;
     font-weight: 300 !important;
 }
 
 /* Block code */
 code, pre, .cm-s-obsidian .HyperMD-codeblock, .markdown-preview-view code {
-    font-family: Inconsolata, monospace !important;
+    font-family: 'Inconsolata', monospace !important;
     font-weight: 300 !important;
 }
 
