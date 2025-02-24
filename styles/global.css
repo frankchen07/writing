@@ -1,7 +1,7 @@
 /* Local URL for font */
 @font-face {
   font-family: 'Canela';
-  src: url('/fonts/Canela-Regular.ttf') format('truetype');
+  src: url('/fonts/CanelaText-Regular-Trial.otf') format('opentype');
 }
 
 /* Global styling */
@@ -9,7 +9,7 @@ html,
 body {
   padding: 0;
   margin: 0;
-  font-family: 'Canela', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif !important;
+  font-family: 'Canela', Lora, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif !important;
   font-weight: 400 !important;
   line-height: 1.6;
 }
