@@ -10,4 +10,4 @@ Be satisfied with successfully defending or escaping and restarting your own off
 
 ---
 
-Back to [[map of content (jiujitsu)]]
+back to [[map of content (jiujitsu)]]

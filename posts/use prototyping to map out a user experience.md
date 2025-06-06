@@ -7,3 +7,7 @@ You don't build unfinished items on the way when you're prototyping. You build c
 1. What is the concept?
 2. What is an assumption that is core to your product that you want to validate?
 3. What do you need to prototype in order to validate that assumption?
+
+---
+
+back to [[map of content (product)]]

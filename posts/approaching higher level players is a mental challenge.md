@@ -14,4 +14,4 @@ You can't give yourself excuses that someone has been training longer than you o
 
 ---
 
-Back to [[map of content (jiujitsu)]]
+back to [[map of content (jiujitsu)]]

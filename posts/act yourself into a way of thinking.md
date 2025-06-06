@@ -10,8 +10,8 @@ A - Accept your present state.
 C - Create your desired state. 
 T - Take action through goal setting.
 
+*Source: Mind Gym by Gary Mack*
+
 ---
 
-Source: Mind Gym by Gary Mack
-
-Back to [[map of content (mindset)]]
+back to [[map of content (mindset)]]

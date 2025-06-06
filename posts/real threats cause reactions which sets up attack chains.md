@@ -6,4 +6,4 @@ If you just reach down and hit the knee, that's not a takedown threat. If you co
 
 ---
 
-Back to [[map of content (jiujitsu)]]
+back to [[map of content (jiujitsu)]]

@@ -6,8 +6,8 @@ Instead, come back to yourself in the moment.
 
 Know that you're here now, preparing for the future. Know that you're here now, learning from the past. Know that you're here now, performing in the present.
 
+*Source: Mind Gym by Gary Mack*
+
 ---
 
-Source: Mind Gym by Gary Mack
-
-Back to [[map of content (mindset)]]
+back to [[map of content (mindset)]]

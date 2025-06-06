@@ -18,5 +18,5 @@ It's fine to get repetitions on that move, but you have to make sure you're cons
 
 ---
 
-Back to [[map of content (jiujitsu)]]
+back to [[map of content (jiujitsu)]]
 

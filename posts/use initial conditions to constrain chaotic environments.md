@@ -10,4 +10,4 @@ In the long term, this translates to gameness.
 
 ---
 
-Back to [[map of content (jiujitsu)]]
+back to [[map of content (jiujitsu)]]

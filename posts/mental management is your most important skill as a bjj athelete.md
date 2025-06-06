@@ -30,5 +30,9 @@ Replacement attitudes.
 * "I'm not going to accept you settling into this position."
 * "I'm going to get to my position and start working."
 
+---
+
+back to [[map of content (mindset)]]
+
 
 

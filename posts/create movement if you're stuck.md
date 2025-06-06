@@ -12,4 +12,4 @@ Create movement, and that will generate openings.
 
 ---
 
-Back to [[map of content (jiujitsu)]]
+back to [[map of content (jiujitsu)]]

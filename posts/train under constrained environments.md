@@ -23,4 +23,4 @@ Are there any reasonable shortcuts to cognitive scaffolding?
 
 ---
 
-Back to [[map of content (jiujitsu)]]
+back to [[map of content (jiujitsu)]]

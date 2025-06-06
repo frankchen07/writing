@@ -12,4 +12,4 @@ This is how we elevate the sport.
 
 ---
 
-Back to [[map of content (jiujitsu)]]
+back to [[map of content (jiujitsu)]]

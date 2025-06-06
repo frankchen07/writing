@@ -8,4 +8,4 @@ Play your own game because only you are the best at being you. This is just anot
 
 ---
 
-Back to [[map of content (jiujitsu)]]
+back to [[map of content (jiujitsu)]]

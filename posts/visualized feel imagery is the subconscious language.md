@@ -8,8 +8,8 @@ The native tongue of the subconscious is sensory imagery. We want to trust the c
 
 If we let ourselves rely too much on instruction and lose touch with our ability to feel our actions, we can seriously compromise our subconscious ability to naturally acquire competence. This is what it means to "learn from experience".
 
+*Source: The Inner Game of Tennis by Timothy Gallwey*
+
 ---
 
-Source: The Inner Game of Tennis by Timothy Gallwey
-
-Back to [[map of content (mindset)]]
+back to [[map of content (mindset)]]

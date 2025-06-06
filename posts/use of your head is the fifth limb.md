@@ -11,4 +11,4 @@ The head is strong and is a very controlling wedge.
 
 ---
 
-Back to [[map of content (jiujitsu)]]
+back to [[map of content (jiujitsu)]]

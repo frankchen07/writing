@@ -6,8 +6,8 @@
 4. Level 2 - negative functional emotions (+), attacking, intense, dissatisfied, angry, tense, nervous
 5. Level 3 - positive functional emotions (+), motivated, charged, energetic, confident, alert, willing
 
+*Source: Mindset Secrets for Winning by Mark Minervini*
+
 ---
 
-Source: Mindset Secrets for Winning by Mark Minervini
-
-Back to [[map of content (mindset)]]
+back to [[map of content (mindset)]]

@@ -8,6 +8,8 @@ When talking about keeping the tempo in a roll, his viewpoint was that "it's not
 
 Awareness is key, and perhaps the most important trait in all situations. "Usually when I see people getting submitted, it's not some really deep setup, it's just people not paying attention". With these "setups", "it's not about the technique, it's about how you think about them".
 
+*Source: Larry Hope, Workshop Honolulu*
+
 ---
 
-Source: Larry Hope, Workshop Honolulu
+back to [[map of content (jiujitsu)]]

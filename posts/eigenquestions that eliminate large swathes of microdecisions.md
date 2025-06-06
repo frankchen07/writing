@@ -54,8 +54,8 @@ You'd like to shift your company's communication patterns from being primarily "
 
 ![](eigenquestion-4.png)
 
+*Source: [Shishir Mehrota of Coda](https://coda.io/@shishir/eigenquestions-the-art-of-framing-problems)*
+
 ---
 
-Source: [Shishir Mehrota of Coda](https://coda.io/@shishir/eigenquestions-the-art-of-framing-problems)
-
-Back to [[map of content (product)]]
+back to [[map of content (product)]]

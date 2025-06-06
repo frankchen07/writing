@@ -12,4 +12,4 @@ If you don't have your grips, get a grip.
 
 ---
 
-Back to [[map of content (jiujitsu)]]
+back to [[map of content (jiujitsu)]]

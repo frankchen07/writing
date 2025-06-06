@@ -4,8 +4,8 @@
 
 This power of interpretation can work in our favor as well. Viewing events in the past as positive, empathetic, and good can heal wounds from the past that we have previously interpreted incorrectly or negatively.
 
+*Source: Mindset Secrets for Winning by Mark Minervini*
+
 ---
 
-Source: Mindset Secrets for Winning by Mark Minervini
-
-Back to [[map of content (mindset)]]
+back to [[map of content (mindset)]]

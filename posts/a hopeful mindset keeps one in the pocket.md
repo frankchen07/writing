@@ -12,4 +12,4 @@ For those starting out, you may choose to [[act yourself into a way of thinking]
 
 ---
 
-Back to [[map of content (jiujitsu)]]
+back to [[map of content (jiujitsu)]]

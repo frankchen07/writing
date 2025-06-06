@@ -10,8 +10,8 @@ What you're really doing is activating the reticular activating system (RAS). Th
 
 Affirmations that translate to images and feel-imagery are the conscious ways we can activate the RAS and permanently change our subconscious.
 
+*Source: Mindset Secrets for Winning by Mark Minervini*
+
 ---
 
-Source: Mindset Secrets for Winning by Mark Minervini
-
-Back to [[map of content (mindset)]]
+back to [[map of content (mindset)]]

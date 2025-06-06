@@ -20,8 +20,8 @@ Sports is filled with ups and downs. Remember the first rule of holes is to stop
 
 6. While you must be present to win, you also have to be absent to win. Athletes who experience those "white moments" lose their conscious mind. They are wrapped in a cocoon. They are living in the moment.
 
+*Source: Mind Gym by Gary Mack*
+
 ---
 
-Source: Mind Gym by Gary Mack
-
-Back to [[map of content (mindset)]]
+back to [[map of content (mindset)]]

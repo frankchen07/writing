@@ -35,4 +35,4 @@ You could change your body or mind:
 
 ---
 
-Back to [[map of content (jiujitsu)]]
+back to [[map of content (jiujitsu)]]

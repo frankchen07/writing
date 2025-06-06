@@ -8,5 +8,5 @@ Be wary of what you intake from others. Always assess if certain moves fit your 
 
 ---
 
-Back to [[map of content (jiujitsu)]]
+back to [[map of content (jiujitsu)]]
 

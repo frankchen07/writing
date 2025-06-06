@@ -14,8 +14,8 @@ In working with athletes, and all performers, I remind them that we don't know w
 
 Throughout this book we have talked about some of the world's best-known athletes. Most champions, however, aren't famous. They aren't written about in _Sports Illustrated_ or interviewed on ESPN; instead, they are all around us. They are everywhere we look.
 
+*Source: Mind Gym by Gary Mack*
+
 ---
 
-Source: Mind Gym by Gary Mack
-
-Back to [[map of content (mindset)]]
+back to [[map of content (mindset)]]

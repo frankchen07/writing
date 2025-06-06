@@ -16,4 +16,4 @@ Perhaps it's overthinking. Make a reaction and follow through.
 
 ---
 
-Back to [[map of content (jiujitsu)]]
+back to [[map of content (jiujitsu)]]

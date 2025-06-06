@@ -10,4 +10,4 @@ I really like the idea of adopting the "fail-opportunity" mindset instead of the
 
 ---
 
-Back to [[map of content (jiujitsu)]]
+back to [[map of content (jiujitsu)]]

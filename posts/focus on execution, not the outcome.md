@@ -6,4 +6,4 @@
 
 ---
 
-Back to [[map of content (mindset)]]
+back to [[map of content (mindset)]]

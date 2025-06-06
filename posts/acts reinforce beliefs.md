@@ -4,9 +4,9 @@
 
 Where you are currently in life is because you acted on what you believed. We experience what we believe and interpret data in a way that confirms our beliefs. 
 
+*Source: Mindset Secrets for Winning by Mark Minervini*
+
 ---
 
-Source: Mindset Secrets for Winning by Mark Minervini
-
-Back to [[map of content (mindset)]]
+back to [[map of content (mindset)]]
 

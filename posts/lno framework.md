@@ -10,8 +10,8 @@ Tasks fall into three categories:
 
 Context is the most important. At any time, a task can be leverage, neutral, or overhead depending on the context, so buyer beware. As with all frameworks, it helps classify and categorize so it makes it more or less apparent when you're working on things that potentially might not matter.
 
+*Source: [Shreyas Doshi on Lenny's Podcast](https://open.spotify.com/episode/46ESEeVyHHA6sWE0AdfzTs?si=8a6cc8cc2f6747d4)*
+
 ---
 
-Source: [Shreyas Doshi on Lenny's Podcast](https://open.spotify.com/episode/46ESEeVyHHA6sWE0AdfzTs?si=8a6cc8cc2f6747d4)
-
-Back to [[map of content (product)]]
+back to [[map of content (product)]]

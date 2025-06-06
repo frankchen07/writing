@@ -21,8 +21,8 @@ If you're finding trouble letting go it's most likely because you're:
 
 "You have to exert energy to get to a more efficient place. It's hard to gas out finishing a round in mount. Set the tempo early in the match." - Andrew Wiltse
 
----
+*Source: Mindset Secrets for Winning by Mark Minervini*
 
-Source: Mindset Secrets for Winning by Mark Minervini
+---
 
 Back to [[map of content (mindset)]]

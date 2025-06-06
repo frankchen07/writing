@@ -11,8 +11,8 @@ Poor self-image is made worse by anchoring mistakes with intense emotion, so loo
 
 Additionally, use positive reinforcement in the training room as a coach.
 
+*Source: Mindset Secrets for Winning by Mark Minervini*
+
 ---
 
-Source: Mindset Secrets for Winning by Mark Minervini
-
-Back to [[map of content (mindset)]]
+back to [[map of content (mindset)]]

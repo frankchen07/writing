@@ -6,8 +6,8 @@ The mind works most effectively when you're telling it what to do rather than wh
 
 However, you need to communicate to your subconscious by using the right language. In this case, it is not words, it is imagery and feeling, combined with non-judgmental observation of how it feels in the present. Imagine fluidly landing the ball ten yards to the right of the pin. Don't think in words when you perform the action. Your body will know.
 
+*Source: Mind Gym by Gary Mack*
+
 ---
 
-Source: Mind Gym by Gary Mack
-
-Back to [[map of content (mindset)]]
+back to [[map of content (mindset)]]

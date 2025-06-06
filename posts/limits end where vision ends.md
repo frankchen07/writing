@@ -4,8 +4,8 @@ Give yourself permission to win. There will alway be people who discount you, pu
 
 You don't need to do that to yourself. Give yourself permission to win. 
 
+*Source: Mind Gym by Gary Mack*
+
 ---
 
-Source: Mind Gym by Gary Mack
-
-Back to [[map of content (mindset)]]
+back to [[map of content (mindset)]]

@@ -18,8 +18,8 @@ Although it is difficult to measure, having a negative self-image hampers the ac
 * identify with champions you like
 * it is me to perform very well in competition
 
+*Source: With Winning in Mind by Lanny Bassham*
+
 ---
 
-Source: With Winning in Mind by Lanny Bassham
-
-Back to [[map of content (mindset)]]
+back to [[map of content (mindset)]]

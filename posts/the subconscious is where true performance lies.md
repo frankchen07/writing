@@ -10,8 +10,8 @@ Improving the conscious elements of your game improves your self-image, and a mo
 
 This is where ultimate performance lies.
 
+*Source: With Winning in Mind by Lanny Bassham. Here's a [summary](https://www.dentonisd.org/cms/lib/tx21000245/centricity/Domain/377/WITH_WINNING_IN_MIND.pdf).*
+
 ---
 
-Source: With Winning in Mind by Lanny Bassham. Here's a [summary](https://www.dentonisd.org/cms/lib/tx21000245/centricity/Domain/377/WITH_WINNING_IN_MIND.pdf).
-
-Back to [[map of content (mindset)]]
+back to [[map of content (mindset)]]

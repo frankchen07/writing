@@ -8,8 +8,8 @@ The process is an incredibly simple one. The important thing is to experience it
 
 It is almost impossible to feel or see anything well if you are thinking about how you should be moving. Instead, the feel-imagery in front of you provides the cues for your subconscious.
 
+*Source: The Inner Game of Tennis by Timothy Gallwey*
+
 ---
 
-Source: The Inner Game of Tennis by Timothy Gallwey
-
-Back to [[map of content (mindset)]]
+back to [[map of content (mindset)]]

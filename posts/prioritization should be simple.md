@@ -20,8 +20,8 @@ Thats it. No data, metrics, quantitative evaluations. This one simple question e
 3. Do you know why they love Twitter?
 4. How does [this acquisition] change the dynamic of the three points above?
 
+*Source: [Shreyas Doshi on Lenny's Podcast](https://open.spotify.com/episode/46ESEeVyHHA6sWE0AdfzTs?si=8a6cc8cc2f6747d4)*
+
 ---
 
-Source: [Shreyas Doshi on Lenny's Podcast](https://open.spotify.com/episode/46ESEeVyHHA6sWE0AdfzTs?si=8a6cc8cc2f6747d4)
-
-Back to [[map of content (product)]]
+back to [[map of content (product)]]

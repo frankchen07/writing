@@ -6,4 +6,4 @@ Look for constant movement in different directions.
 
 ---
 
-Back to [[map of content (jiujitsu)]]
+back to [[map of content (jiujitsu)]]

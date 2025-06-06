@@ -8,8 +8,8 @@ The more you repeat something in your head, the more it becomes true. Your attit
 
 It's a lack of faith that makes people afraid of meeting challenges. To be great you have to believe you're already great. If you don't, pretend that you do. 
 
+*Source: Mind Gym by Gary Mack*
+
 ---
 
-Source: Mind Gym by Gary Mack
-
-Back to [[map of content (mindset)]]
+back to [[map of content (mindset)]]

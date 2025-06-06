@@ -20,6 +20,8 @@ When Mat goes to the gym, he doesn't show up just to get the programmed training
 
 ~ Ben Bergeron
 
+*Source: Chasing Excellence by Ben Bergeron*
+
 ---
 
-Source: Chasing Excellence by Ben Bergeron
+back to [[map of content (mindset)]]

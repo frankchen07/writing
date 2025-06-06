@@ -4,8 +4,8 @@ I currently have a lack of faith in myself because the evidence in the training 
 
 Think of it this way. If the [insert amazing athelete's name here] talked like that to themselves, how good of an athlete do you think he'd be?
 
+*Source: Mind Gym by Gary Mack*
+
 ---
 
-Source: Mind Gym by Gary Mack
-
-Back to [[map of content (mindset)]]
+back to [[map of content (mindset)]]

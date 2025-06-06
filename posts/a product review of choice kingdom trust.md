@@ -76,4 +76,4 @@ While this post seems critical, I'm still using Choice's services for now, as th
 
 ---
 
-Back to [[map of content (product)]]
+back to [[map of content (product)]]

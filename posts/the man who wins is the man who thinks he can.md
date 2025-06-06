@@ -15,8 +15,8 @@ To the stronger or faster man;
 But sooner or later the man who wins
 Is the man who thinks he can.
 
+*Source: Mind Gym by Gary Mack*
+
 ---
 
-Source: Mind Gym by Gary Mack
-
-Back to [[map of content (mindset)]]
+back to [[map of content (mindset)]]

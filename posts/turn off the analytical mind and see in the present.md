@@ -8,8 +8,8 @@ Similarly, "I see the heel, I take the heel." This is the only thing that matter
 
 Lose your analytical mind, and play with what you see in front of you. 
 
+*Source: Mind Gym by Gary Mack*
+
 ---
 
-Source: Mind Gym by Gary Mack
-
-Back to [[map of content (mindset)]]
+back to [[map of content (mindset)]]

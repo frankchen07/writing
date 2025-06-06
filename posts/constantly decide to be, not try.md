@@ -1,3 +1,4 @@
+
 ### constantly decide to be, not try
 
 Decisions are choices and they impact the decisions of our lives. Therefore, being able to make quality decisions that move you towards your goals is extremely important.
@@ -12,8 +13,8 @@ Instead of trying, just be it. You might fail, but consistently to re-decide to 
 2. If you slip up and make mistakes, reframe in a positive way.
 3. Re-commit to being the change you want.
 
+*Source: Mindset Secrets for Winning by Mark Minervini*
+
 ---
 
-Source: Mindset Secrets for Winning by Mark Minervini
-
-Back to [[map of content (mindset)]]
+back to [[map of content (mindset)]]

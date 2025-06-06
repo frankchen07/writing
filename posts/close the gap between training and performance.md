@@ -12,8 +12,8 @@ Practice entails far less perceived pressure than actual competition. In this wa
 
 Many of us begin to think negatively in a competition, high-pressure performance situation, so do a mind audit prior to performing.
 
+*Source: Mindset Secrets for Winning by Mark Minervini*
+
 ---
 
-Source: Mindset Secrets for Winning by Mark Minervini
-
-Back to [[map of content (mindset)]]
+back to [[map of content (mindset)]]

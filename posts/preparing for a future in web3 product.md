@@ -19,4 +19,4 @@ In summary, what does this mean for skill development as product folks delve int
 
 ---
 
-Back to [[map of content (product)]]
+back to [[map of content (product)]]

@@ -21,5 +21,5 @@ Using a similar system for other parts of the game could work as well.
 
 ---
 
-Back to [[map of content (jiujitsu)]]
+back to [[map of content (jiujitsu)]]
 

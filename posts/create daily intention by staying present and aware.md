@@ -8,8 +8,8 @@
 2. Continually check in and see what your mind is saying throughout the day.
 3. Honest reflection and assessment.
 
+*Source: Mindset Secrets for Winning by Mark Minervini*
+
 ---
 
-Source: Mindset Secrets for Winning by Mark Minervini
-
-Back to [[map of content (mindset)]]
+back to [[map of content (mindset)]]

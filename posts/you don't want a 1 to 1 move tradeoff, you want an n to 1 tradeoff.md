@@ -8,4 +8,4 @@ Create this dynamic, and you will stay ahead of your opponent.
 
 ---
 
-Back to [[map of content (jiujitsu)]]
+back to [[map of content (jiujitsu)]]

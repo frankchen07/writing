@@ -18,8 +18,8 @@ When you reach the zone, the "void" so they speak, you hit things you didn't eve
 
 In the end, you still need to put in the work. You need to take beatings, and be completely obsessed.
 
+*Source: A Fighter's Mind by Sam Sheridan*
+
 ---
 
-Source: A Fighter's Mind by Sam Sheridan
-
-Back to [[map of content (mindset)]]
+back to [[map of content (mindset)]]

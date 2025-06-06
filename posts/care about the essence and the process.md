@@ -16,4 +16,4 @@ Be the first three, leave no doubt.
 
 ---
 
-Back to [[map of content (mindset)]]
+back to [[map of content (mindset)]]

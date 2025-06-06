@@ -12,8 +12,8 @@ The three levels that Shreyas talks about are execution, impact, and optics.
 
 Make sure everyone is talking at the same level. If you are not, then it's time to call it out.
 
+*Source: Shreyas Doshi via Lenny's Podcast*
+
 ---
 
-Source: Shreyas Doshi via Lenny's Podcast
-
-Back to [[map of content (product)]]
+back to [[map of content (product)]]

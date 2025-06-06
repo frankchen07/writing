@@ -10,4 +10,4 @@ Like many meditative concepts, Brian asks us to turn into our fears and the feel
 
 ---
 
-Back to [[map of content (jiujitsu)]]
+back to [[map of content (jiujitsu)]]

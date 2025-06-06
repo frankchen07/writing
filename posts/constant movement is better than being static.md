@@ -14,4 +14,4 @@ If you're thinking it, just fire and figure it out later. At the very least you 
 
 ---
 
-Back to [[map of content (jiujitsu)]]
+back to [[map of content (jiujitsu)]]

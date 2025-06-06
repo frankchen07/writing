@@ -12,8 +12,6 @@ If you're a more savvy user, you might want more security by integrating with a 
 
 The layout was simple and intuitive. There were five options in the bottom navigation bar. Account settings and wallet functions, collectibles, token swap, transaction activity, and application search.
 
-![](phantom-7.png)
-
 1. The top navigation bar held all the expected UI elements - "click" your address to copy, scan a QR code to send funds, and view your account settings. You had the lay of the land to name and rename your wallet, see your address, export your private key, show secret recovery phrase, and remove a wallet.
 2. Collectibles and airdrops were the second tab.
 3. Token swaps were the third tab. I wasn't quite sure why this was handy just yet, but it eventually became a delight later on when purchasing a `.sol` address.
@@ -25,19 +23,13 @@ The layout was simple and intuitive. There were five options in the bottom navig
 Using the application felt "bubbly", crisp, and responsive. It felt like a high-quality application. I trusted what I saw and the overall simplicity played to my preference for minimal applications. There weren't any confusions around the CTAs for each section.
 
 When purchasing my `.sol` address through Bonfida, it became immediately apparent why there was a built-in swap function in Phantom. There were 2-3 currency conversions that I had to make in order to buy my address, and the swap function made quick work of that.
-
-![](phantom-4.png)
-
 #### frustrations
 
 There was an "initialization" period of time when I was first using the wallet. There was no clear on-ramp, so I had to buy Solana from a fiat on-ramp, and then transfer it to my wallet. Even after transferring, I wasn't quite sure what to do with my mobile wallet. Actually interacting with a Solana dApp using only the mobile wallet was functionally disconnected. I didn't know where to start, especially with the weird "Google app search" experience.
 
 The Chrome extension relieved me of that frustration, and provided a very similar, if not exact experience. This way, I could explore the Solana ecosystem through my laptop browser, and applications that had integrated with Phantom would prompt the Chrome extension. This was a much better and predictable experience. Perhaps I preferred a larger screen too.
 
-![](phantom-8.png)
-
 However, this left it so that I was performing the majority of my  `.sol` address purchasing experience in my browser, and really leaving the mobile wallet as an "after the fact" kind of showcase. This meant that the wallet wasn't providing much value except knowing that the Chrome extension and mobile wallet were synced.
-
 #### recap, gotchas, expectations
 
 The good:
@@ -67,3 +59,7 @@ So, what are the biggest barriers to making a smooth wallet experience?
 1. Fiat on-ramps - most wallets aren't order books. I had to go to Coinbase to fund my Phantom wallet. I couldn't transfer my assets for a period of time, and so "getting started" actually took a couple of a days. Even if I had used a decentralized exchange, "getting started" now means I needed prior knowledge to actually get started.
 2. Identity - depending on the application that's being accessed, wallets are a form of identity. Different applications have varying levels of identification. Maybe you're looking to use the wallet as a burner, instead of "making it your own" and associating it to a readable `.sol` address and amassing collectibles. Because Phantom had a collectibles section, it's assumed that users would be more likely to "make it their own", but it's perfectly possible to keep generating burner addresses as well. I take pride in having a `.sol` name, as an example, and I would want to interact with dApps using that named identity.
 3. Mobile integration of applications - I haven't seen a good experience yet connecting a mobile dApp to a wallet on a mobile phone. The screen is too small, and copying addresses from the wallet to the dApp and back leaves room for error. The Phantom app search left me yearning for more. There's definitely potential there.
+
+---
+
+back to [[map of content (product)]]

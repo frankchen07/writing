@@ -8,8 +8,8 @@ Don't try too hard and just observe the movement process without exercising cont
 
 If I try to make myself relax, true relaxation vanishes, and in its place is a strange phenomenon of "trying to relax". Relaxation happens only when allowed, not as a result of "trying" or "making".
 
+*Source: The Inner Game of Tennis by Timothy Gallwey*
+
 ---
 
-Source: The Inner Game of Tennis by Timothy Gallwey
-
-Back to [[map of content (mindset)]]
+back to [[map of content (mindset)]]

@@ -12,4 +12,4 @@ As a mindset, your ideal desire is to express your purest jiujitsu.
 
 ---
 
-Back to [[map of content (jiujitsu)]]
+back to [[map of content (jiujitsu)]]

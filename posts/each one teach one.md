@@ -10,4 +10,4 @@ Sure, if you wanted to sell instructionals, it helps if you have competitive acc
 
 ---
 
-Back to [[map of content (jiujitsu)]]
+back to [[map of content (jiujitsu)]]

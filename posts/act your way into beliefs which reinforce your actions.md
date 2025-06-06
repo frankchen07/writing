@@ -1,3 +1,4 @@
+
 ### act your way into beliefs which reinforce your actions
 
 Confidence is a wonderful thing to have, but if you find yourself overcome with fear, self-doubt, or uncertainty, then [let your behavior drive your beliefs](https://jamesclear.com/kasparov-confidence) . Play as if you're at your best. Work as if you're on top of your game. Talk to that person as if you're feeling confident. You can use bold actions to trigger a bold mindset.
@@ -8,8 +9,8 @@ If you truly do not yet believe in your self image, then act your way into the b
 
 In many areas of life, a confident mental attitude is almost as important for success as luck and cheating. You've got to believe you can make the shot, that you will make it. At the moment of truth there is no room for pessimism. Once you allow yourself to start worrying about the difficulty, your chances, how bad you look, how embarrassing it would be, well, that exquisite machine you've been fine-tuning is almost sure to belch, backfire, and run off the tracks.
 
+*Source: With Winning in Mind by Lanny Bassham*
+
 ---
 
-Source: With Winning in Mind by Lanny Bassham
-
-Back to [[map of content (mindset)]]
+back to [[map of content (mindset)]]

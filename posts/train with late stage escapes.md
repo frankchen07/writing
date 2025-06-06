@@ -8,4 +8,4 @@ Find partners who are willing to play this game with you.
 
 ---
 
-Back to [[map of content (jiujitsu)]]
+back to [[map of content (jiujitsu)]]

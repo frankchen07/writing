@@ -23,9 +23,9 @@ Set smart goals.
 9. Don't be afraid to modify your goals. If you suffer an injury, you may have to lower your goal if it relies on physical performance. If you are achieving goals too easily, you may have to adjust them and make your goals more challenging.
 10. Divide your goals into three categories: process (the way you are going to tackle them), performance (the progress you're making), and outcome (the results you're achieving).
 
+*Source: Mindset Secrets for Winning by Mark Minervini*
+
 ---
 
-Source: Mindset Secrets for Winning by Mark Minervini
-
-Back to [[map of content (mindset)]]
+back to [[map of content (mindset)]]
 

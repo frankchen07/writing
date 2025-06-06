@@ -17,11 +17,11 @@ In order to build this expectancy:
 * ensure your commitment is on par with your expectancy
 * enjoy the present process
 
+*Source: Mindset Secrets for Winning by Mark Minervini*
+
 ---
 
-Source: Mindset Secrets for Winning by Mark Minervini
-
-Back to [[map of content (mindset)]]
+back to [[map of content (mindset)]]
 
 
 

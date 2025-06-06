@@ -6,8 +6,8 @@ People with inner excellence look at competition as a challenge. They are motiva
 
 I'm here to tell you that a champion is someone who has fallen off the horse a dozen times and gotten back on the horse a dozen times. Successful people never give up.
 
+*Source: Mind Gym by Gary Mack*
+
 ---
 
-Source: Mind Gym by Gary Mack
-
-Back to [[map of content (mindset)]]
+back to [[map of content (mindset)]]

@@ -10,4 +10,4 @@ Are you marking or grabbing? Grabbing, while stronger, can inhibit movement. Mar
 
 ---
 
-Back to [[map of content (jiujitsu)]]
+back to [[map of content (jiujitsu)]]

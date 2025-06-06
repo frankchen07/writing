@@ -16,4 +16,4 @@ That application of strength is multiplied by important concepts such as inside 
 
 ---
 
-Back to [[map of content (jiujitsu)]]
+back to [[map of content (jiujitsu)]]

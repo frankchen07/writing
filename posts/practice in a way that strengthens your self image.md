@@ -8,8 +8,8 @@ Position your practice so that your mind is exposed more to positive time than n
 
 During practice, [[the mind responds better to positive commands rather than negative ones]]. Instead of focusing on "not fucking up when in this position", which is focusing on the problem, you focus on the solution "just transition the move into this position", which is a positive spin.
 
+*Source: Mindset Secrets for Winning by Mark Minervini*
+
 ---
 
-Source: Mindset Secrets for Winning by Mark Minervini
-
-Back to [[map of content (mindset)]]
+back to [[map of content (mindset)]]

@@ -20,4 +20,4 @@ In the current moment, just focus on the next track necessary. "I don't know whe
 
 ---
 
-Back to [[map of content (mindset)]]
+back to [[map of content (mindset)]]

@@ -41,6 +41,6 @@ This is a set of notes from an IBBJF rules seminar that was held at Caio Terra A
 
 ---
 
-Back to [[map of content (jiujitsu)]]
+back to [[map of content (jiujitsu)]]
 
 

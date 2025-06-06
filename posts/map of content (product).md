@@ -56,7 +56,8 @@ Here you'll find some thoughts revolving around the core tenants of product mana
 
 I've been putting together a [[comprehensive product framework]] that helps combine a bunch of questions that could be considered to generate interesting directions for any product question. This is currently in progress.
 
-### work in progress
+### uncategorized snippets
+
 - [[straightforward roadmapping]]
 - [[comprehensive product framework]]
 - [[first principles product thinking]]

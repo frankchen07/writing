@@ -107,7 +107,6 @@ I attended the 2022 ADCC World Championships in Las Vegas. I wrote up some obser
 - [[jiujitsu ecological distillations]]
 - [[stretching & strength]]
 - [[jiujitsu accomplishments]]
-
 - [[there is always something to learn regardless of your rank]]
 - [[what has worked for me may not work for you so trust and verify]]
 - [[intentionality and constraint are necessary tools]]
@@ -116,8 +115,6 @@ I attended the 2022 ADCC World Championships in Las Vegas. I wrote up some obser
 - [[how is jiujitsu done]]
 - [[teaching templates for understanding the why]]
 - [[examples of the ecological method of teaching]]
-
 - [[one of the key levers for great competitors is that they have access to the repertoire they exhibit in a training situation at greater magnitudes of effort despite competitive pressure]]
-
 - [[creating set ups is mastering the art of distraction and also complete awareness]]
 

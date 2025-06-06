@@ -4,4 +4,4 @@ Always be looking for opportunities that your opponent gives you. The best time 
 
 ---
 
-Back to [[map of content (jiujitsu)]]
+back to [[map of content (jiujitsu)]]

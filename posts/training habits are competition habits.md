@@ -12,4 +12,4 @@ If you can get up, get up. If you can shoot, shoot. If you can turtle, turtle. I
 
 ---
 
-Back to [[map of content (jiujitsu)]]
+back to [[map of content (jiujitsu)]]

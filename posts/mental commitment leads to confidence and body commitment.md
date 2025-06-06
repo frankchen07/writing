@@ -6,8 +6,8 @@ Put your mind in the bicep. Put your mind in the body and move from the thinking
 
 Confidence is knowing what to do when you don't know what to do.
 
+*Source: Mind Gym by Gary Mack*
+
 ---
 
-Source: Mind Gym by Gary Mack
-
-Back to [[map of content (mindset)]]
+back to [[map of content (mindset)]]

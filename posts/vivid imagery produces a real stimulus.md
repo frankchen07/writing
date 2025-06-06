@@ -8,3 +8,7 @@ Use vivid imagery when imagining the high pressure situations you eventually wil
 
 Use this conscious language to speak to your unconscious, but when it's time to perform, let your unconscious come out.
 
+---
+
+back to [[map of content (mindset)]]
+

@@ -4,8 +4,8 @@ Pressure is in the brain of the beholder. Learn to view pressure as a challenge 
 
 Don't analyze, just observe what is, and respond in a way that moves you towards your self-image. 
 
+*Source: Mind Gym by Gary Mack*
+
 ---
 
-Source: Mind Gym by Gary Mack
-
-Back to [[map of content (mindset)]]
+back to [[map of content (mindset)]]

@@ -7,7 +7,6 @@ Product sense is the skill of consistently being able to craft products that hav
 3. learning from other great product thinkers
 
 ---
-
 #### observation
 
 During observation, assess if the user is understanding what it is they're looking at. Get their thoughts right there, in the moment.
@@ -21,7 +20,6 @@ During observation, assess if the user is understanding what it is they're looki
 7. Where were they delighted?
 
 ---
-
 #### running your own product deconstructions
 
 You can run deconstructions of various products by answering some of these questions and comparing them between products:
@@ -37,7 +35,6 @@ Some of the product design choices become more salient and it's easier to get hi
 Observe your own frustrations and delights!
 
 ---
-
 #### jules walter
 
 Here are some of the observations from [Jules Walter](https://www.lennysnewsletter.com/p/product-sense) of Slack fame when empathizing with users:
@@ -48,8 +45,8 @@ Here are some of the observations from [Jules Walter](https://www.lennysnewslett
 4. Context impacts decisions. Use tools like comparisons, contrasting, and social proof to make it easier for users to make a decision.
 5. Make sure the goal of your product and possible actions are clear to users. What's the fucking point?
 
+*Source: Jules Walter via Lenny's Newsletter*
+
 ---
 
-Source: Jules Walter via Lenny's Newsletter
-
-Back to [[map of content (product)]]
+back to [[map of content (product)]]

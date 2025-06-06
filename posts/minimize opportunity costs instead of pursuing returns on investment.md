@@ -16,8 +16,8 @@ Shreyas reinforces this during planning by coming down with categories on how he
 - 30% standard "ROI" incremental improvements
 - 10% stability and infrastructure
 
+*Source: [Shreyas Doshi on Lenny's Podcast](https://open.spotify.com/episode/46ESEeVyHHA6sWE0AdfzTs?si=8a6cc8cc2f6747d4)*
+
 ---
 
-Source: [Shreyas Doshi on Lenny's Podcast](https://open.spotify.com/episode/46ESEeVyHHA6sWE0AdfzTs?si=8a6cc8cc2f6747d4)
-
-Back to [[map of content (product)]]
+back to [[map of content (product)]]

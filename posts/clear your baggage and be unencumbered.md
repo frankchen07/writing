@@ -6,8 +6,8 @@ Well, now I'm going to say the same thing to you, Lakshmi ... Lightly, my darlin
 
 So throw away all your baggage and go forward. There are quicksands all about you, sucking at your feet, trying to suck you down into fear and self-pity and despair. That's why you must walk so lightly. Lightly, my darling. On tiptoes; and no luggage, not even a sponge bag. Completely unencumbered."
 
+*Source: Island by Aldous Huxley*
+
 ---
 
-Source: Island by Aldous Huxley
-
-Back to [[map of content (mindset)]]
+back to [[map of content (mindset)]]

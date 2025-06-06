@@ -10,4 +10,4 @@ Playing in this manner means you're always pushing the boundaries, you're pushin
 
 ---
 
-Back to [[map of content (jiujitsu)]]
+back to [[map of content (jiujitsu)]]

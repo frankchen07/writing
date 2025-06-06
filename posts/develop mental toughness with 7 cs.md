@@ -1,3 +1,4 @@
+
 ### develop mental toughness with 7 Cs
 
 - Competitive - Competitors take bad breaks and use them to drive themselves just that much harder. Quitters take bad breaks and use them as reasons to give up.
@@ -14,8 +15,8 @@
 
 * Consistency - Athletes who stick with a schedule do so through good times and bad.
 
+*Source: Mind Gym by Gary Mack*
+
 ---
 
-Source: Mind Gym by Gary Mack
-
-Back to [[map of content (mindset)]]
+back to [[map of content (mindset)]]

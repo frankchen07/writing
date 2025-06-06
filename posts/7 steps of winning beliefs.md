@@ -1,3 +1,4 @@
+
 ### 7 steps of winning beliefs
 
 1. Winning is a choice.
@@ -8,8 +9,8 @@
 6.  Everything that was ever made was made by people just like you, you can do the same and better.
 7. It's never too late to be the person you want to be.
 
+*Source: Mindset Secrets for Winning by Mark Minervini*
+
 ---
 
-Source: Mindset Secrets for Winning by Mark Minervini
-
-Back to [[map of content (mindset)]]
+back to [[map of content (mindset)]]

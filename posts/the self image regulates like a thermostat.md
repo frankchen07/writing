@@ -12,11 +12,11 @@ So, if you want to be warmer, your thermostat needs to be set warmer, and your s
 
 Champions held their winning beliefs before they become champions, and that's why they succeeded.
 
+*Source: Mindset Secrets for Winning by Mark Minervini*
+
 ---
 
-Source: Mindset Secrets for Winning by Mark Minervini
-
-Back to [[map of content (mindset)]]
+back to [[map of content (mindset)]]
 
 
 

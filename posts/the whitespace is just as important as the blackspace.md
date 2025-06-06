@@ -10,4 +10,4 @@ So, defense AND pins are all about taking up the whitespace between two players.
 
 ---
 
-Back to [[map of content (jiujitsu)]]
+back to [[map of content (jiujitsu)]]

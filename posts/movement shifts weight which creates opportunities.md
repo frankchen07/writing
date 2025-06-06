@@ -6,4 +6,4 @@ Contrasted with when a limb has weight, it is difficult to move.
 
 ---
 
-Back to [[map of content (jiujitsu)]]
+back to [[map of content (jiujitsu)]]
