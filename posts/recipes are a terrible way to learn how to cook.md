@@ -52,4 +52,4 @@ So how do you learn from a recipe? I'll break that down for you in the next post
 
 ---
 
-Back to [[map of content (cooking)]]
+back to [[map of content (cooking)]]

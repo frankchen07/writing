@@ -29,3 +29,7 @@ Just thinking about cake gets you nowhere. Getting only part of a cake (frosting
 4. Review that slice of cake. What did you like? What did you not like? How would you do it differently next time? What else is like this cake that you would similarly eat? Let's go find it.
 
 I've probably beat this analogy to death already, but unless you embark on the process of procuring and eating a slice of "cake", all your hypotheses, hand-wringing, and worries mean nothing. Go forth and experiment. Also, stay tuned for the next story. It involves duck legs.
+
+---
+
+back to [[working at a 2 michelin star restaurant]]

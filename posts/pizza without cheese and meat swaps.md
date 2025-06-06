@@ -39,4 +39,4 @@ Life cycles in the grey areas. Pick your tradeoff for the day and understand you
 
 ---
 
-Back to [[map of content (cooking)]]
+back to [[map of content (cooking)]]

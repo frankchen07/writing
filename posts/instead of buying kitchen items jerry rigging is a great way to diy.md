@@ -32,4 +32,4 @@ Anyway, here's how you do it. Put a oiled corn tortilla on a cast iron pan, chee
 
 ---
 
-Back to [[map of content (cooking)]]
+back to [[map of content (cooking)]]

@@ -121,4 +121,4 @@ There were always tradeoffs as well with regards to what could have been done pr
 
 ---
 
-Back to [[map of content (cooking)]]
+back to [[map of content (cooking)]]

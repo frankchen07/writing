@@ -84,4 +84,4 @@ This way of organizing my cooking is what gets me excited about it. It reduces c
 
 ---
 
-Back to [[map of content (cooking)]]
+back to [[map of content (cooking)]]

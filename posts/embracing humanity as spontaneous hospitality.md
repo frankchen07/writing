@@ -1,3 +1,5 @@
+### embracing humanity as spontaneous hospitality
+
 Embracing humanity and sticking to tradition can generate surprise in hospitality.
 
 I recently had a lunchtime meal in France at a small, traditional Lyonnaise bouchon.
@@ -13,3 +15,7 @@ As we enjoyed our lunch, I noticed there were zero turns at lunch service. I sur
 This unexpected, uncommon service shook up my traditional definition of hospitality. At the same time, there was a sense of sadness as I realized that perhaps this establishment was just the outlier. Physical menus are generally pretty standard, and I can also see the case where you just want to be left alone for most of your meal. 
 
 It's my hope that we see a revitalization of "more humanity" within the hospitality industry. It sounds obvious, but taken to the next level, it can really make an experience.
+
+---
+
+back to [[map of content (cooking)]]

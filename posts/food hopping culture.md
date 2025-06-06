@@ -23,3 +23,7 @@ Concerned about turnover and how much the bill is generally leads to bad outcome
 In a way, if a restaurant is focused on the right things, then the snacking thing isn't an issue. I'm still experiencing some of the art, and the fact that an a la carte option exists tells me that's an experience that was intended.
 
 And because those options existed, I had a great time without feeling pressure (except from my own overanalyzing mind). So, a great "product" experience overall, because someone focused on content and service.
+
+---
+
+back to [[working at a 2 michelin star restaurant]]

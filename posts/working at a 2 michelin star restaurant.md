@@ -23,3 +23,7 @@ Some other thoughts related to my time interning:
 
 - [[food waste at restaurants]] / [original tweet thread](https://twitter.com/frankchen07/status/1554516162876059648)
 - [[food hopping culture]] / [original tweet thread](https://twitter.com/frankchen07/status/1568628376189161472)
+
+---
+
+back to [[map of content (cooking)]]

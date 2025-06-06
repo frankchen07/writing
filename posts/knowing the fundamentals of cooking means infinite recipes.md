@@ -32,4 +32,4 @@ Time and place for everything though. I do enjoy making things like fresh egg pa
 
 ---
 
-Back to [[map of content (cooking)]]
+back to [[map of content (cooking)]]

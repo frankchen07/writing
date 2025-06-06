@@ -21,3 +21,7 @@ Or is it to reinforce the the fact that "taking" food, even if saving it, is dis
 Perhaps it's something simpler, like there just aren't enough containers to go around to save all the leftovers. Seems less likely though, especially since containers come so cheap.
 
 What am I missing?
+
+---
+
+back to [[working at a 2 michelin star restaurant]]

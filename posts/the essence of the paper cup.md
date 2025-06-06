@@ -36,4 +36,4 @@ Depending on the place though, the quadruple cortado is still slightly too sour.
 
 ---
 
-Back to [[map of content (cooking)]]
+back to [[map of content (cooking)]]
