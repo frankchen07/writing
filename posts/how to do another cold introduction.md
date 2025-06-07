@@ -23,4 +23,4 @@ There are a couple of elements to getting a response.
 
 ---
 
-Back to [[map of content (scripts)]]
+back to [[map of content (scripts)]]

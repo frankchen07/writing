@@ -50,4 +50,4 @@ Pat yourself on the back for connecting two people in your network. You can foll
 
 ---
 
-Back to [[map of content (scripts)]]
+back to [[map of content (scripts)]]

@@ -34,4 +34,4 @@ Also, it'll only get read if you send it.
 
 ---
 
-Back to [[map of content (scripts)]]
+back to [[map of content (scripts)]]

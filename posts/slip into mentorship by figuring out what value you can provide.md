@@ -30,4 +30,4 @@ It doesn't even need to be super long. It could literally be shortened down to t
 
 ---
 
-Back to [[map of content (scripts)]]
+back to [[map of content (scripts)]]

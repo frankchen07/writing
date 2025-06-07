@@ -24,5 +24,5 @@ Compelling story or not, always be curious and interested in the other person. T
 
 ---
 
-Back to [[map of content (scripts)]]
+back to [[map of content (scripts)]]
 

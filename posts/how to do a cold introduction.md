@@ -44,4 +44,4 @@ In this particular cold introduction, I get to the point as quick as I can.
 
 ---
 
-Back to [[map of content (scripts)]]
+back to [[map of content (scripts)]]

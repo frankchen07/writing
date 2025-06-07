@@ -97,12 +97,15 @@ As I'm writing this, I'm about to start full-time employment again, but I'm list
 
 I wouldn't go back if I didn't feel right about it. Autopilot off.
 
-For the full post: https://www.frank-chen.com/posts/2022-year-in-review
+[The full post.](https://www.frank-chen.com/posts/2022-year-in-review)
 
 The path continues. Inspirations include:
+- *The Pathless Path by Paul Millerd (@p_millerd)*
+- *Die With Zero by Bill Perkins (@bp22)*
+- *Essentialism by Greg McKeown (@GregoryMckeown)*
+- *The 4 Hour Workweek by Tim Ferriss (@tferriss)*
+- *Heat / Dirt by Bill Buford (@bill_buford)*
 
-The Pathless Path by Paul Millerd (@p_millerd)
-Die With Zero by Bill Perkins (@bp22)
-Essentialism by Greg McKeown (@GregoryMckeown)
-The 4 Hour Workweek by Tim Ferriss (@tferriss)
-Heat / Dirt by Bill Buford (@bill_buford)
+---
+
+back to [[map of content (yearly reviews)]]

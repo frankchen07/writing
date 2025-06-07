@@ -14,5 +14,5 @@ I'll respond as soon as I'm back on my feet again.
 
 ---
 
-Back to [[map of content (scripts)]]
+back to [[map of content (scripts)]]
 

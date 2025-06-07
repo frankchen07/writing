@@ -70,4 +70,4 @@ Summary:
 
 ---
 
-Back to [[map of content (scripts)]]
+back to [[map of content (scripts)]]

@@ -20,4 +20,4 @@ The premise is quite simple. Say hi, quick update, let's set up a call.
 
 ---
 
-Back to [[map of content (scripts)]]
+back to [[map of content (scripts)]]

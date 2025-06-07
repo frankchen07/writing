@@ -162,3 +162,7 @@ I'd like to narrow my focus in 2023 to just several themes.
 - I've enjoyed writing in public and sharing my journey whenever I can. This will continue. Perhaps I'll try other media as well. 
 
 Above all, be unapologetically yourself. We're all in the process of figuring out who we are. Let's all try and have some fun while we're doing it.
+
+---
+
+back to [[map of content (yearly reviews)]]

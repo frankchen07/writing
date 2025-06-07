@@ -18,4 +18,4 @@ This page will definitely be updated with different sections, since asking quest
 
 ---
 
-Back to [[map of content (scripts)]]
+back to [[map of content (scripts)]]

@@ -16,5 +16,5 @@ It's rather minimal. Most people would add a clause saying "if there is an emerg
 
 ---
 
-Back to [[map of content (scripts)]]
+back to [[map of content (scripts)]]
 

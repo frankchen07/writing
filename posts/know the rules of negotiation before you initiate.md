@@ -50,4 +50,4 @@ Personally, I don't like salary negotiation. Depending on your abilities, you co
 
 ---
 
-Back to [[map of content (scripts)]]
+back to [[map of content (scripts)]]
