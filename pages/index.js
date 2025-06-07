@@ -37,7 +37,7 @@ export default function Home({ allPostsData }) {
         </p>
 
         <p>
-          You can find my thought snippets by descending order below, or use the links in the paragraphs above to heuristically stumble around. Enjoy!
+          You can find my thought snippets below in reverse alphabetical order, or use the links in the paragraphs above to heuristically stumble around. Enjoy!
         </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
