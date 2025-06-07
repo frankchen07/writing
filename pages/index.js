@@ -21,7 +21,7 @@ export default function Home({ allPostsData }) {
         </p>
 
         <p>
-          Lately, I've gravitated towards activities and topics about seeking beauty, mastering crafts, and improving taste. I'm in the process of creating a magazine of essays alongside a published author and trying my hand at ceramics.
+          Lately, I've gravitated towards activities and topics about seeking beauty, mastering crafts, and improving taste. I'm in the process of creating a magazine of essays alongside a published author and trying my hand at ceramics. I'm also tastefully rehauling my wardrobe. 😌
         </p>
 
         <p>
