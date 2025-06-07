@@ -17,7 +17,7 @@ export default function Home({ allPostsData }) {
         </p>
 
         <p>
-          I'm currently on sabbatical. This particular adventure started with living abroad in France in 2024 and has morphed into various experiments to change the shape of my life. You can follow my journey on <a href='https://fronk.substack.com/'>my Substack</a>.
+          I'm currently on sabbatical. This particular adventure started with living abroad in France in 2024 and has morphed into various experiments to change the shape of my life. You can follow my journey on <a href='https://fronk.substack.com/'>my newsletter</a>.
         </p>
 
         <p>
