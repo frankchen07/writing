@@ -17,9 +17,9 @@ export default function Home({ allPostsData }) {
         </p>
 
         <p>
-          I'm currently on sabbatical. This particular adventure started with living abroad in France in 2024 and has morphed into various experiments to change the shape of my life. You can follow along on my <a href='https://fronk.substack.com/'>Substack</a>.
+          I'm currently on sabbatical. This particular adventure started with living abroad in France in 2024 and has morphed into various experiments to change the shape of my life. You can follow my journey on <a href='https://fronk.substack.com/'>my Substack</a>.
         </p>
-        
+
         <p>
           Lately, I've gravitated towards activities and topics about seeking beauty, mastering crafts, and improving taste. I'm in the process of creating a magazine of essays alongside a published author and trying my hand at ceramics.
         </p>
@@ -37,7 +37,7 @@ export default function Home({ allPostsData }) {
         </p>
 
         <p>
-          You can find my snippets by descending order below, or use the links in the paragraphs above to heuristically stumble around. Enjoy!
+          You can find my thought snippets by descending order below, or use the links in the paragraphs above to heuristically stumble around. Enjoy!
         </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
