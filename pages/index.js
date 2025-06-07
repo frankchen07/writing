@@ -17,7 +17,11 @@ export default function Home({ allPostsData }) {
         </p>
 
         <p>
-          I'm currently on sabbatical in 2024. This particular adventure started with living abroad in France and has morphed into various experiments to change the shape of my life. You can follow along on my <a href='https://fronk.substack.com/'>Substack. Lately, I've gravitated towards activities and topics about about seeking beauty, mastering crafts, and improving taste.</a>.
+          I'm currently on sabbatical. This particular adventure started with living abroad in France in 2024 and has morphed into various experiments to change the shape of my life. You can follow along on my <a href='https://fronk.substack.com/'>Substack</a>.
+        </p>
+        
+        <p>
+          Lately, I've gravitated towards activities and topics about seeking beauty, mastering crafts, and improving taste. I'm in the process of creating a magazine of essays alongside a published author and trying my hand at ceramics.
         </p>
 
         <p>
