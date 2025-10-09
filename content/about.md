@@ -1,13 +1,25 @@
-Hey, I'm [Frank](https://www.linkedin.com/in/frankchen07/).
+hey i'm frank
 
-I'm currently on sabbatical. This particular adventure started with living abroad in France in 2024 and has morphed into various experiments to change the shape of my life. You can follow my journey on [my newsletter](https://fronk.substack.com/).
+i'm currently on sabbatical
 
-Lately, I've gravitated towards activities and topics about seeking beauty, mastering crafts, and improving taste. I'm in the process of creating a magazine of essays alongside a published author and trying my hand at ceramics. I'm also tastefully rehauling my wardrobe. 😌
+this adventure started with living abroad in france in 2024 and has morphed into various experiments to change the shape of my life
 
-Just prior, I helped build the foundations of a more private internet with [Aleo](https://provable.com/) and a product to fund Ethereum public goods with [Gitcoin](https://gitcoin.co). In a past life, I played around with numbers as an analyst, but eventually shifted over to telling stories in the realm of [products](https://www.frank-chen.com/posts/map-of-content-(product)).
+you can follow along on at [frank's newsletter](https://fronk.substack.com/)
 
-I do a fuck ton of [jiujitsu](https://www.instagram.com/frankthetankjj/) and consider it an obsession that has altered the way I think about [mindset](https://www.frank-chen.com/posts/map-of-content-(mindset)), [learning, training, and strategy](https://www.frank-chen.com/posts/map-of-content-(jiujitsu)).
+i also do an obscene amount of jiujitsu and consider it an obsession that has altered the way i think about teaching, competing, training, struggling, and learning
 
-I'm into a fair amount of [cooking](https://www.instagram.com/fronkfeeds/) as well. [I did some food science blogging, hosted experimental supper clubs](https://www.frank-chen.com/posts/map-of-content-(cooking)), and [worked at a 2* Michelin restaurant](https://www.frank-chen.com/posts/working-at-a-2-michelin-star-restaurant). The hospitality space continues to inspire me from a technological and cultural standpoint, and continually reminds me to be "unreasonably hospitable" because it keeps us human.
+i share these stories at [longform jiujitsu](https://longformjiujitsu.substack.com)
 
-You can find my thought snippets below in reverse alphabetical order, or use the links in the paragraphs above to heuristically stumble around. Enjoy!
+my latest experiments include [working at a 2* Michelin restaurant](https://fronk.substack.com/p/dont-fuck-with-the-duck)and publishing [a zine of stories and essays](https://pathless.metalabel.com/unwritten?variantId=2) for those rewriting the rules of work and life
+
+if you're still curious, you can [work with me](https://www.linkedin.com/in/frankchen07/) 
+
+my past experiences in crypto, product, and hospitality have taught me to be resourceful, service-oriented, and empathetic towards customers
+
+crypto encouraged me to embrace weirdness and develop persistence alongside innovation
+
+hospitality shuttled my attention to the customer experience and refined my ability to be observant, iterative, and detail-obsessive
+
+i continually strive to integrate these philosophies into everything i do
+
+as for the future, i’m currently continuing my experiments and exploring how my skills play into the world of craft coffee, hospitality tech, and deep technology

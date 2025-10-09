@@ -14,7 +14,7 @@ export default function Layout({ children, home }) {
         <link rel="icon" href="/favicon.ico" />
         <meta
           name="description"
-          content="Frank's working notes."
+          content="frank's website"
         />
         <meta
           property="og:image"
