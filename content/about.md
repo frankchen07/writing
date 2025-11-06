@@ -10,7 +10,7 @@ i do an obscene amount of jiujitsu too and consider it an obsession that has alt
 
 i share these stories at [**longform jiujitsu**](https://longformjiujitsu.substack.com)
 
-i think stories are really important, so i recently [**published a zine of essays**](https://pathless.metalabel.com/unwritten?variantId=2) for those rewriting the rules of work and life
+also, i think stories are really important, so i recently [**published a zine of essays**](https://pathless.metalabel.com/unwritten?variantId=2) for those rewriting the rules of work and life
 
 lastly, i'm also helping to educate folks on [**organizing their personal finances**](mise.money)
 
