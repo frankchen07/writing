@@ -12,6 +12,6 @@ i share these stories at [**longform jiujitsu**](https://longformjiujitsu.substa
 
 also, i think stories are really important, so i recently [**published a zine of essays**](https://pathless.metalabel.com/unwritten?variantId=2) for those rewriting the rules of work and life
 
-lastly, i'm also helping to educate folks on [**organizing their personal finances**](mise.money)
+lastly, i'm also helping to educate folks on [**organizing their personal finances**](https://mise.money)
 
 if you're curious, you can [**look me up on linkedin**](https://www.linkedin.com/in/frankchen07/), [**download my resume**](https://frank-chen.com/resume.pdf), or work with me!
