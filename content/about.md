@@ -14,4 +14,4 @@ also, i think stories are really important, so i recently [**published a zine of
 
 lastly, i'm also helping to educate folks on [**organizing their personal finances**](mise.money)
 
-if you're curious, you can [**look me up on linked in**](https://www.linkedin.com/in/frankchen07/), [**download my resume**](https://frank-chen.com/resume.pdf), or work with me!
+if you're curious, you can [**look me up on linkedin**](https://www.linkedin.com/in/frankchen07/), [**download my resume**](https://frank-chen.com/resume.pdf), or work with me!
