@@ -6,7 +6,7 @@ this adventure started with [**living abroad in france in 2024**](https://fronk.
 
 not too long ago, i broke into hopsitality [**working at 2\* Michelin restaurant Birdsong SF**](https://fronk.substack.com/t/michelin) and am currently obsessed about [**craft coffee**](https://fronk.substack.com/t/coffee) and wheel throwing pottery
 
-i do an obscene amount of jiujitsu too and consider it an obsession that has altered the way i think about teaching, competing, training, struggling, and learning
+i do tons of jiujitsu too and consider it an obsession that has altered the way i think about teaching, competing, training, struggling, and learning
 
 i share these stories at [**longform jiujitsu**](https://longformjiujitsu.substack.com)
 
